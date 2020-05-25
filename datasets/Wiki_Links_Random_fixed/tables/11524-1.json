@@ -1,0 +1,264 @@
+{
+    "sectionTitle": "Definition and conversions",
+    "pgId": 11524,
+    "numDataRows": 4,
+    "_id": "11524-1",
+    "pgTitle": "Fahrenheit",
+    "numericColumns": [],
+    "tableCaption": "Fahrenheit temperature conversion formulae",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> </th>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> from Fahrenheit </th>",
+                "text": "from Fahrenheit",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> to Fahrenheit </th>",
+                "text": "to Fahrenheit",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Celsius\" shape=\"rect\">Celsius</a> </th>",
+                "text": "Celsius",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 19593040,
+                            "title": "Celsius",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Celsius",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> [°C] = ([°F] − 32) × <span> 5⁄9</span> </td>",
+                "text": "[°C]=([°F]−32)× 5⁄9",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> [°F] = [°C] × <span> 9⁄5</span>  + 32 </td>",
+                "text": "[°F]=[°C]× 9⁄5 +32",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Kelvin\" shape=\"rect\">Kelvin</a> </th>",
+                "text": "Kelvin",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 19593121,
+                            "title": "Kelvin",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Kelvin",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> [K] = ([°F] + 459.67) × <span> 5⁄9</span> </td>",
+                "text": "[K]=([°F]+459.67)× 5⁄9",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> [°F] = [K] × <span> 9⁄5</span>  − 459.67 </td>",
+                "text": "[°F]=[K]× 9⁄5 −459.67",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Rankine_scale\" shape=\"rect\">Rankine</a> </th>",
+                "text": "Rankine",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 26132,
+                            "title": "Rankine_scale",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Rankine",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> [°R] = [°F] + 459.67 </td>",
+                "text": "[°R]=[°F]+459.67",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> [°F] = [°R] − 459.67 </td>",
+                "text": "[°F]=[°R]−459.67",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"3\" rowspan=\"1\"> For temperature intervals rather than specific temperatures, 1 °F = 1 °R = <span> 5⁄9</span>  °C = <span> 5⁄9</span>  <span> K</span> <a href=\"http://www.wikipedia.org/wiki/Temperature_conversion_formulas\" shape=\"rect\">Comparisons among various temperature scales</a> </td>",
+                "text": "For temperature intervals rather than specific temperatures, 1°F = 1°R = 5⁄9 °C = 5⁄9 K Comparisons among various temperature scales",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 88,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 878978,
+                            "title": "Temperature_conversion_formulas",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Comparisons among various temperature scales",
+                        "inTemplate": false,
+                        "endOffset": 132,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"3\" rowspan=\"1\"> For temperature intervals rather than specific temperatures, 1 °F = 1 °R = <span> 5⁄9</span>  °C = <span> 5⁄9</span>  <span> K</span> <a href=\"http://www.wikipedia.org/wiki/Temperature_conversion_formulas\" shape=\"rect\">Comparisons among various temperature scales</a> </td>",
+                "text": "For temperature intervals rather than specific temperatures, 1°F = 1°R = 5⁄9 °C = 5⁄9 K Comparisons among various temperature scales",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 88,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 878978,
+                            "title": "Temperature_conversion_formulas",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Comparisons among various temperature scales",
+                        "inTemplate": false,
+                        "endOffset": 132,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"3\" rowspan=\"1\"> For temperature intervals rather than specific temperatures, 1 °F = 1 °R = <span> 5⁄9</span>  °C = <span> 5⁄9</span>  <span> K</span> <a href=\"http://www.wikipedia.org/wiki/Temperature_conversion_formulas\" shape=\"rect\">Comparisons among various temperature scales</a> </td>",
+                "text": "For temperature intervals rather than specific temperatures, 1°F = 1°R = 5⁄9 °C = 5⁄9 K Comparisons among various temperature scales",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 88,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 878978,
+                            "title": "Temperature_conversion_formulas",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Comparisons among various temperature scales",
+                        "inTemplate": false,
+                        "endOffset": 132,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.707981878425926,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

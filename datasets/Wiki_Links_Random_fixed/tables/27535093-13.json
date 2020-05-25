@@ -1,0 +1,109 @@
+{
+    "sectionTitle": "Lost via waivers",
+    "pgId": 27535093,
+    "numDataRows": 1,
+    "_id": "27535093-13",
+    "pgTitle": "2010–11 Edmonton Oilers season",
+    "numericColumns": [],
+    "tableCaption": "Draft picks",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Player </td>",
+                "text": "Player",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> New team </td>",
+                "text": "New team",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Date claimed off waivers </td>",
+                "text": "Date claimed off waivers",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 13,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Ethan_Moreau\" shape=\"rect\">Ethan Moreau</a> </td>",
+                "text": "Ethan Moreau",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2437870,
+                            "title": "Ethan_Moreau",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ethan Moreau",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/2010-11_Columbus_Blue_Jackets_season\" shape=\"rect\">Columbus Blue Jackets</a> </td>",
+                "text": "Columbus Blue Jackets",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27534872,
+                            "title": "2010-11_Columbus_Blue_Jackets_season",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Columbus Blue Jackets",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> June 30, 2010 </td>",
+                "text": "June 30, 2010",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.1784270503558218,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

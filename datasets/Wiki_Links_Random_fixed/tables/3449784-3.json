@@ -1,0 +1,126 @@
+{
+    "sectionTitle": "Secondary weaponry",
+    "pgId": 3449784,
+    "numDataRows": 1,
+    "_id": "3449784-3",
+    "pgTitle": "79th Light Anti-Aircraft Battery",
+    "numericColumns": [],
+    "tableCaption": "Secondary weaponry",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 3,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> No.1 Mk.III* <a href=\"http://www.wikipedia.org/wiki/Lee-Enfield\" shape=\"rect\">Lee-Enfield</a> rifle </td>",
+                "text": "No.1 Mk.III* Lee-Enfield rifle",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 144484,
+                            "title": "Lee-Enfield",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Lee-Enfield",
+                        "inTemplate": false,
+                        "endOffset": 24,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/No._69_grenade\" shape=\"rect\">No. 69 grenade</a> </td>",
+                "text": "No. 69 grenade",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1497875,
+                            "title": "No._69_grenade",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "No. 69 grenade",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> .38 <a href=\"http://www.wikipedia.org/wiki/Enfield_revolver\" shape=\"rect\">Enfield revolver</a> </td>",
+                "text": ".38 Enfield revolver",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 4,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1983354,
+                            "title": "Enfield_revolver",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Enfield revolver",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.6746824930887669,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

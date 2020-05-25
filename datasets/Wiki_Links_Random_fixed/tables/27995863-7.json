@@ -1,0 +1,131 @@
+{
+    "sectionTitle": "Episode 06: Workshop I - \"Spotlight\"",
+    "pgId": 27995863,
+    "numDataRows": 3,
+    "_id": "27995863-7",
+    "pgTitle": "Popstars: Girls forever",
+    "numericColumns": [],
+    "tableCaption": "Episode 06: Workshop I - \"Spotlight\"",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"2\" rowspan=\"1\"> Group 2 </th>",
+                "text": "Group 2",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"2\" rowspan=\"1\"> Group 2 </th>",
+                "text": "Group 2",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 7,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Song </th>",
+                "text": "Song",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \" <a href=\"http://www.wikipedia.org/wiki/Wunder_gescheh'n_(Nena_album)\" shape=\"rect\">Wunder gescheh'n</a>\" </td>",
+                "text": "\" Wunder gescheh'n \"",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 2,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25678090,
+                            "title": "Wunder_gescheh'n_(Nena_album)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Wunder gescheh'n",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Artist </th>",
+                "text": "Artist",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Nena\" shape=\"rect\">Nena</a> </td>",
+                "text": "Nena",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 345742,
+                            "title": "Nena",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Nena",
+                        "inTemplate": false,
+                        "endOffset": 4,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Performers </th>",
+                "text": "Performers",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Claudia, Isabelle, Sarah and Jessy </td>",
+                "text": "Claudia, Isabelle, Sarah and Jessy",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.8952976723667234,
+    "numHeaderRows": 1,
+    "numCols": 2
+}

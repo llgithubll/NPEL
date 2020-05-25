@@ -1,0 +1,536 @@
+{
+    "sectionTitle": "Degree of crystallinity",
+    "pgId": 27535205,
+    "numDataRows": 9,
+    "_id": "27535205-1",
+    "pgTitle": "Crystallization of polymers",
+    "numericColumns": [
+        2,
+        3
+    ],
+    "tableCaption": "Degree of crystallinity (D, %) and densities of crystalline (ρ c ) and amorphous (ρ a , g/cm 3 ) polymers.",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Polymer</th>",
+                "text": "Polymer",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> D </th>",
+                "text": "D",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> ρ c </th>",
+                "text": "ρ c",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> ρ a </th>",
+                "text": "ρ a",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Nylon\" shape=\"rect\">Nylon</a> (PA66 and PA6) </td>",
+                "text": "Nylon (PA66 and PA6)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 21490,
+                            "title": "Nylon",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Nylon",
+                        "inTemplate": false,
+                        "endOffset": 5,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 35–45 </td>",
+                "text": "35–45",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1.24 </td>",
+                "text": "1.24",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1.08 </td>",
+                "text": "1.08",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Polyoxymethylene\" shape=\"rect\">Polyoxymethylene</a> (POM)</td>",
+                "text": "Polyoxymethylene (POM)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1123769,
+                            "title": "Polyoxymethylene",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Polyoxymethylene",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 70–80 </td>",
+                "text": "70–80",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1.54</td>",
+                "text": "1.54",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1.28 </td>",
+                "text": "1.28",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Polyethylene_terephthalate\" shape=\"rect\">Polyethylene terephthalate</a> (PET)</td>",
+                "text": "Polyethylene terephthalate (PET)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 292941,
+                            "title": "Polyethylene_terephthalate",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Polyethylene terephthalate",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 30–40</td>",
+                "text": "30–40",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1.50</td>",
+                "text": "1.50",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1.33 </td>",
+                "text": "1.33",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Polybutylene_terephthalate\" shape=\"rect\">Polybutylene terephthalate</a> (PBT)</td>",
+                "text": "Polybutylene terephthalate (PBT)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 732152,
+                            "title": "Polybutylene_terephthalate",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Polybutylene terephthalate",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 40–50 </td>",
+                "text": "40–50",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> – </td>",
+                "text": "–",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> – </td>",
+                "text": "–",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Polytetrafluoroethylene\" shape=\"rect\">Polytetrafluoroethylene</a> (PTFE) </td>",
+                "text": "Polytetrafluoroethylene (PTFE)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 30791,
+                            "title": "Polytetrafluoroethylene",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Polytetrafluoroethylene",
+                        "inTemplate": false,
+                        "endOffset": 23,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 60–80</td>",
+                "text": "60–80",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2.35</td>",
+                "text": "2.35",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2.00 </td>",
+                "text": "2.00",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> isotactic <a href=\"http://www.wikipedia.org/wiki/Polypropylene\" shape=\"rect\">polypropylene</a> </td>",
+                "text": "isotactic polypropylene",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 201689,
+                            "title": "Polypropylene",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "polypropylene",
+                        "inTemplate": false,
+                        "endOffset": 23,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 70–80 </td>",
+                "text": "70–80",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0.95 </td>",
+                "text": "0.95",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0.85 </td>",
+                "text": "0.85",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> atactic polypropylene</td>",
+                "text": "atactic polypropylene",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> ~0 </td>",
+                "text": "~0",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> – </td>",
+                "text": "–",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> – </td>",
+                "text": "–",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/High-density_polyethylene\" shape=\"rect\">High-density polyethylene</a> </td>",
+                "text": "High-density polyethylene",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1911597,
+                            "title": "High-density_polyethylene",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "High-density polyethylene",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 70–80 </td>",
+                "text": "70–80",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1.0 </td>",
+                "text": "1.0",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0.85 </td>",
+                "text": "0.85",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Low-density_polyethylene\" shape=\"rect\">Low-density polyethylene</a> </td>",
+                "text": "Low-density polyethylene",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2138217,
+                            "title": "Low-density_polyethylene",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Low-density polyethylene",
+                        "inTemplate": false,
+                        "endOffset": 24,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 45–55 </td>",
+                "text": "45–55",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1.0 </td>",
+                "text": "1.0",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0.85 </td>",
+                "text": "0.85",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.3951900121755898,
+    "numHeaderRows": 1,
+    "numCols": 4
+}

@@ -1,0 +1,166 @@
+{
+    "sectionTitle": "Charts",
+    "pgId": 20692230,
+    "numDataRows": 3,
+    "_id": "20692230-3",
+    "pgTitle": "Ouest Side",
+    "numericColumns": [
+        1
+    ],
+    "tableCaption": "Charts",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Chart </th>",
+                "text": "Chart",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Peak position </th>",
+                "text": "Peak position",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 3,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Belgium\" shape=\"rect\">Belgian</a> ( <a href=\"http://www.wikipedia.org/wiki/Wallonia\" shape=\"rect\">Wallonia</a>) Albums Chart </td>",
+                "text": "Belgian ( Wallonia ) Albums Chart",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3343,
+                            "title": "Belgium",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Belgian",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 99721,
+                            "title": "Wallonia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Wallonia",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 12 </td>",
+                "text": "12",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/France\" shape=\"rect\">French</a> Albums Chart </td>",
+                "text": "French Albums Chart",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5843419,
+                            "title": "France",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "French",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1 </td>",
+                "text": "1",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Switzerland\" shape=\"rect\">Swiss</a> Albums Chart </td>",
+                "text": "Swiss Albums Chart",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 26748,
+                            "title": "Switzerland",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Swiss",
+                        "inTemplate": false,
+                        "endOffset": 5,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 18 </td>",
+                "text": "18",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.2921797912567854,
+    "numHeaderRows": 1,
+    "numCols": 2
+}

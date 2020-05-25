@@ -1,0 +1,405 @@
+{
+    "sectionTitle": "Passenger services",
+    "pgId": 35941787,
+    "numDataRows": 3,
+    "_id": "35941787-2",
+    "pgTitle": "Koblenz-Lützel station",
+    "numericColumns": [],
+    "tableCaption": "Passenger services",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Preceding station </th>",
+                "text": "Preceding station",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\">   </th>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Trans_regio\" shape=\"rect\">trans regio</a> </th>",
+                "text": "trans regio",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Trans_regio",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "trans regio",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\">   </th>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Following station </th>",
+                "text": "Following station",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 2,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <div> \n       <a href=\"http://www.wikipedia.org/wiki/Urmitz_station\" shape=\"rect\">Urmitz</a> \n      </div> \n      <div>\n        toward  \n       <a href=\"http://www.wikipedia.org/wiki/Köln_Messe/Deutz_station\" shape=\"rect\">Köln Messe/Deutz</a> \n      </div> </td>",
+                "text": "Urmitz toward Köln Messe/Deutz",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Urmitz_station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Urmitz",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/MRB26_Rheinland-Pfalz\" shape=\"rect\">MRB 26</a> <a href=\"http://www.wikipedia.org/wiki/MittelRheinBahn\" shape=\"rect\">MittelRheinBahn</a></td>",
+                "text": "MRB 26 MittelRheinBahn",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 39360734,
+                            "title": "MRB26_Rheinland-Pfalz",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "MRB 26",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 7,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9718815,
+                            "title": "MittelRheinBahn",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "MittelRheinBahn",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <div> \n       <a href=\"http://www.wikipedia.org/wiki/Koblenz-Stadtmitte_station\" shape=\"rect\">Koblenz-Stadtmitte</a> \n      </div> \n      <div>\n        toward  \n       <a href=\"http://www.wikipedia.org/wiki/Koblenz_station\" shape=\"rect\">Koblenz</a> \n      </div> </td>",
+                "text": "Koblenz-Stadtmitte toward Koblenz",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 31582686,
+                            "title": "Koblenz-Stadtmitte_station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Koblenz-Stadtmitte",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 26,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 34432295,
+                            "title": "Koblenz_station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Koblenz",
+                        "inTemplate": false,
+                        "endOffset": 33,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Preceding station </th>",
+                "text": "Preceding station",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\">   </th>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Deutsche_Bahn\" shape=\"rect\">Deutsche Bahn</a> </th>",
+                "text": "Deutsche Bahn",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 172065,
+                            "title": "Deutsche_Bahn",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Deutsche Bahn",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\">   </th>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Following station </th>",
+                "text": "Following station",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <div> \n       <a href=\"http://www.wikipedia.org/wiki/Urmitz_Rheinbrücke_station\" shape=\"rect\">Urmitz Rheinbrücke</a> \n      </div> \n      <div>\n        toward  \n       <a href=\"http://www.wikipedia.org/wiki/Mönchengladbach_station\" shape=\"rect\">Mönchengladbach</a> \n      </div> </td>",
+                "text": "Urmitz Rheinbrücke toward Mönchengladbach",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 13004647,
+                            "title": "Urmitz_Rheinbrücke_station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Urmitz Rheinbrücke",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 26,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Mönchengladbach_station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Mönchengladbach",
+                        "inTemplate": false,
+                        "endOffset": 41,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/List_of_regional_rail_lines_in_North_Rhine-Westphalia\" shape=\"rect\">RB 27</a> Rhein-Erft-Bahn</td>",
+                "text": "RB 27 Rhein-Erft-Bahn",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25501374,
+                            "title": "List_of_regional_rail_lines_in_North_Rhine-Westphalia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "RB 27",
+                        "inTemplate": false,
+                        "endOffset": 5,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <div> \n       <a href=\"http://www.wikipedia.org/wiki/Koblenz-Stadtmitte_station\" shape=\"rect\">Koblenz-Stadtmitte</a> \n      </div> \n      <div>\n        toward  \n       <a href=\"http://www.wikipedia.org/wiki/Koblenz_station\" shape=\"rect\">Koblenz</a> \n      </div> </td>",
+                "text": "Koblenz-Stadtmitte toward Koblenz",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 31582686,
+                            "title": "Koblenz-Stadtmitte_station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Koblenz-Stadtmitte",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 26,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 34432295,
+                            "title": "Koblenz_station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Koblenz",
+                        "inTemplate": false,
+                        "endOffset": 33,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.6502248588949442,
+    "numHeaderRows": 1,
+    "numCols": 5
+}

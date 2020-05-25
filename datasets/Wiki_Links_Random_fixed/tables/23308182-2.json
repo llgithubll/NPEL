@@ -1,0 +1,2067 @@
+{
+    "sectionTitle": "Standings",
+    "pgId": 23308182,
+    "numDataRows": 16,
+    "_id": "23308182-2",
+    "pgTitle": "1976 Torneo Descentralizado",
+    "numericColumns": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "tableCaption": "Standings",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Pos </th>",
+                "text": "Pos",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Team </th>",
+                "text": "Team",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Pld </th>",
+                "text": "Pld",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> W </th>",
+                "text": "W",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> D </th>",
+                "text": "D",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> L </th>",
+                "text": "L",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> GF </th>",
+                "text": "GF",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> GA </th>",
+                "text": "GA",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> GD </th>",
+                "text": "GD",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Pts </th>",
+                "text": "Pts",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Qualification or relegation </th>",
+                "text": "Qualification or relegation",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 2,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1 </td>",
+                "text": "1",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Unión_Huaral\" shape=\"rect\">Unión Huaral</a> </td>",
+                "text": "Unión Huaral",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5140368,
+                            "title": "Unión_Huaral",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Unión Huaral",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 30 </td>",
+                "text": "30",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 15 </td>",
+                "text": "15",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 9 </td>",
+                "text": "9",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 6 </td>",
+                "text": "6",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 44 </td>",
+                "text": "44",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 25</td>",
+                "text": "25",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> +19 </td>",
+                "text": "+19",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 39 </td>",
+                "text": "39",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span style=\"font-size:92.5%;\"> <a href=\"http://www.wikipedia.org/wiki/1977_Copa_Libertadores\" shape=\"rect\">1977 Copa Libertadores</a></span> </td>",
+                "text": "1977 Copa Libertadores",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 19685667,
+                            "title": "1977_Copa_Libertadores",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "1977 Copa Libertadores",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2 </td>",
+                "text": "2",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Sport_Boys\" shape=\"rect\">Sport Boys</a> </td>",
+                "text": "Sport Boys",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5140436,
+                            "title": "Sport_Boys",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Sport Boys",
+                        "inTemplate": false,
+                        "endOffset": 10,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 30 </td>",
+                "text": "30",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 13 </td>",
+                "text": "13",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 13 </td>",
+                "text": "13",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 4 </td>",
+                "text": "4",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 47 </td>",
+                "text": "47",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 32</td>",
+                "text": "32",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> +15 </td>",
+                "text": "+15",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 39 </td>",
+                "text": "39",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span style=\"font-size:92.5%;\"> <a href=\"http://www.wikipedia.org/wiki/1977_Copa_Libertadores\" shape=\"rect\">1977 Copa Libertadores</a></span> </td>",
+                "text": "1977 Copa Libertadores",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 19685667,
+                            "title": "1977_Copa_Libertadores",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "1977 Copa Libertadores",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 3 </td>",
+                "text": "3",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Juan_Aurich\" shape=\"rect\">Juan Aurich</a> </td>",
+                "text": "Juan Aurich",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5141155,
+                            "title": "Juan_Aurich",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Juan Aurich",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 30 </td>",
+                "text": "30",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 13 </td>",
+                "text": "13",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 12 </td>",
+                "text": "12",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 5 </td>",
+                "text": "5",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 41 </td>",
+                "text": "41",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 29</td>",
+                "text": "29",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> +12 </td>",
+                "text": "+12",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 38 </td>",
+                "text": "38",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 4 </td>",
+                "text": "4",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Club_Universitario_de_Deportes\" shape=\"rect\">Universitario</a> </td>",
+                "text": "Universitario",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1232976,
+                            "title": "Club_Universitario_de_Deportes",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Universitario",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 30 </td>",
+                "text": "30",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 13 </td>",
+                "text": "13",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 10 </td>",
+                "text": "10",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 7 </td>",
+                "text": "7",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 41 </td>",
+                "text": "41",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 33</td>",
+                "text": "33",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> +8 </td>",
+                "text": "+8",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 36 </td>",
+                "text": "36",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 5 </td>",
+                "text": "5",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Alianza_Lima\" shape=\"rect\">Alianza Lima</a> </td>",
+                "text": "Alianza Lima",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1232972,
+                            "title": "Alianza_Lima",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Alianza Lima",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 30 </td>",
+                "text": "30",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 11 </td>",
+                "text": "11",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 12 </td>",
+                "text": "12",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 7 </td>",
+                "text": "7",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 51 </td>",
+                "text": "51",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 32</td>",
+                "text": "32",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> +19 </td>",
+                "text": "+19",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 34 </td>",
+                "text": "34",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 6 </td>",
+                "text": "6",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/León_de_Huánuco\" shape=\"rect\">León de Huánuco</a> </td>",
+                "text": "León de Huánuco",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22878049,
+                            "title": "León_de_Huánuco",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "León de Huánuco",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 30 </td>",
+                "text": "30",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 11 </td>",
+                "text": "11",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 11 </td>",
+                "text": "11",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 8 </td>",
+                "text": "8",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 37 </td>",
+                "text": "37",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 29</td>",
+                "text": "29",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> +8 </td>",
+                "text": "+8",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 33 </td>",
+                "text": "33",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 7 </td>",
+                "text": "7",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Sporting_Cristal\" shape=\"rect\">Sporting Cristal</a> </td>",
+                "text": "Sporting Cristal",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1217648,
+                            "title": "Sporting_Cristal",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Sporting Cristal",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 30 </td>",
+                "text": "30",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 9 </td>",
+                "text": "9",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 12 </td>",
+                "text": "12",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 9 </td>",
+                "text": "9",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 28 </td>",
+                "text": "28",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 26</td>",
+                "text": "26",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> +2 </td>",
+                "text": "+2",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 30 </td>",
+                "text": "30",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 8 </td>",
+                "text": "8",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Deportivo_Junín\" shape=\"rect\">Deportivo Junín</a> </td>",
+                "text": "Deportivo Junín",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 24857158,
+                            "title": "Deportivo_Junín",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Deportivo Junín",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 30 </td>",
+                "text": "30",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 10 </td>",
+                "text": "10",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 9 </td>",
+                "text": "9",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 11 </td>",
+                "text": "11",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 39 </td>",
+                "text": "39",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 38</td>",
+                "text": "38",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> +1 </td>",
+                "text": "+1",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 29 </td>",
+                "text": "29",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 9 </td>",
+                "text": "9",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Colegio_Nacional_Iquitos\" shape=\"rect\">Colegio Nacional Iquitos</a> </td>",
+                "text": "Colegio Nacional Iquitos",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 12133286,
+                            "title": "Colegio_Nacional_Iquitos",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Colegio Nacional Iquitos",
+                        "inTemplate": false,
+                        "endOffset": 24,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 30 </td>",
+                "text": "30",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 10 </td>",
+                "text": "10",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 9 </td>",
+                "text": "9",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 11 </td>",
+                "text": "11",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 30 </td>",
+                "text": "30",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 34</td>",
+                "text": "34",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> −4 </td>",
+                "text": "−4",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 29 </td>",
+                "text": "29",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 10 </td>",
+                "text": "10",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/FBC_Melgar\" shape=\"rect\">Melgar</a> </td>",
+                "text": "Melgar",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1604342,
+                            "title": "FBC_Melgar",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Melgar",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 30 </td>",
+                "text": "30",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 10 </td>",
+                "text": "10",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 9 </td>",
+                "text": "9",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 11 </td>",
+                "text": "11",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 45 </td>",
+                "text": "45",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 52</td>",
+                "text": "52",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> −7 </td>",
+                "text": "−7",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 29 </td>",
+                "text": "29",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 11 </td>",
+                "text": "11",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/C.D._Alfonso_Ugarte\" shape=\"rect\">Alfonso Ugarte</a> </td>",
+                "text": "Alfonso Ugarte",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22790051,
+                            "title": "C.D._Alfonso_Ugarte",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Alfonso Ugarte",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 30 </td>",
+                "text": "30",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 10 </td>",
+                "text": "10",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 6 </td>",
+                "text": "6",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 14 </td>",
+                "text": "14",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 46 </td>",
+                "text": "46",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 43</td>",
+                "text": "43",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> +3 </td>",
+                "text": "+3",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 26 </td>",
+                "text": "26",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 12 </td>",
+                "text": "12",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Cienciano\" shape=\"rect\">Cienciano</a> </td>",
+                "text": "Cienciano",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1701411,
+                            "title": "Cienciano",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Cienciano",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 30 </td>",
+                "text": "30",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 7 </td>",
+                "text": "7",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 12 </td>",
+                "text": "12",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 11 </td>",
+                "text": "11",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 36 </td>",
+                "text": "36",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 37</td>",
+                "text": "37",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> −1 </td>",
+                "text": "−1",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 26 </td>",
+                "text": "26",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 13 </td>",
+                "text": "13",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Atlético_Chalaco\" shape=\"rect\">Atletico Chalaco</a> </td>",
+                "text": "Atletico Chalaco",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4163646,
+                            "title": "Atlético_Chalaco",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Atletico Chalaco",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 30 </td>",
+                "text": "30",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 7 </td>",
+                "text": "7",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 12 </td>",
+                "text": "12",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 11 </td>",
+                "text": "11",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 38 </td>",
+                "text": "38",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 52</td>",
+                "text": "52",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> −14 </td>",
+                "text": "−14",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 26 </td>",
+                "text": "26",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 14 </td>",
+                "text": "14",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Defensor_Lima\" shape=\"rect\">Defensor Lima</a> </td>",
+                "text": "Defensor Lima",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22788052,
+                            "title": "Defensor_Lima",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Defensor Lima",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 30 </td>",
+                "text": "30",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 8 </td>",
+                "text": "8",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 10 </td>",
+                "text": "10",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 12 </td>",
+                "text": "12",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 39 </td>",
+                "text": "39",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 57</td>",
+                "text": "57",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> −18 </td>",
+                "text": "−18",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 26 </td>",
+                "text": "26",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 15 </td>",
+                "text": "15",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Deportivo_Municipal\" shape=\"rect\">Deportivo Municipal</a> </td>",
+                "text": "Deportivo Municipal",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 6024348,
+                            "title": "Deportivo_Municipal",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Deportivo Municipal",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 30 </td>",
+                "text": "30",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 5 </td>",
+                "text": "5",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 13 </td>",
+                "text": "13",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 12 </td>",
+                "text": "12",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 34 </td>",
+                "text": "34",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 46</td>",
+                "text": "46",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> −12 </td>",
+                "text": "−12",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 23 </td>",
+                "text": "23",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 16 </td>",
+                "text": "16",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Carlos_A._Mannucci\" shape=\"rect\">Carlos A. Mannucci</a> </td>",
+                "text": "Carlos A. Mannucci",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 6494676,
+                            "title": "Carlos_A._Mannucci",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Carlos A. Mannucci",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 30 </td>",
+                "text": "30",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 7 </td>",
+                "text": "7",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 3 </td>",
+                "text": "3",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 20 </td>",
+                "text": "20",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 34 </td>",
+                "text": "34",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 65</td>",
+                "text": "65",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> −31 </td>",
+                "text": "−31",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 17 </td>",
+                "text": "17",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span style=\"font-size:92.5%;\"> <a href=\"http://www.wikipedia.org/wiki/1977_Copa_Perú\" shape=\"rect\">1977 Copa Perú</a></span> </td>",
+                "text": "1977 Copa Perú",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25148053,
+                            "title": "1977_Copa_Perú",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "1977 Copa Perú",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.5754854653496295,
+    "numHeaderRows": 1,
+    "numCols": 11
+}

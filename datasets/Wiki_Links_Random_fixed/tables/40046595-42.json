@@ -1,0 +1,56 @@
+{
+    "sectionTitle": "Companion books",
+    "pgId": 40046595,
+    "numDataRows": 1,
+    "_id": "40046595-42",
+    "pgTitle": "List of The Idolmaster media",
+    "numericColumns": [],
+    "tableCaption": "",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 42,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Notes Published by <a href=\"http://www.wikipedia.org/wiki/Ichijinsha\" shape=\"rect\">Ichijinsha</a> A guide for the arcade version of The Idolmaster </td>",
+                "text": "Notes Published by Ichijinsha A guide for the arcade version of The Idolmaster",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 19,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 15446502,
+                            "title": "Ichijinsha",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ichijinsha",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.8309434142429382,
+    "numHeaderRows": 1,
+    "numCols": 1
+}

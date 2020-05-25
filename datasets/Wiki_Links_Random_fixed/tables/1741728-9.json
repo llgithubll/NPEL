@@ -1,0 +1,858 @@
+{
+    "sectionTitle": "Most valuable player of the league",
+    "pgId": 1741728,
+    "numDataRows": 9,
+    "_id": "1741728-9",
+    "pgTitle": "Chinese Super League",
+    "numericColumns": [
+        0
+    ],
+    "tableCaption": "Most valuable player of the league",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Year</th>",
+                "text": "Year",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Footballer</th>",
+                "text": "Footballer",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Club</th>",
+                "text": "Club",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Nationality </th>",
+                "text": "Nationality",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 9,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2004</td>",
+                "text": "2004",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Zhao_Junzhe\" shape=\"rect\">Zhao Junzhe</a></td>",
+                "text": "Zhao Junzhe",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5961727,
+                            "title": "Zhao_Junzhe",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Zhao Junzhe",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Liaoning_Zhongyu\" shape=\"rect\">Liaoning Zhongyu</a></td>",
+                "text": "Liaoning Zhongyu",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 30873710,
+                            "title": "Liaoning_Zhongyu",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Liaoning Zhongyu",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/China\" shape=\"rect\">China</a> </td>",
+                "text": "China",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5405,
+                            "title": "China",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "China",
+                        "inTemplate": false,
+                        "endOffset": 5,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2005</td>",
+                "text": "2005",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Branko_Jelic\" shape=\"rect\">Branko Jelic</a></td>",
+                "text": "Branko Jelic",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 16422977,
+                            "title": "Branko_Jelic",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Branko Jelic",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Beijing_Guoan\" shape=\"rect\">Beijing Guoan</a></td>",
+                "text": "Beijing Guoan",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5557389,
+                            "title": "Beijing_Guoan",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Beijing Guoan",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Serbia\" shape=\"rect\">Serbia</a> </td>",
+                "text": "Serbia",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 29265,
+                            "title": "Serbia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Serbia",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2006</td>",
+                "text": "2006",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Zheng_Zhi\" shape=\"rect\">Zheng Zhi</a></td>",
+                "text": "Zheng Zhi",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 8656568,
+                            "title": "Zheng_Zhi",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Zheng Zhi",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Shandong_Luneng\" shape=\"rect\">Shandong Luneng</a></td>",
+                "text": "Shandong Luneng",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2619202,
+                            "title": "Shandong_Luneng",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Shandong Luneng",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/China\" shape=\"rect\">China</a> </td>",
+                "text": "China",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5405,
+                            "title": "China",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "China",
+                        "inTemplate": false,
+                        "endOffset": 5,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2007</td>",
+                "text": "2007",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Du_Zhenyu\" shape=\"rect\">Du Zhenyu</a></td>",
+                "text": "Du Zhenyu",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9646296,
+                            "title": "Du_Zhenyu",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Du Zhenyu",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Changchun_Yatai\" shape=\"rect\">Changchun Yatai</a></td>",
+                "text": "Changchun Yatai",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3280497,
+                            "title": "Changchun_Yatai",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Changchun Yatai",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/China\" shape=\"rect\">China</a> </td>",
+                "text": "China",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5405,
+                            "title": "China",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "China",
+                        "inTemplate": false,
+                        "endOffset": 5,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2008</td>",
+                "text": "2008",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Emil_Martínez\" shape=\"rect\">Emil Martínez</a></td>",
+                "text": "Emil Martínez",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7605228,
+                            "title": "Emil_Martínez",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Emil Martínez",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Shanghai_Shenhua\" shape=\"rect\">Shanghai Shenhua</a></td>",
+                "text": "Shanghai Shenhua",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1229757,
+                            "title": "Shanghai_Shenhua",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Shanghai Shenhua",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Honduras\" shape=\"rect\">Honduras</a> </td>",
+                "text": "Honduras",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 13394,
+                            "title": "Honduras",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Honduras",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2009</td>",
+                "text": "2009",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Samuel_Caballero\" shape=\"rect\">Samuel Caballero</a></td>",
+                "text": "Samuel Caballero",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1126384,
+                            "title": "Samuel_Caballero",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Samuel Caballero",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Changchun_Yatai\" shape=\"rect\">Changchun Yatai</a></td>",
+                "text": "Changchun Yatai",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3280497,
+                            "title": "Changchun_Yatai",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Changchun Yatai",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Honduras\" shape=\"rect\">Honduras</a> </td>",
+                "text": "Honduras",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 13394,
+                            "title": "Honduras",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Honduras",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2010</td>",
+                "text": "2010",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Duvier_Riascos\" shape=\"rect\">Duvier Riascos</a></td>",
+                "text": "Duvier Riascos",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 26245649,
+                            "title": "Duvier_Riascos",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Duvier Riascos",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Shanghai_Shenhua\" shape=\"rect\">Shanghai Shenhua</a></td>",
+                "text": "Shanghai Shenhua",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1229757,
+                            "title": "Shanghai_Shenhua",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Shanghai Shenhua",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Colombia\" shape=\"rect\">Colombia</a> </td>",
+                "text": "Colombia",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5222,
+                            "title": "Colombia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Colombia",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2011</td>",
+                "text": "2011",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Luiz_Guilherme_da_Conceição_Silva\" shape=\"rect\">Muriqui</a></td>",
+                "text": "Muriqui",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27875241,
+                            "title": "Luiz_Guilherme_da_Conceição_Silva",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Muriqui",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Guangzhou_Evergrande\" shape=\"rect\">Guangzhou Evergrande</a></td>",
+                "text": "Guangzhou Evergrande",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9413800,
+                            "title": "Guangzhou_Evergrande",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Guangzhou Evergrande",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Brazil\" shape=\"rect\">Brazil</a> </td>",
+                "text": "Brazil",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3383,
+                            "title": "Brazil",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Brazil",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2012</td>",
+                "text": "2012",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Cristian_Dănălache\" shape=\"rect\">Cristian Dănălache</a></td>",
+                "text": "Cristian Dănălache",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 13070086,
+                            "title": "Cristian_Dănălache",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Cristian Dănălache",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Jiangsu_Sainty\" shape=\"rect\">Jiangsu Sainty</a></td>",
+                "text": "Jiangsu Sainty",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9220808,
+                            "title": "Jiangsu_Sainty",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Jiangsu Sainty",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Romania\" shape=\"rect\">Romania</a> </td>",
+                "text": "Romania",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25445,
+                            "title": "Romania",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Romania",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.3189207734540105,
+    "numHeaderRows": 1,
+    "numCols": 4
+}

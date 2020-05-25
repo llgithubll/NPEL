@@ -1,0 +1,142 @@
+{
+    "sectionTitle": "Asia ( )",
+    "pgId": 31096202,
+    "numDataRows": 1,
+    "_id": "31096202-1",
+    "pgTitle": "List of Thai Premier League broadcasters",
+    "numericColumns": [],
+    "tableCaption": "Asia ( )",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Country </th>",
+                "text": "Country",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Language </th>",
+                "text": "Language",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Broadcasters </th>",
+                "text": "Broadcasters",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Thailand\" shape=\"rect\">Thailand</a> </td>",
+                "text": "Thailand",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 30128,
+                            "title": "Thailand",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Thailand",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Thai_language\" shape=\"rect\">Thai</a> </td>",
+                "text": "Thai",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 48647,
+                            "title": "Thai_language",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Thai",
+                        "inTemplate": false,
+                        "endOffset": 4,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/TrueVisions\" shape=\"rect\">TrueVisions</a> <a href=\"http://www.wikipedia.org/wiki/National_Broadcasting_Services_of_Thailand\" shape=\"rect\">NBT</a> </td>",
+                "text": "TrueVisions NBT",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 12244942,
+                            "title": "TrueVisions",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "TrueVisions",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 19121153,
+                            "title": "National_Broadcasting_Services_of_Thailand",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "NBT",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.08370292373001575,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

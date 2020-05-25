@@ -1,0 +1,147 @@
+{
+    "sectionTitle": "Women's Divisions",
+    "pgId": 19311542,
+    "numDataRows": 1,
+    "_id": "19311542-3",
+    "pgTitle": "Konfrontacja Sztuk Walki",
+    "numericColumns": [
+        4
+    ],
+    "tableCaption": "Women's Divisions",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Division </th>",
+                "text": "Division",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Upper weight limit </th>",
+                "text": "Upper weight limit",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Champion </th>",
+                "text": "Champion",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Since </th>",
+                "text": "Since",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Title Defenses </th>",
+                "text": "Title Defenses",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 3,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Flyweight_(MMA)\" shape=\"rect\">Flyweight</a> </td>",
+                "text": "Flyweight",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 6269873,
+                            "title": "Flyweight_(MMA)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Flyweight",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> lb ( kg;  st) </td>",
+                "text": "lb (kg; st)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span> </span> Karolina Kowalkiewicz </td>",
+                "text": "Karolina Kowalkiewicz",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> June 8, 2013 ( <a href=\"http://www.wikipedia.org/wiki/2013_in_Konfrontacja_Sztuk_Walki_events\" shape=\"rect\">KSW 23</a>) </td>",
+                "text": "June 8, 2013 ( KSW 23 )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 39024827,
+                            "title": "2013_in_Konfrontacja_Sztuk_Walki_events",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "KSW 23",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 </td>",
+                "text": "0",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.9698689912911505,
+    "numHeaderRows": 1,
+    "numCols": 5
+}

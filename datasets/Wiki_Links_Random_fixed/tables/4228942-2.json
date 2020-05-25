@@ -1,0 +1,76 @@
+{
+    "sectionTitle": "Comprehensive charts",
+    "pgId": 4228942,
+    "numDataRows": 1,
+    "_id": "4228942-2",
+    "pgTitle": "Temptation Waits",
+    "numericColumns": [
+        1
+    ],
+    "tableCaption": "Comprehensive charts",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Chart (1999) </th>",
+                "text": "Chart (1999)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Peak position </th>",
+                "text": "Peak position",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 2,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Spain Top 40 Airplay Chart ( <a href=\"http://www.wikipedia.org/wiki/Productores_de_Música_de_España\" shape=\"rect\">AFYVE</a>) </td>",
+                "text": "Spain Top 40 Airplay Chart ( AFYVE )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 29,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 12567453,
+                            "title": "Productores_de_Música_de_España",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "AFYVE",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 39 </td>",
+                "text": "39",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.05173871037550271,
+    "numHeaderRows": 1,
+    "numCols": 2
+}

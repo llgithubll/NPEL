@@ -1,0 +1,2565 @@
+{
+    "sectionTitle": "Passenger",
+    "pgId": 142547,
+    "numDataRows": 26,
+    "_id": "142547-1",
+    "pgTitle": "Jomo Kenyatta International Airport",
+    "numericColumns": [],
+    "tableCaption": "Passenger",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Airlines </th>",
+                "text": "Airlines",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Destinations |- </th>",
+                "text": "Destinations |-",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span> <a href=\"http://www.wikipedia.org/wiki/African_Express_Airways\" shape=\"rect\">African Express Airways</a></span> </td>",
+                "text": "African Express Airways",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2380626,
+                            "title": "African_Express_Airways",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "African Express Airways",
+                        "inTemplate": false,
+                        "endOffset": 23,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Air_Arabia\" shape=\"rect\">Air Arabia</a> </td>",
+                "text": "Air Arabia",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1485558,
+                            "title": "Air_Arabia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Air Arabia",
+                        "inTemplate": false,
+                        "endOffset": 10,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Sharjah_International_Airport\" shape=\"rect\">Sharjah</a> </td>",
+                "text": "Sharjah",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 464461,
+                            "title": "Sharjah_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Sharjah",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Air_Mauritius\" shape=\"rect\">Air Mauritius</a> </td>",
+                "text": "Air Mauritius",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 160296,
+                            "title": "Air_Mauritius",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Air Mauritius",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Sir_Seewoosagur_Ramgoolam_International_Airport\" shape=\"rect\">Mauritius</a> </td>",
+                "text": "Mauritius",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4333013,
+                            "title": "Sir_Seewoosagur_Ramgoolam_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Mauritius",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Air_Uganda\" shape=\"rect\">Air Uganda</a> </td>",
+                "text": "Air Uganda",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 14586795,
+                            "title": "Air_Uganda",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Air Uganda",
+                        "inTemplate": false,
+                        "endOffset": 10,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Entebbe_International_Airport\" shape=\"rect\">Entebbe</a> </td>",
+                "text": "Entebbe",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1456323,
+                            "title": "Entebbe_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Entebbe",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/British_Airways\" shape=\"rect\">British Airways</a> </td>",
+                "text": "British Airways",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3970,
+                            "title": "British_Airways",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "British Airways",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/London-Heathrow\" shape=\"rect\">London-Heathrow</a> </td>",
+                "text": "London-Heathrow",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 13595,
+                            "title": "London-Heathrow",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "London-Heathrow",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Brussels_Airlines\" shape=\"rect\">Brussels Airlines</a> </td>",
+                "text": "Brussels Airlines",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4318956,
+                            "title": "Brussels_Airlines",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Brussels Airlines",
+                        "inTemplate": false,
+                        "endOffset": 17,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Brussels_Airport\" shape=\"rect\">Brussels</a> </td>",
+                "text": "Brussels",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 269753,
+                            "title": "Brussels_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Brussels",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Condor_Flugdienst\" shape=\"rect\">Condor</a> </td>",
+                "text": "Condor",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 307413,
+                            "title": "Condor_Flugdienst",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Condor",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Frankfurt_Airport\" shape=\"rect\">Frankfurt</a> </td>",
+                "text": "Frankfurt",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 248285,
+                            "title": "Frankfurt_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Frankfurt",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Daallo_Airlines\" shape=\"rect\">Daallo Airlines</a> </td>",
+                "text": "Daallo Airlines",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1460058,
+                            "title": "Daallo_Airlines",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Daallo Airlines",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Aden_Adde_International_Airport\" shape=\"rect\">Mogadishu</a> </td>",
+                "text": "Mogadishu",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5613319,
+                            "title": "Aden_Adde_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Mogadishu",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/EgyptAir\" shape=\"rect\">EgyptAir</a> </td>",
+                "text": "EgyptAir",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 319357,
+                            "title": "EgyptAir",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "EgyptAir",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Cairo_International_Airport\" shape=\"rect\">Cairo</a> </td>",
+                "text": "Cairo",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 589227,
+                            "title": "Cairo_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Cairo",
+                        "inTemplate": false,
+                        "endOffset": 5,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Emirates_(airline)\" shape=\"rect\">Emirates</a> </td>",
+                "text": "Emirates",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 142715,
+                            "title": "Emirates_(airline)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Emirates",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Dubai_International_Airport\" shape=\"rect\">Dubai</a> </td>",
+                "text": "Dubai",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 154742,
+                            "title": "Dubai_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Dubai",
+                        "inTemplate": false,
+                        "endOffset": 5,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Ethiopian_Airlines\" shape=\"rect\">Ethiopian Airlines</a> </td>",
+                "text": "Ethiopian Airlines",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 394924,
+                            "title": "Ethiopian_Airlines",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ethiopian Airlines",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Bole_International_Airport\" shape=\"rect\">Addis Ababa</a> </td>",
+                "text": "Addis Ababa",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1115036,
+                            "title": "Bole_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Addis Ababa",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Etihad_Airways\" shape=\"rect\">Etihad Airways</a></td>",
+                "text": "Etihad Airways",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 512231,
+                            "title": "Etihad_Airways",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Etihad Airways",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Abu_Dhabi_International_Airport\" shape=\"rect\">Abu Dhabi</a> </td>",
+                "text": "Abu Dhabi",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 487794,
+                            "title": "Abu_Dhabi_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Abu Dhabi",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Fly540\" shape=\"rect\">Fly540</a> </td>",
+                "text": "Fly540",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7952736,
+                            "title": "Fly540",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Fly540",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Eldoret_International_Airport\" shape=\"rect\">Eldoret</a>, <a href=\"http://www.wikipedia.org/wiki/Juba_Airport\" shape=\"rect\">Juba</a>, <a href=\"http://www.wikipedia.org/wiki/Kisumu_Airport\" shape=\"rect\">Kisumu</a>, <a href=\"http://www.wikipedia.org/wiki/Malindi_Airport\" shape=\"rect\">Malindi</a>, <a href=\"http://www.wikipedia.org/wiki/Moi_International_Airport\" shape=\"rect\">Mombasa</a>, <a href=\"http://www.wikipedia.org/wiki/Zanzibar_International_Airport\" shape=\"rect\">Zanzibar</a> </td>",
+                "text": "Eldoret , Juba , Kisumu , Malindi , Mombasa , Zanzibar",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 16898374,
+                            "title": "Eldoret_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Eldoret",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 33820478,
+                            "title": "Juba_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Juba",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9223245,
+                            "title": "Kisumu_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Kisumu",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9222924,
+                            "title": "Malindi_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Malindi",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 6759670,
+                            "title": "Moi_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Mombasa",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 6810083,
+                            "title": "Zanzibar_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Zanzibar",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Jubba_Airways\" shape=\"rect\">Jubba Airways</a> </td>",
+                "text": "Jubba Airways",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1618289,
+                            "title": "Jubba_Airways",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Jubba Airways",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Aden_Adde_International_Airport\" shape=\"rect\">Mogadishu</a> </td>",
+                "text": "Mogadishu",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5613319,
+                            "title": "Aden_Adde_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Mogadishu",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Kenya_Airways\" shape=\"rect\">Kenya Airways</a> </td>",
+                "text": "Kenya Airways",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 145569,
+                            "title": "Kenya_Airways",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Kenya Airways",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Port_Bouet_Airport\" shape=\"rect\">Abidjan</a>, <a href=\"http://www.wikipedia.org/wiki/Abu_Dhabi_International_Airport\" shape=\"rect\">Abu Dhabi</a>, <a href=\"http://www.wikipedia.org/wiki/Kotoka_International_Airport\" shape=\"rect\">Accra</a>, <a href=\"http://www.wikipedia.org/wiki/Bole_International_Airport\" shape=\"rect\">Addis Ababa</a>, <a href=\"http://www.wikipedia.org/wiki/Amsterdam_Airport_Schiphol\" shape=\"rect\">Amsterdam</a>, <a href=\"http://www.wikipedia.org/wiki/Ivato_Airport\" shape=\"rect\">Antananarivo</a>, <a href=\"http://www.wikipedia.org/wiki/Bamako-Sénou_International_Airport\" shape=\"rect\">Bamako</a>, <a href=\"http://www.wikipedia.org/wiki/Suvarnabhumi_Airport\" shape=\"rect\">Bangkok-Suvarnabhumi</a>, <a href=\"http://www.wikipedia.org/wiki/Chileka_International_Airport\" shape=\"rect\">Blantyre</a>, <a href=\"http://www.wikipedia.org/wiki/Maya-Maya_Airport\" shape=\"rect\">Brazzaville</a>, <a href=\"http://www.wikipedia.org/wiki/Bujumbura_International_Airport\" shape=\"rect\">Bujumbura</a>, <a href=\"http://www.wikipedia.org/wiki/Julius_Nyerere_International_Airport\" shape=\"rect\">Dar es Salaam</a>, <a href=\"http://www.wikipedia.org/wiki/Indira_Gandhi_International_Airport\" shape=\"rect\">Delhi</a>, <a href=\"http://www.wikipedia.org/wiki/Djibouti-Ambouli_International_Airport\" shape=\"rect\">Djibouti</a>, <a href=\"http://www.wikipedia.org/wiki/Douala_International_Airport\" shape=\"rect\">Douala</a>, <a href=\"http://www.wikipedia.org/wiki/Dubai_International_Airport\" shape=\"rect\">Dubai</a>, <a href=\"http://www.wikipedia.org/wiki/Dzaoudzi_Pamandzi_International_Airport\" shape=\"rect\">Dzaoudzi</a>, <a href=\"http://www.wikipedia.org/wiki/Eldoret_International_Airport\" shape=\"rect\">Eldoret</a>, <a href=\"http://www.wikipedia.org/wiki/Entebbe_International_Airport\" shape=\"rect\">Entebbe</a>, <a href=\"http://www.wikipedia.org/wiki/Sir_Seretse_Khama_International_Airport\" shape=\"rect\">Gaborone</a>, <a href=\"http://www.wikipedia.org/wiki/Guangzhou_Baiyun_International_Airport\" shape=\"rect\">Guangzhou</a>, <a href=\"http://www.wikipedia.org/wiki/Harare_International_Airport\" shape=\"rect\">Harare</a>, <a href=\"http://www.wikipedia.org/wiki/Hong_Kong_International_Airport\" shape=\"rect\">Hong Kong</a>, <a href=\"http://www.wikipedia.org/wiki/King_Abdulaziz_International_Airport\" shape=\"rect\">Jeddah</a>, <a href=\"http://www.wikipedia.org/wiki/OR_Tambo_International_Airport\" shape=\"rect\">Johannesburg-OR Tambo</a>, <a href=\"http://www.wikipedia.org/wiki/Juba_Airport\" shape=\"rect\">Juba</a>, <a href=\"http://www.wikipedia.org/wiki/Khartoum_International_Airport\" shape=\"rect\">Khartoum</a>, <a href=\"http://www.wikipedia.org/wiki/Kigali_International_Airport\" shape=\"rect\">Kigali</a>, <a href=\"http://www.wikipedia.org/wiki/Kilimanjaro_International_Airport\" shape=\"rect\">Kilimanjaro</a>, <a href=\"http://www.wikipedia.org/wiki/Kisumu_Airport\" shape=\"rect\">Kisumu</a>, <a href=\"http://www.wikipedia.org/wiki/N'djili_Airport\" shape=\"rect\">Kinshasa-N'djili</a>, <a href=\"http://www.wikipedia.org/wiki/Murtala_Muhammed_International_Airport\" shape=\"rect\">Lagos</a>, <a href=\"http://www.wikipedia.org/wiki/Lilongwe_International_Airport\" shape=\"rect\">Lilongwe</a>, <a href=\"http://www.wikipedia.org/wiki/Livingstone_Airport\" shape=\"rect\">Livingstone</a>, <a href=\"http://www.wikipedia.org/wiki/London-Heathrow\" shape=\"rect\">London-Heathrow</a>, <a href=\"http://www.wikipedia.org/wiki/Quatro_de_Fevereiro_Airport\" shape=\"rect\">Luanda</a>, <a href=\"http://www.wikipedia.org/wiki/Lubumbashi_International_Airport\" shape=\"rect\">Lubumbashi</a>, <a href=\"http://www.wikipedia.org/wiki/Lusaka_International_Airport\" shape=\"rect\">Lusaka</a>, <a href=\"http://www.wikipedia.org/wiki/Seychelles_International_Airport\" shape=\"rect\">Mahé</a>, <a href=\"http://www.wikipedia.org/wiki/Malindi_Airport\" shape=\"rect\">Malindi</a>, <a href=\"http://www.wikipedia.org/wiki/Maputo_International_Airport\" shape=\"rect\">Maputo</a>, <a href=\"http://www.wikipedia.org/wiki/Moi_International_Airport\" shape=\"rect\">Mombasa</a>, <a href=\"http://www.wikipedia.org/wiki/Chhatrapati_Shivaji_International_Airport\" shape=\"rect\">Mumbai</a>, <a href=\"http://www.wikipedia.org/wiki/Nampula_Airport\" shape=\"rect\">Nampula</a>, <a href=\"http://www.wikipedia.org/wiki/Ndola_Airport\" shape=\"rect\">Ndola</a>, <a href=\"http://www.wikipedia.org/wiki/Paris-Charles_de_Gaulle\" shape=\"rect\">Paris-Charles de Gaulle</a>, <a href=\"http://www.wikipedia.org/wiki/Yaoundé_Nsimalen_International_Airport\" shape=\"rect\">Yaoundé</a> </td>",
+                "text": "Abidjan , Abu Dhabi , Accra , Addis Ababa , Amsterdam , Antananarivo , Bamako , Bangkok-Suvarnabhumi , Blantyre , Brazzaville , Bujumbura , Dar es Salaam , Delhi , Djibouti , Douala , Dubai , Dzaoudzi , Eldoret , Entebbe , Gaborone , Guangzhou , Harare , Hong Kong , Jeddah , Johannesburg-OR Tambo , Juba , Khartoum , Kigali , Kilimanjaro , Kisumu , Kinshasa-N'djili , Lagos , Lilongwe , Livingstone , London-Heathrow , Luanda , Lubumbashi , Lusaka , Mahé , Malindi , Maputo , Mombasa , Mumbai , Nampula , Ndola , Paris-Charles de Gaulle , Yaoundé",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 21371788,
+                            "title": "Port_Bouet_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Abidjan",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 487794,
+                            "title": "Abu_Dhabi_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Abu Dhabi",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 161756,
+                            "title": "Kotoka_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Accra",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1115036,
+                            "title": "Bole_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Addis Ababa",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 28721,
+                            "title": "Amsterdam_Airport_Schiphol",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Amsterdam",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7802883,
+                            "title": "Ivato_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Antananarivo",
+                        "inTemplate": false,
+                        "endOffset": 27,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 18,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4587990,
+                            "title": "Bamako-Sénou_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Bamako",
+                        "inTemplate": false,
+                        "endOffset": 24,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 360700,
+                            "title": "Suvarnabhumi_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Bangkok-Suvarnabhumi",
+                        "inTemplate": false,
+                        "endOffset": 32,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 26,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1191832,
+                            "title": "Chileka_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Blantyre",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4330633,
+                            "title": "Maya-Maya_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Brazzaville",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4307161,
+                            "title": "Bujumbura_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Bujumbura",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9862753,
+                            "title": "Julius_Nyerere_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Dar es Salaam",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 19,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 143494,
+                            "title": "Indira_Gandhi_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Delhi",
+                        "inTemplate": false,
+                        "endOffset": 24,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2955839,
+                            "title": "Djibouti-Ambouli_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Djibouti",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5393086,
+                            "title": "Douala_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Douala",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 154742,
+                            "title": "Dubai_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Dubai",
+                        "inTemplate": false,
+                        "endOffset": 17,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7124069,
+                            "title": "Dzaoudzi_Pamandzi_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Dzaoudzi",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 16898374,
+                            "title": "Eldoret_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Eldoret",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1456323,
+                            "title": "Entebbe_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Entebbe",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3720446,
+                            "title": "Sir_Seretse_Khama_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Gaborone",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 810251,
+                            "title": "Guangzhou_Baiyun_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Guangzhou",
+                        "inTemplate": false,
+                        "endOffset": 23,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2984967,
+                            "title": "Harare_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Harare",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 248457,
+                            "title": "Hong_Kong_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Hong Kong",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1612808,
+                            "title": "King_Abdulaziz_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Jeddah",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 106491,
+                            "title": "OR_Tambo_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Johannesburg-OR Tambo",
+                        "inTemplate": false,
+                        "endOffset": 33,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 27,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 33820478,
+                            "title": "Juba_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Juba",
+                        "inTemplate": false,
+                        "endOffset": 31,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4306874,
+                            "title": "Khartoum_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Khartoum",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4239626,
+                            "title": "Kigali_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Kigali",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 150114,
+                            "title": "Kilimanjaro_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Kilimanjaro",
+                        "inTemplate": false,
+                        "endOffset": 23,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9223245,
+                            "title": "Kisumu_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Kisumu",
+                        "inTemplate": false,
+                        "endOffset": 23,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2190079,
+                            "title": "N'djili_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Kinshasa-N'djili",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 22,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1164602,
+                            "title": "Murtala_Muhammed_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Lagos",
+                        "inTemplate": false,
+                        "endOffset": 27,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9238544,
+                            "title": "Lilongwe_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Lilongwe",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9266030,
+                            "title": "Livingstone_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Livingstone",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 13595,
+                            "title": "London-Heathrow",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "London-Heathrow",
+                        "inTemplate": false,
+                        "endOffset": 32,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 21,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 727038,
+                            "title": "Quatro_de_Fevereiro_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Luanda",
+                        "inTemplate": false,
+                        "endOffset": 27,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9202731,
+                            "title": "Lubumbashi_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Lubumbashi",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5212444,
+                            "title": "Lusaka_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Lusaka",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 716442,
+                            "title": "Seychelles_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Mahé",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9222924,
+                            "title": "Malindi_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Malindi",
+                        "inTemplate": false,
+                        "endOffset": 17,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7122797,
+                            "title": "Maputo_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Maputo",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 6759670,
+                            "title": "Moi_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Mombasa",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 287183,
+                            "title": "Chhatrapati_Shivaji_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Mumbai",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9243618,
+                            "title": "Nampula_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Nampula",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9266090,
+                            "title": "Ndola_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ndola",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 105927,
+                            "title": "Paris-Charles_de_Gaulle",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Paris-Charles de Gaulle",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 29,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4333332,
+                            "title": "Yaoundé_Nsimalen_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Yaoundé",
+                        "inTemplate": false,
+                        "endOffset": 36,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KLM\" shape=\"rect\">KLM</a> </td>",
+                "text": "KLM",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 16882,
+                            "title": "KLM",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "KLM",
+                        "inTemplate": false,
+                        "endOffset": 3,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Amsterdam_Airport_Schiphol\" shape=\"rect\">Amsterdam</a> </td>",
+                "text": "Amsterdam",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 28721,
+                            "title": "Amsterdam_Airport_Schiphol",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Amsterdam",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Korean_Air\" shape=\"rect\">Korean Air</a> </td>",
+                "text": "Korean Air",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 315411,
+                            "title": "Korean_Air",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Korean Air",
+                        "inTemplate": false,
+                        "endOffset": 10,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Incheon_International_Airport\" shape=\"rect\">Seoul-Incheon</a> </td>",
+                "text": "Seoul-Incheon",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 165522,
+                            "title": "Incheon_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Seoul-Incheon",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span> <a href=\"http://www.wikipedia.org/wiki/LAM_Mozambique_Airlines\" shape=\"rect\">LAM Mozambique Airlines</a></span> </td>",
+                "text": "LAM Mozambique Airlines",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1591561,
+                            "title": "LAM_Mozambique_Airlines",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "LAM Mozambique Airlines",
+                        "inTemplate": false,
+                        "endOffset": 23,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Maputo_International_Airport\" shape=\"rect\">Maputo</a>, <a href=\"http://www.wikipedia.org/wiki/Nampula_Airport\" shape=\"rect\">Nampula</a> </td>",
+                "text": "Maputo , Nampula",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7122797,
+                            "title": "Maputo_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Maputo",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 9,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9243618,
+                            "title": "Nampula_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Nampula",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Nasair\" shape=\"rect\">Nasair Eritrea</a> </td>",
+                "text": "Nasair Eritrea",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9577779,
+                            "title": "Nasair",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Nasair Eritrea",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Asmara_International_Airport\" shape=\"rect\">Asmara</a> </td>",
+                "text": "Asmara",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4307255,
+                            "title": "Asmara_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Asmara",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Precision_Air\" shape=\"rect\">Precision Air</a> </td>",
+                "text": "Precision Air",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 540007,
+                            "title": "Precision_Air",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Precision Air",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Julius_Nyerere_International_Airport\" shape=\"rect\">Dar es Salaam</a>, <a href=\"http://www.wikipedia.org/wiki/Kilimanjaro_International_Airport\" shape=\"rect\">Kilimanjaro</a>, <a href=\"http://www.wikipedia.org/wiki/Zanzibar_International_Airport\" shape=\"rect\">Zanzibar</a> </td>",
+                "text": "Dar es Salaam , Kilimanjaro , Zanzibar",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9862753,
+                            "title": "Julius_Nyerere_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Dar es Salaam",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 150114,
+                            "title": "Kilimanjaro_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Kilimanjaro",
+                        "inTemplate": false,
+                        "endOffset": 27,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 6810083,
+                            "title": "Zanzibar_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Zanzibar",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Qatar_Airways\" shape=\"rect\">Qatar Airways</a> </td>",
+                "text": "Qatar Airways",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 449463,
+                            "title": "Qatar_Airways",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Qatar Airways",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Doha_International_Airport\" shape=\"rect\">Doha</a> </td>",
+                "text": "Doha",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 874889,
+                            "title": "Doha_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Doha",
+                        "inTemplate": false,
+                        "endOffset": 4,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/RwandAir\" shape=\"rect\">RwandAir</a> </td>",
+                "text": "RwandAir",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 30863462,
+                            "title": "RwandAir",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "RwandAir",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Kigali_International_Airport\" shape=\"rect\">Kigali</a> </td>",
+                "text": "Kigali",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4239626,
+                            "title": "Kigali_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Kigali",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Saudia\" shape=\"rect\">Saudia</a> </td>",
+                "text": "Saudia",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 102414,
+                            "title": "Saudia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Saudia",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/King_Abdulaziz_International_Airport\" shape=\"rect\">Jeddah</a> </td>",
+                "text": "Jeddah",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1612808,
+                            "title": "King_Abdulaziz_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Jeddah",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/South_African_Airways\" shape=\"rect\">South African Airways</a> </td>",
+                "text": "South African Airways",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 103131,
+                            "title": "South_African_Airways",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "South African Airways",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/OR_Tambo_International_Airport\" shape=\"rect\">Johannesburg-OR Tambo</a> </td>",
+                "text": "Johannesburg-OR Tambo",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 106491,
+                            "title": "OR_Tambo_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Johannesburg-OR Tambo",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span> <a href=\"http://www.wikipedia.org/wiki/Swiss_International_Air_Lines\" shape=\"rect\">Swiss International Air Lines</a></span> </td>",
+                "text": "Swiss International Air Lines",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 162873,
+                            "title": "Swiss_International_Air_Lines",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Swiss International Air Lines",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Zurich_Airport\" shape=\"rect\">Zürich</a> </td>",
+                "text": "Zürich",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 253102,
+                            "title": "Zurich_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Zürich",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Turkish_Airlines\" shape=\"rect\">Turkish Airlines</a> </td>",
+                "text": "Turkish Airlines",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 167925,
+                            "title": "Turkish_Airlines",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Turkish Airlines",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Istanbul-Atatürk\" shape=\"rect\">Istanbul-Atatürk</a> </td>",
+                "text": "Istanbul-Atatürk",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 160515,
+                            "title": "Istanbul-Atatürk",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Istanbul-Atatürk",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Yemenia\" shape=\"rect\">Yemenia</a> </td>",
+                "text": "Yemenia",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2058414,
+                            "title": "Yemenia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Yemenia",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Sana'a_International_Airport\" shape=\"rect\">Sana'a</a> </td>",
+                "text": "Sana'a",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4202141,
+                            "title": "Sana'a_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Sana'a",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.9256457414012402,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

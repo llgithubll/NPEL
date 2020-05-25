@@ -1,0 +1,167 @@
+{
+    "sectionTitle": "Adjacent stations",
+    "pgId": 18392338,
+    "numDataRows": 1,
+    "_id": "18392338-1",
+    "pgTitle": "Homi Station",
+    "numericColumns": [],
+    "tableCaption": "Adjacent stations",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"2\" rowspan=\"1\"> « </th>",
+                "text": "«",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Service </th>",
+                "text": "Service",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"2\" rowspan=\"1\"> » </th>",
+                "text": "»",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"5\" rowspan=\"1\"> Aichi Loop Railway </th>",
+                "text": "Aichi Loop Railway",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"5\" rowspan=\"1\"> Aichi Loop Railway </th>",
+                "text": "Aichi Loop Railway",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"5\" rowspan=\"1\"> Aichi Loop Railway </th>",
+                "text": "Aichi Loop Railway",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"5\" rowspan=\"1\"> <span style=\"color:black\"> Aichi Loop Line</span> </th>",
+                "text": "Aichi Loop Line",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"5\" rowspan=\"1\"> <span style=\"color:black\"> Aichi Loop Line</span> </th>",
+                "text": "Aichi Loop Line",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"5\" rowspan=\"1\"> <span style=\"color:black\"> Aichi Loop Line</span> </th>",
+                "text": "Aichi Loop Line",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"2\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Kaizu_Station\" shape=\"rect\">Kaizu</a> </td>",
+                "text": "Kaizu",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 18392327,
+                            "title": "Kaizu_Station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Kaizu",
+                        "inTemplate": false,
+                        "endOffset": 5,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> - </td>",
+                "text": "-",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"2\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Sasabara_Station\" shape=\"rect\">Sasabara</a> </td>",
+                "text": "Sasabara",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 18392356,
+                            "title": "Sasabara_Station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Sasabara",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.8467331996653229,
+    "numHeaderRows": 3,
+    "numCols": 3
+}

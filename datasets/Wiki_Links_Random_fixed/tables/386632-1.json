@@ -1,0 +1,67 @@
+{
+    "sectionTitle": "Geography and environment",
+    "pgId": 386632,
+    "numDataRows": 1,
+    "_id": "386632-1",
+    "pgTitle": "Whitchurch–Stouffville",
+    "numericColumns": [],
+    "tableCaption": "Geography and environment",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"14\" rowspan=\"1\"> Climate data for Stouffville </th>",
+                "text": "Climate data for Stouffville",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Month </th>",
+                "text": "Month",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"14\" rowspan=\"1\"> Source: <a href=\"http://www.wikipedia.org/wiki/Environment_Canada\" shape=\"rect\">Environment Canada</a> </td>",
+                "text": "Source: Environment Canada",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 8,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 272329,
+                            "title": "Environment_Canada",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Environment Canada",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.191787137882784,
+    "numHeaderRows": 2,
+    "numCols": 1
+}

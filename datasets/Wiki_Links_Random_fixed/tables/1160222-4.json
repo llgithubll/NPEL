@@ -1,0 +1,96 @@
+{
+    "sectionTitle": "Decade-end charts",
+    "pgId": 1160222,
+    "numDataRows": 2,
+    "_id": "1160222-4",
+    "pgTitle": "Music (Madonna album)",
+    "numericColumns": [
+        1
+    ],
+    "tableCaption": "Decade-end charts",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Chart (2000s) </th>",
+                "text": "Chart (2000s)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Rank </th>",
+                "text": "Rank",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 4,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/List_of_best-selling_albums_of_the_2000s_in_the_United_Kingdom\" shape=\"rect\">United Kingdom</a> </td>",
+                "text": "United Kingdom",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25084614,
+                            "title": "List_of_best-selling_albums_of_the_2000s_in_the_United_Kingdom",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "United Kingdom",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 52 </td>",
+                "text": "52",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> U.S. Billboard 200 </td>",
+                "text": "U.S. Billboard 200",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 159 </td>",
+                "text": "159",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.3550591422244906,
+    "numHeaderRows": 1,
+    "numCols": 2
+}

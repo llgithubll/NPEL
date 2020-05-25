@@ -1,0 +1,76 @@
+{
+    "sectionTitle": "Charts",
+    "pgId": 20120838,
+    "numDataRows": 1,
+    "_id": "20120838-1",
+    "pgTitle": "Absolutely Positively",
+    "numericColumns": [
+        1
+    ],
+    "tableCaption": "Charts",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Chart (2008) </th>",
+                "text": "Chart (2008)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Peak position </th>",
+                "text": "Peak position",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/IFPI\" shape=\"rect\">Slovakia Airplay Chart</a> </td>",
+                "text": "Slovakia Airplay Chart",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 180086,
+                            "title": "IFPI",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Slovakia Airplay Chart",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 39 </td>",
+                "text": "39",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.3141910082194954,
+    "numHeaderRows": 1,
+    "numCols": 2
+}

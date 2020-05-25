@@ -1,0 +1,133 @@
+{
+    "sectionTitle": "Charts",
+    "pgId": 38819151,
+    "numDataRows": 3,
+    "_id": "38819151-1",
+    "pgTitle": "Same Ole Love (365 Days a Year)",
+    "numericColumns": [
+        1
+    ],
+    "tableCaption": "Charts",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Chart (1987) </th>",
+                "text": "Chart (1987)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Peak position </th>",
+                "text": "Peak position",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> US <a href=\"http://www.wikipedia.org/wiki/Billboard_Hot_100\" shape=\"rect\">Billboard Hot 100</a> </td>",
+                "text": "US Billboard Hot 100",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 3,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 423161,
+                            "title": "Billboard_Hot_100",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Billboard Hot 100",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 44 </td>",
+                "text": "44",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> US <a href=\"http://www.wikipedia.org/wiki/Hot_R&amp;B/Hip-Hop_Songs\" shape=\"rect\">Hot R&amp;B/Hip-Hop Songs</a> </td>",
+                "text": "US Hot R&B/Hip-Hop Songs",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 8 </td>",
+                "text": "8",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> US <a href=\"http://www.wikipedia.org/wiki/Hot_Adult_Contemporary_Tracks\" shape=\"rect\">Adult Contemporary Tracks</a> </td>",
+                "text": "US Adult Contemporary Tracks",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 3,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2283822,
+                            "title": "Hot_Adult_Contemporary_Tracks",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Adult Contemporary Tracks",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 6 </td>",
+                "text": "6",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.9162175359670073,
+    "numHeaderRows": 1,
+    "numCols": 2
+}

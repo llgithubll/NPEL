@@ -1,0 +1,1188 @@
+{
+    "sectionTitle": "",
+    "pgId": 885098,
+    "numDataRows": 7,
+    "_id": "885098-1",
+    "pgTitle": "Broadcast band",
+    "numericColumns": [],
+    "tableCaption": "See also",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Common name </th>",
+                "text": "Common name",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Frequencies </th>",
+                "text": "Frequencies",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Modulation\" shape=\"rect\">Modulation</a> </th>",
+                "text": "Modulation",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 20637,
+                            "title": "Modulation",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Modulation",
+                        "inTemplate": false,
+                        "endOffset": 10,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Frequency range </th>",
+                "text": "Frequency range",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Notes </th>",
+                "text": "Notes",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Longwave\" shape=\"rect\">Longwave</a></td>",
+                "text": "Longwave",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 168741,
+                            "title": "Longwave",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Longwave",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 148.5 and 283.5 kHz</td>",
+                "text": "148.5 and 283.5 kHz",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Amplitude Modulation (AM)</td>",
+                "text": "Amplitude Modulation (AM)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Low_frequency\" shape=\"rect\">Low frequency</a> (LF)</td>",
+                "text": "Low frequency (LF)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 160518,
+                            "title": "Low_frequency",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Low frequency",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Mostly used by <a href=\"http://www.wikipedia.org/wiki/Europe\" shape=\"rect\">Europe</a>, <a href=\"http://www.wikipedia.org/wiki/North_Africa\" shape=\"rect\">North Africa</a> and <a href=\"http://www.wikipedia.org/wiki/Asia\" shape=\"rect\">Asia</a> </td>",
+                "text": "Mostly used by Europe , North Africa and Asia",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9239,
+                            "title": "Europe",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Europe",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 24,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 21714,
+                            "title": "North_Africa",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "North Africa",
+                        "inTemplate": false,
+                        "endOffset": 36,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 20,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 689,
+                            "title": "Asia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Asia",
+                        "inTemplate": false,
+                        "endOffset": 24,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Mediumwave\" shape=\"rect\">AM radio</a></td>",
+                "text": "AM radio",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 110381,
+                            "title": "Mediumwave",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "AM radio",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 535 to 1700 <a href=\"http://www.wikipedia.org/wiki/KHz\" shape=\"rect\">kHz</a></td>",
+                "text": "535 to 1700 kHz",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 14121,
+                            "title": "KHz",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "kHz",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Amplitude Modulation (AM)</td>",
+                "text": "Amplitude Modulation (AM)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Medium_frequency\" shape=\"rect\">Medium Frequency</a> (MF)</td>",
+                "text": "Medium Frequency (MF)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 160519,
+                            "title": "Medium_frequency",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Medium Frequency",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Usually speech and news, where a lower bandwidth will suffice; long range at night due to the <a href=\"http://www.wikipedia.org/wiki/Ionosphere\" shape=\"rect\">ionosphere</a> increasing in altitude </td>",
+                "text": "Usually speech and news, where a lower bandwidth will suffice; long range at night due to the ionosphere increasing in altitude",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 94,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 15097,
+                            "title": "Ionosphere",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "ionosphere",
+                        "inTemplate": false,
+                        "endOffset": 104,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Shortwave\" shape=\"rect\">Shortwave</a></td>",
+                "text": "Shortwave",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 57980,
+                            "title": "Shortwave",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Shortwave",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 5.9 to 26.1 MHz</td>",
+                "text": "5.9 to 26.1MHz",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Mostly AM and <a href=\"http://www.wikipedia.org/wiki/Single-sideband_modulation\" shape=\"rect\">single-sideband</a> (SSB) modes.</td>",
+                "text": "Mostly AM and single-sideband (SSB) modes.",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 29048,
+                            "title": "Single-sideband_modulation",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "single-sideband",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/High_Frequency\" shape=\"rect\">High Frequency</a> (HF)</td>",
+                "text": "High Frequency (HF)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 178937,
+                            "title": "High_Frequency",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "High Frequency",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Very long range through \" <a href=\"http://www.wikipedia.org/wiki/Radio_propagation\" shape=\"rect\">skipping</a>\". <a href=\"http://www.wikipedia.org/wiki/Radio_clock\" shape=\"rect\">Standard time frequencies</a> can be heard here. </td>",
+                "text": "Very long range through \" skipping \". Standard time frequencies can be heard here.",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 26,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 271195,
+                            "title": "Radio_propagation",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "skipping",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 38,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 164511,
+                            "title": "Radio_clock",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Standard time frequencies",
+                        "inTemplate": false,
+                        "endOffset": 63,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/VHF\" shape=\"rect\">VHF</a> low ( <a href=\"http://www.wikipedia.org/wiki/Broadcast_television\" shape=\"rect\">TV</a>)</td>",
+                "text": "VHF low ( TV )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 69480,
+                            "title": "VHF",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "VHF",
+                        "inTemplate": false,
+                        "endOffset": 3,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 231064,
+                            "title": "Broadcast_television",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "TV",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 54 to 88 MHz</td>",
+                "text": "54 to 88MHz",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Single-sideband_modulation\" shape=\"rect\">vestigial sideband</a> modulation for <a href=\"http://www.wikipedia.org/wiki/Analog_signal\" shape=\"rect\">analog</a> <a href=\"http://www.wikipedia.org/wiki/Video\" shape=\"rect\">video</a>, and FM for analog <a href=\"http://www.wikipedia.org/wiki/Sound\" shape=\"rect\">audio</a>; <a href=\"http://www.wikipedia.org/wiki/8-VSB\" shape=\"rect\">8-VSB</a> or <a href=\"http://www.wikipedia.org/wiki/OFDM\" shape=\"rect\">OFDM</a> for digital broadcast</td>",
+                "text": "vestigial sideband modulation for analog video , and FM for analog audio ; 8-VSB or OFDM for digital broadcast",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 29048,
+                            "title": "Single-sideband_modulation",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "vestigial sideband",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 34,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 993,
+                            "title": "Analog_signal",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "analog",
+                        "inTemplate": false,
+                        "endOffset": 40,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 23,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 32441,
+                            "title": "Video",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "video",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 27,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 18994087,
+                            "title": "Sound",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "audio",
+                        "inTemplate": false,
+                        "endOffset": 32,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 29,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 146974,
+                            "title": "8-VSB",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "8-VSB",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22691,
+                            "title": "OFDM",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "OFDM",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Very_high_frequency\" shape=\"rect\">Very High Frequency</a> (VHF) <a href=\"http://www.wikipedia.org/wiki/Band_I\" shape=\"rect\">band I</a></td>",
+                "text": "Very High Frequency (VHF) band I",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 69480,
+                            "title": "Very_high_frequency",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Very High Frequency",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 26,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7570637,
+                            "title": "Band_I",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "band I",
+                        "inTemplate": false,
+                        "endOffset": 32,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Television_channel\" shape=\"rect\">Channels</a> 2 through 6 are from 54 to 88 MHz (except 72–76 MHz). </td>",
+                "text": "Channels 2 through 6 are from 54 to 88MHz (except 72–76 MHz).",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 29840,
+                            "title": "Television_channel",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Channels",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/FM_broadcast_band\" shape=\"rect\">FM radio</a></td>",
+                "text": "FM radio",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 272522,
+                            "title": "FM_broadcast_band",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "FM radio",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 87.5 to 108 <a href=\"http://www.wikipedia.org/wiki/MHz\" shape=\"rect\">MHz</a>, 76 to 90 in Japan</td>",
+                "text": "87.5 to 108 MHz , 76 to 90 in Japan",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 14121,
+                            "title": "MHz",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "MHz",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Frequency Modulation (FM)</td>",
+                "text": "Frequency Modulation (FM)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> VHF <a href=\"http://www.wikipedia.org/wiki/Band_II\" shape=\"rect\">band II</a></td>",
+                "text": "VHF band II",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 4,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 69480,
+                            "title": "Band_II",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "band II",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Usually music, due to the clarity and high <a href=\"http://www.wikipedia.org/wiki/Bandwidth_(signal_processing)\" shape=\"rect\">bandwidth</a> of FM. Relatively short range </td>",
+                "text": "Usually music, due to the clarity and high bandwidth of FM. Relatively short range",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 43,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3967,
+                            "title": "Bandwidth_(signal_processing)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "bandwidth",
+                        "inTemplate": false,
+                        "endOffset": 52,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> VHF high (TV)</td>",
+                "text": "VHF high (TV)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 174 to 216 MHz</td>",
+                "text": "174 to 216MHz",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Single-sideband_modulation\" shape=\"rect\">vestigial sideband</a> modulation for <a href=\"http://www.wikipedia.org/wiki/Analog_signal\" shape=\"rect\">analog</a> <a href=\"http://www.wikipedia.org/wiki/Video\" shape=\"rect\">video</a>, and FM for analog <a href=\"http://www.wikipedia.org/wiki/Sound\" shape=\"rect\">audio</a>; <a href=\"http://www.wikipedia.org/wiki/8-VSB\" shape=\"rect\">8-VSB</a> or <a href=\"http://www.wikipedia.org/wiki/OFDM\" shape=\"rect\">OFDM</a> for digital broadcast</td>",
+                "text": "vestigial sideband modulation for analog video , and FM for analog audio ; 8-VSB or OFDM for digital broadcast",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 29048,
+                            "title": "Single-sideband_modulation",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "vestigial sideband",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 34,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 993,
+                            "title": "Analog_signal",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "analog",
+                        "inTemplate": false,
+                        "endOffset": 40,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 23,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 32441,
+                            "title": "Video",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "video",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 27,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 18994087,
+                            "title": "Sound",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "audio",
+                        "inTemplate": false,
+                        "endOffset": 32,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 29,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 146974,
+                            "title": "8-VSB",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "8-VSB",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22691,
+                            "title": "OFDM",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "OFDM",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> VHF <a href=\"http://www.wikipedia.org/wiki/Band_III\" shape=\"rect\">band III</a> </td>",
+                "text": "VHF band III",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 4,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7570206,
+                            "title": "Band_III",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "band III",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Television_channel\" shape=\"rect\">Channels</a> 7 through 13 are from 174 to 216 MHz. </td>",
+                "text": "Channels 7 through 13 are from 174 to 216MHz.",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 29840,
+                            "title": "Television_channel",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Channels",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/UHF\" shape=\"rect\">UHF</a> (TV)</td>",
+                "text": "UHF (TV)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 160501,
+                            "title": "UHF",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "UHF",
+                        "inTemplate": false,
+                        "endOffset": 3,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 470 to 806 MHz</td>",
+                "text": "470 to 806MHz",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Single-sideband_modulation\" shape=\"rect\">vestigial sideband</a> modulation for <a href=\"http://www.wikipedia.org/wiki/Analog_signal\" shape=\"rect\">analog</a> <a href=\"http://www.wikipedia.org/wiki/Video\" shape=\"rect\">video</a>, and FM for analog <a href=\"http://www.wikipedia.org/wiki/Sound\" shape=\"rect\">audio</a>; <a href=\"http://www.wikipedia.org/wiki/8-VSB\" shape=\"rect\">8-VSB</a> or <a href=\"http://www.wikipedia.org/wiki/OFDM\" shape=\"rect\">OFDM</a> for digital broadcast</td>",
+                "text": "vestigial sideband modulation for analog video , and FM for analog audio ; 8-VSB or OFDM for digital broadcast",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 29048,
+                            "title": "Single-sideband_modulation",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "vestigial sideband",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 34,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 993,
+                            "title": "Analog_signal",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "analog",
+                        "inTemplate": false,
+                        "endOffset": 40,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 23,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 32441,
+                            "title": "Video",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "video",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 27,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 18994087,
+                            "title": "Sound",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "audio",
+                        "inTemplate": false,
+                        "endOffset": 32,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 29,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 146974,
+                            "title": "8-VSB",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "8-VSB",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22691,
+                            "title": "OFDM",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "OFDM",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Ultra_high_frequency\" shape=\"rect\">Ultra High Frequency</a> (UHF)</td>",
+                "text": "Ultra High Frequency (UHF)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 160501,
+                            "title": "Ultra_high_frequency",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ultra High Frequency",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Channels 14 through 69 are from 470 to 806 MHz, except 608 to 614 ( <a href=\"http://www.wikipedia.org/wiki/Radio_astronomy\" shape=\"rect\">radio astronomy</a> in place of <a href=\"http://www.wikipedia.org/wiki/Channel_37\" shape=\"rect\">channel 37</a>). </td>",
+                "text": "Channels 14 through 69 are from 470 to 806MHz, except 608 to 614 ( radio astronomy in place of channel 37 ).",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 67,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 82961,
+                            "title": "Radio_astronomy",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "radio astronomy",
+                        "inTemplate": false,
+                        "endOffset": 82,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 95,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4354277,
+                            "title": "Channel_37",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "channel 37",
+                        "inTemplate": false,
+                        "endOffset": 105,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.1056259728502482,
+    "numHeaderRows": 1,
+    "numCols": 5
+}

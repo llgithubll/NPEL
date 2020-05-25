@@ -1,0 +1,885 @@
+{
+    "sectionTitle": "Current countries",
+    "pgId": 33782,
+    "numDataRows": 10,
+    "_id": "33782-1",
+    "pgTitle": "Westminster system",
+    "numericColumns": [],
+    "tableCaption": "Current countries",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Country </th>",
+                "text": "Country",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Parliament </th>",
+                "text": "Parliament",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> System of Govt. </th>",
+                "text": "System of Govt.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Politics_of_Antigua_and_Barbuda\" shape=\"rect\">Antigua and Barbuda</a> </td>",
+                "text": "Antigua and Barbuda",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1070,
+                            "title": "Politics_of_Antigua_and_Barbuda",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Antigua and Barbuda",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Parliament_of_Antigua_and_Barbuda\" shape=\"rect\">Parliament of Antigua and Barbuda</a>: <a href=\"http://www.wikipedia.org/wiki/Senate_(Antigua_and_Barbuda)\" shape=\"rect\">Senate</a> <a href=\"http://www.wikipedia.org/wiki/House_of_Representatives_(Antigua_and_Barbuda)\" shape=\"rect\">House of Representatives</a> </td>",
+                "text": "Parliament of Antigua and Barbuda : Senate House of Representatives",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3726960,
+                            "title": "Parliament_of_Antigua_and_Barbuda",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Parliament of Antigua and Barbuda",
+                        "inTemplate": false,
+                        "endOffset": 33,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 36,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4477617,
+                            "title": "Senate_(Antigua_and_Barbuda)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Senate",
+                        "inTemplate": false,
+                        "endOffset": 42,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3727100,
+                            "title": "House_of_Representatives_(Antigua_and_Barbuda)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "House of Representatives",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Monarchy </td>",
+                "text": "Monarchy",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Politics_of_Australia\" shape=\"rect\">Australia</a> </td>",
+                "text": "Australia",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4711662,
+                            "title": "Politics_of_Australia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Australia",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Parliament_of_Australia\" shape=\"rect\">Parliament</a>: <a href=\"http://www.wikipedia.org/wiki/Australian_Senate\" shape=\"rect\">Senate</a> <a href=\"http://www.wikipedia.org/wiki/Australian_House_of_Representatives\" shape=\"rect\">House of Representatives</a> </td>",
+                "text": "Parliament : Senate House of Representatives",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 302298,
+                            "title": "Parliament_of_Australia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Parliament",
+                        "inTemplate": false,
+                        "endOffset": 10,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 165705,
+                            "title": "Australian_Senate",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Senate",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 61565,
+                            "title": "Australian_House_of_Representatives",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "House of Representatives",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Monarchy </td>",
+                "text": "Monarchy",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Politics_of_the_Bahamas\" shape=\"rect\">The Bahamas</a> </td>",
+                "text": "The Bahamas",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 67647,
+                            "title": "Politics_of_the_Bahamas",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The Bahamas",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Parliament_of_the_Bahamas\" shape=\"rect\">Parliament</a>: Senate House of Assembly </td>",
+                "text": "Parliament : Senate House of Assembly",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4014350,
+                            "title": "Parliament_of_the_Bahamas",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Parliament",
+                        "inTemplate": false,
+                        "endOffset": 10,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Monarchy </td>",
+                "text": "Monarchy",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Politics_of_Bermuda\" shape=\"rect\">Bermuda</a> </td>",
+                "text": "Bermuda",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 68984,
+                            "title": "Politics_of_Bermuda",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Bermuda",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Parliament_of_Bermuda\" shape=\"rect\">Parliament</a>: <a href=\"http://www.wikipedia.org/wiki/Senate_of_Bermuda\" shape=\"rect\">Senate of Bermuda</a> <a href=\"http://www.wikipedia.org/wiki/House_of_Assembly_of_Bermuda\" shape=\"rect\">House of Assembly of Bermuda</a> </td>",
+                "text": "Parliament : Senate of Bermuda House of Assembly of Bermuda",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4504257,
+                            "title": "Parliament_of_Bermuda",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Parliament",
+                        "inTemplate": false,
+                        "endOffset": 10,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4504247,
+                            "title": "Senate_of_Bermuda",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Senate of Bermuda",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 21,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4504253,
+                            "title": "House_of_Assembly_of_Bermuda",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "House of Assembly of Bermuda",
+                        "inTemplate": false,
+                        "endOffset": 49,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Monarchy_of_the_United_Kingdom\" shape=\"rect\">Monarchy</a> </td>",
+                "text": "Monarchy",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 47063,
+                            "title": "Monarchy_of_the_United_Kingdom",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Monarchy",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Politics_of_Bangladesh\" shape=\"rect\">Bangladesh</a> </td>",
+                "text": "Bangladesh",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 68926,
+                            "title": "Politics_of_Bangladesh",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Bangladesh",
+                        "inTemplate": false,
+                        "endOffset": 10,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Jatiyo_Sangshad\" shape=\"rect\">Jatiyo Sangshad</a> </td>",
+                "text": "Jatiyo Sangshad",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 577333,
+                            "title": "Jatiyo_Sangshad",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Jatiyo Sangshad",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Republic </td>",
+                "text": "Republic",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Politics_of_Barbados\" shape=\"rect\">Barbados</a> </td>",
+                "text": "Barbados",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 68936,
+                            "title": "Politics_of_Barbados",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Barbados",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Parliament_of_Barbados\" shape=\"rect\">Parliament</a>: <a href=\"http://www.wikipedia.org/wiki/Senate_of_Barbados\" shape=\"rect\">Senate</a> <a href=\"http://www.wikipedia.org/wiki/House_of_Assembly_of_Barbados\" shape=\"rect\">House of Assembly</a> </td>",
+                "text": "Parliament : Senate House of Assembly",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2555282,
+                            "title": "Parliament_of_Barbados",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Parliament",
+                        "inTemplate": false,
+                        "endOffset": 10,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2555684,
+                            "title": "Senate_of_Barbados",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Senate",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3629496,
+                            "title": "House_of_Assembly_of_Barbados",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "House of Assembly",
+                        "inTemplate": false,
+                        "endOffset": 27,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Monarchy </td>",
+                "text": "Monarchy",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Politics_of_Belize\" shape=\"rect\">Belize</a> </td>",
+                "text": "Belize",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 68964,
+                            "title": "Politics_of_Belize",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Belize",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/National_Assembly_(Belize)\" shape=\"rect\">National Assembly</a>: <a href=\"http://www.wikipedia.org/wiki/Senate_(Belize)\" shape=\"rect\">Senate</a> <a href=\"http://www.wikipedia.org/wiki/House_of_Representatives_(Belize)\" shape=\"rect\">House of Assembly</a> </td>",
+                "text": "National Assembly : Senate House of Assembly",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2185958,
+                            "title": "National_Assembly_(Belize)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "National Assembly",
+                        "inTemplate": false,
+                        "endOffset": 17,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 20,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4474657,
+                            "title": "Senate_(Belize)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Senate",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2953789,
+                            "title": "House_of_Representatives_(Belize)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "House of Assembly",
+                        "inTemplate": false,
+                        "endOffset": 27,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Monarchy </td>",
+                "text": "Monarchy",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Politics_of_Canada\" shape=\"rect\">Canada</a> </td>",
+                "text": "Canada",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5194,
+                            "title": "Politics_of_Canada",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Canada",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Parliament_of_Canada\" shape=\"rect\">Parliament of Canada</a>: <a href=\"http://www.wikipedia.org/wiki/Senate_of_Canada\" shape=\"rect\">Senate</a> <a href=\"http://www.wikipedia.org/wiki/House_of_Commons\" shape=\"rect\">House of Commons</a> </td>",
+                "text": "Parliament of Canada : Senate House of Commons",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 87446,
+                            "title": "Parliament_of_Canada",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Parliament of Canada",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 23,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 123498,
+                            "title": "Senate_of_Canada",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Senate",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 216091,
+                            "title": "House_of_Commons",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "House of Commons",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Monarchy </td>",
+                "text": "Monarchy",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Politics_of_Dominica\" shape=\"rect\">Dominica</a> </td>",
+                "text": "Dominica",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 8054,
+                            "title": "Politics_of_Dominica",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Dominica",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/House_of_Assembly_of_Dominica\" shape=\"rect\">House of Assembly</a> </td>",
+                "text": "House of Assembly",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3727319,
+                            "title": "House_of_Assembly_of_Dominica",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "House of Assembly",
+                        "inTemplate": false,
+                        "endOffset": 17,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Republic </td>",
+                "text": "Republic",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Politics_of_Grenada\" shape=\"rect\">Grenada</a> </td>",
+                "text": "Grenada",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 12132,
+                            "title": "Politics_of_Grenada",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Grenada",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Parliament_of_Grenada\" shape=\"rect\">Parliament of Grenada</a> </td>",
+                "text": "Parliament of Grenada",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4501530,
+                            "title": "Parliament_of_Grenada",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Parliament of Grenada",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Monarchy </td>",
+                "text": "Monarchy",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.1110737200360745,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

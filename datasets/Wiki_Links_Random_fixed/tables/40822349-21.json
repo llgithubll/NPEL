@@ -1,0 +1,143 @@
+{
+    "sectionTitle": "",
+    "pgId": 40822349,
+    "numDataRows": 2,
+    "_id": "40822349-21",
+    "pgTitle": "List of women's road cycling transfers 2014",
+    "numericColumns": [],
+    "tableCaption": "",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Rider </th>",
+                "text": "Rider",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Reason </th>",
+                "text": "Reason",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 21,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Tiffany_Cromwell\" shape=\"rect\">Tiffany Cromwell</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/Australia\" shape=\"rect\">AUS</a>)</span> </td>",
+                "text": "Tiffany Cromwell ( AUS )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 36319652,
+                            "title": "Tiffany_Cromwell",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Tiffany Cromwell",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 19,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4689264,
+                            "title": "Australia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "AUS",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Sungeun_Gu\" shape=\"rect\">Sungeun Gu</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/South_Korea\" shape=\"rect\">KOR</a>)</span> </td>",
+                "text": "Sungeun Gu ( KOR )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 19189962,
+                            "title": "Sungeun_Gu",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Sungeun Gu",
+                        "inTemplate": false,
+                        "endOffset": 10,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27019,
+                            "title": "South_Korea",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "KOR",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.2639356222935021,
+    "numHeaderRows": 1,
+    "numCols": 2
+}

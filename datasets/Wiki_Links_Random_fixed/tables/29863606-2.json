@@ -1,0 +1,808 @@
+{
+    "sectionTitle": "Pop",
+    "pgId": 29863606,
+    "numDataRows": 6,
+    "_id": "29863606-2",
+    "pgTitle": "Premio Lo Nuestro 2011",
+    "numericColumns": [],
+    "tableCaption": "Pop",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Categorie </th>",
+                "text": "Categorie",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Winner </th>",
+                "text": "Winner",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Nominees </th>",
+                "text": "Nominees",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 2,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Album of the Year </td>",
+                "text": "Album of the Year",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Camila_(band)\" shape=\"rect\">Camila</a> — <a href=\"http://www.wikipedia.org/wiki/Dejarte_de_Amar\" shape=\"rect\">Dejarte de Amar</a> </td>",
+                "text": "Camila — Dejarte de Amar",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 11617274,
+                            "title": "Camila_(band)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Camila",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 9,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25667122,
+                            "title": "Dejarte_de_Amar",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Dejarte de Amar",
+                        "inTemplate": false,
+                        "endOffset": 24,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Carlos_Baute\" shape=\"rect\">Carlos Baute</a> — <a href=\"http://www.wikipedia.org/wiki/De_Mi_Puño_y_Letra\" shape=\"rect\">De Mi Puño y Letra</a> <a href=\"http://www.wikipedia.org/wiki/Enrique_Iglesias\" shape=\"rect\">Enrique Iglesias</a> — <a href=\"http://www.wikipedia.org/wiki/Euphoria_(Enrique_Iglesias_album)\" shape=\"rect\">Euphoria</a> <a href=\"http://www.wikipedia.org/wiki/Chayanne\" shape=\"rect\">Chayanne</a> — <a href=\"http://www.wikipedia.org/wiki/No_Hay_Imposibles\" shape=\"rect\">No Hay Imposibles</a> <a href=\"http://www.wikipedia.org/wiki/Alejandro_Sanz\" shape=\"rect\">Alejandro Sanz</a> — <a href=\"http://www.wikipedia.org/wiki/Paraíso_Express\" shape=\"rect\">Paraíso Express</a> </td>",
+                "text": "Carlos Baute — De Mi Puño y Letra Enrique Iglesias — Euphoria Chayanne — No Hay Imposibles Alejandro Sanz — Paraíso Express",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22997657,
+                            "title": "Carlos_Baute",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Carlos Baute",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 35733190,
+                            "title": "De_Mi_Puño_y_Letra",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "De Mi Puño y Letra",
+                        "inTemplate": false,
+                        "endOffset": 33,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 22,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 303892,
+                            "title": "Enrique_Iglesias",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Enrique Iglesias",
+                        "inTemplate": false,
+                        "endOffset": 38,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 20,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27302711,
+                            "title": "Euphoria_(Enrique_Iglesias_album)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Euphoria",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 85932,
+                            "title": "Chayanne",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Chayanne",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 26367490,
+                            "title": "No_Hay_Imposibles",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "No Hay Imposibles",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 21,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 786283,
+                            "title": "Alejandro_Sanz",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Alejandro Sanz",
+                        "inTemplate": false,
+                        "endOffset": 35,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 18,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 24727171,
+                            "title": "Paraíso_Express",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Paraíso Express",
+                        "inTemplate": false,
+                        "endOffset": 33,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Song of the Year </td>",
+                "text": "Song of the Year",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Camila_(band)\" shape=\"rect\">Camila</a> — \" <a href=\"http://www.wikipedia.org/wiki/Mientes\" shape=\"rect\">Mientes</a>\" </td>",
+                "text": "Camila — \" Mientes \"",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 11617274,
+                            "title": "Camila_(band)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Camila",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25651255,
+                            "title": "Mientes",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Mientes",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Enrique_Iglesias\" shape=\"rect\">Enrique Iglesias</a> featuring <a href=\"http://www.wikipedia.org/wiki/Juan_Luis_Guerra\" shape=\"rect\">Juan Luis Guerra</a> — \" <a href=\"http://www.wikipedia.org/wiki/Cuando_Me_Enamoro\" shape=\"rect\">Cuando Me Enamoro</a>\" <a href=\"http://www.wikipedia.org/wiki/Shakira\" shape=\"rect\">Shakira</a> — \" <a href=\"http://www.wikipedia.org/wiki/Did_It_Again_(Shakira_song)\" shape=\"rect\">Lo Hecho Está Hecho</a>\" <a href=\"http://www.wikipedia.org/wiki/Chayanne\" shape=\"rect\">Chayanne</a> — \"Me Enamoré de Ti\" <a href=\"http://www.wikipedia.org/wiki/Alejandro_Fernández\" shape=\"rect\">Alejandro Fernández</a> — \" <a href=\"http://www.wikipedia.org/wiki/Se_Me_Va_la_Voz\" shape=\"rect\">Se Me Va la Voz</a>\" </td>",
+                "text": "Enrique Iglesias featuring Juan Luis Guerra — \" Cuando Me Enamoro \" Shakira — \" Lo Hecho Está Hecho \" Chayanne — \"Me Enamoré de Ti\" Alejandro Fernández — \" Se Me Va la Voz \"",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 303892,
+                            "title": "Enrique_Iglesias",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Enrique Iglesias",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 27,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 319938,
+                            "title": "Juan_Luis_Guerra",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Juan Luis Guerra",
+                        "inTemplate": false,
+                        "endOffset": 43,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 32,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27119373,
+                            "title": "Cuando_Me_Enamoro",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Cuando Me Enamoro",
+                        "inTemplate": false,
+                        "endOffset": 49,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 25,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 6479315,
+                            "title": "Shakira",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Shakira",
+                        "inTemplate": false,
+                        "endOffset": 32,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 24610784,
+                            "title": "Did_It_Again_(Shakira_song)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Lo Hecho Está Hecho",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 27,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 85932,
+                            "title": "Chayanne",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Chayanne",
+                        "inTemplate": false,
+                        "endOffset": 35,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 33,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 679491,
+                            "title": "Alejandro_Fernández",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Alejandro Fernández",
+                        "inTemplate": false,
+                        "endOffset": 52,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 46,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25987456,
+                            "title": "Se_Me_Va_la_Voz",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Se Me Va la Voz",
+                        "inTemplate": false,
+                        "endOffset": 61,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Best Male Artist </td>",
+                "text": "Best Male Artist",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Enrique_Iglesias\" shape=\"rect\">Enrique Iglesias</a> </td>",
+                "text": "Enrique Iglesias",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 303892,
+                            "title": "Enrique_Iglesias",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Enrique Iglesias",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Alejandro_Fernández\" shape=\"rect\">Alejandro Fernández</a> <a href=\"http://www.wikipedia.org/wiki/Alejandro_Sanz\" shape=\"rect\">Alejandro Sanz</a> <a href=\"http://www.wikipedia.org/wiki/Carlos_Baute\" shape=\"rect\">Carlos Baute</a> <a href=\"http://www.wikipedia.org/wiki/Chayanne\" shape=\"rect\">Chayanne</a> </td>",
+                "text": "Alejandro Fernández Alejandro Sanz Carlos Baute Chayanne",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 679491,
+                            "title": "Alejandro_Fernández",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Alejandro Fernández",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 20,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 786283,
+                            "title": "Alejandro_Sanz",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Alejandro Sanz",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22997657,
+                            "title": "Carlos_Baute",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Carlos Baute",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 85932,
+                            "title": "Chayanne",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Chayanne",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Best Female Artist </td>",
+                "text": "Best Female Artist",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Shakira\" shape=\"rect\">Shakira</a> </td>",
+                "text": "Shakira",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 6479315,
+                            "title": "Shakira",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Shakira",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Kany_García\" shape=\"rect\">Kany García</a> <a href=\"http://www.wikipedia.org/wiki/Nelly_Furtado\" shape=\"rect\">Nelly Furtado</a> <a href=\"http://www.wikipedia.org/wiki/Paulina_Rubio\" shape=\"rect\">Paulina Rubio</a> <a href=\"http://www.wikipedia.org/wiki/Thalía\" shape=\"rect\">Thalía</a> </td>",
+                "text": "Kany García Nelly Furtado Paulina Rubio Thalía",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 12719880,
+                            "title": "Kany_García",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Kany García",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 42716,
+                            "title": "Nelly_Furtado",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Nelly Furtado",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 168615,
+                            "title": "Paulina_Rubio",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Paulina Rubio",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 363163,
+                            "title": "Thalía",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Thalía",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Best Group or Duo </td>",
+                "text": "Best Group or Duo",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Camila_(band)\" shape=\"rect\">Camila</a> </td>",
+                "text": "Camila",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 11617274,
+                            "title": "Camila_(band)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Camila",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Jesse_&amp;_Joy\" shape=\"rect\">Jesse &amp; Joy</a> <a href=\"http://www.wikipedia.org/wiki/La_5ª_Estación\" shape=\"rect\">La 5ª Estación</a> Playa Limbo Tercer Cielo </td>",
+                "text": "Jesse & Joy La 5ª Estación Playa Limbo Tercer Cielo",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 8662796,
+                            "title": "Jesse_&_Joy",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Jesse & Joy",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3088191,
+                            "title": "La_5ª_Estación",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "La 5ª Estación",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Breakout Artist of the Year </td>",
+                "text": "Breakout Artist of the Year",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Jencarlos_Canela\" shape=\"rect\">Jencarlos Canela</a> </td>",
+                "text": "Jencarlos Canela",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 13068321,
+                            "title": "Jencarlos_Canela",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Jencarlos Canela",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Alex,_Jorge_y_Lena\" shape=\"rect\">Alex, Jorge y Lena</a> <a href=\"http://www.wikipedia.org/wiki/Debi_Nova\" shape=\"rect\">Debi Nova</a> </td>",
+                "text": "Alex, Jorge y Lena Debi Nova",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 33099232,
+                            "title": "Alex,_Jorge_y_Lena",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Alex, Jorge y Lena",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 19,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2330876,
+                            "title": "Debi_Nova",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Debi Nova",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.1276224758476019,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

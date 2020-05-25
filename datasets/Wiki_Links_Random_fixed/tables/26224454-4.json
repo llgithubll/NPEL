@@ -1,0 +1,348 @@
+{
+    "sectionTitle": "Chart precession and succession",
+    "pgId": 26224454,
+    "numDataRows": 3,
+    "_id": "26224454-4",
+    "pgTitle": "My Beautiful Dark Twisted Fantasy",
+    "numericColumns": [],
+    "tableCaption": "Chart precession and succession",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Preceded by <span style=\"font-weight: bold\"> <a href=\"http://www.wikipedia.org/wiki/Loud_(Rihanna_album)\" shape=\"rect\">Loud</a> by <a href=\"http://www.wikipedia.org/wiki/Rihanna\" shape=\"rect\">Rihanna</a></span> </td>",
+                "text": "Precededby Loud by Rihanna",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 32262361,
+                            "title": "Loud_(Rihanna_album)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Loud",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 19,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2110323,
+                            "title": "Rihanna",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Rihanna",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Canadian_Albums_Chart\" shape=\"rect\">Canadian Albums Chart</a> <a href=\"http://www.wikipedia.org/wiki/List_of_Canadian_number-one_albums_of_2010\" shape=\"rect\">number-one album</a> December 11–18, 2010 </td>",
+                "text": "Canadian Albums Chart number-one album December 11–18, 2010",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9331428,
+                            "title": "Canadian_Albums_Chart",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Canadian Albums Chart",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 22,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25551505,
+                            "title": "List_of_Canadian_number-one_albums_of_2010",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "number-one album",
+                        "inTemplate": false,
+                        "endOffset": 38,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Succeeded by <span style=\"font-weight: bold\"> <a href=\"http://www.wikipedia.org/wiki/The_Gift_(Susan_Boyle_album)\" shape=\"rect\">The Gift</a> by <a href=\"http://www.wikipedia.org/wiki/Susan_Boyle\" shape=\"rect\">Susan Boyle</a></span> </td>",
+                "text": "Succeededby The Gift by Susan Boyle",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27989337,
+                            "title": "The_Gift_(Susan_Boyle_album)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The Gift",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 24,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22378444,
+                            "title": "Susan_Boyle",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Susan Boyle",
+                        "inTemplate": false,
+                        "endOffset": 35,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 4,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Preceded by <span style=\"font-weight: bold\"> The Gift by Susan Boyle</span> </td>",
+                "text": "Precededby The Gift by Susan Boyle",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> US <a href=\"http://www.wikipedia.org/wiki/Billboard_200\" shape=\"rect\">Billboard 200</a> <a href=\"http://www.wikipedia.org/wiki/List_of_number-one_albums_of_2010_(U.S.)\" shape=\"rect\">number-one album</a> December 11–18, 2010 </td>",
+                "text": "US Billboard 200 number-one album December 11–18, 2010",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 3,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 730350,
+                            "title": "Billboard_200",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Billboard 200",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25537276,
+                            "title": "List_of_number-one_albums_of_2010_(U.S.)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "number-one album",
+                        "inTemplate": false,
+                        "endOffset": 33,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Succeeded by <span style=\"font-weight: bold\"> The Gift by Susan Boyle</span> </td>",
+                "text": "Succeededby The Gift by Susan Boyle",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Preceded by <span style=\"font-weight: bold\"> Loud by Rihanna</span> </td>",
+                "text": "Precededby Loud by Rihanna",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> US <a href=\"http://www.wikipedia.org/wiki/Top_R&amp;B/Hip-Hop_Albums\" shape=\"rect\">Top R&amp;B/Hip-Hop Albums</a> number-one album December 11–25, 2010 </td>",
+                "text": "US Top R&B/Hip-Hop Albums number-one album December 11–25, 2010",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Succeeded by <span style=\"font-weight: bold\"> <a href=\"http://www.wikipedia.org/wiki/No_Mercy_(T.I._album)\" shape=\"rect\">No Mercy</a> by <a href=\"http://www.wikipedia.org/wiki/T.I.\" shape=\"rect\">T.I.</a></span> </td>",
+                "text": "Succeededby No Mercy by T.I.",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 26395416,
+                            "title": "No_Mercy_(T.I._album)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "No Mercy",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1532027,
+                            "title": "T.I.",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "T.I.",
+                        "inTemplate": false,
+                        "endOffset": 1,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Preceded by <span style=\"font-weight: bold\"> <a href=\"http://www.wikipedia.org/wiki/5.0\" shape=\"rect\">5.0</a> by <a href=\"http://www.wikipedia.org/wiki/Nelly\" shape=\"rect\">Nelly</a></span> </td>",
+                "text": "Precededby 5.0 by Nelly",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27367514,
+                            "title": "5.0",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "5.0",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 18,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 169408,
+                            "title": "Nelly",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Nelly",
+                        "inTemplate": false,
+                        "endOffset": 23,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> US <a href=\"http://www.wikipedia.org/wiki/Top_Rap_Albums\" shape=\"rect\">Rap Albums</a> number-one album December 11–25, 2010 </td>",
+                "text": "US Rap Albums number-one album December 11–25, 2010",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 3,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 21961480,
+                            "title": "Top_Rap_Albums",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Rap Albums",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Succeeded by <span style=\"font-weight: bold\"> No Mercy by T.I.</span> </td>",
+                "text": "Succeededby No Mercy by T.I.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.4746947400271893,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

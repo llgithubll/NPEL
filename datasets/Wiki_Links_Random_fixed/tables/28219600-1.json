@@ -1,0 +1,126 @@
+{
+    "sectionTitle": "Medalists",
+    "pgId": 28219600,
+    "numDataRows": 1,
+    "_id": "28219600-1",
+    "pgTitle": "Handball at the 2010 Summer Youth Olympics – Girls' tournament",
+    "numericColumns": [],
+    "tableCaption": "Medalists",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Gold </td>",
+                "text": "Gold",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Silver </td>",
+                "text": "Silver",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Bronze </td>",
+                "text": "Bronze",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\">   <a href=\"http://www.wikipedia.org/wiki/Denmark_at_the_2010_Summer_Youth_Olympics\" shape=\"rect\">Denmark</a> <span style=\"font-size:90%;\"> (DEN)</span> </td>",
+                "text": "Denmark (DEN)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 28462208,
+                            "title": "Denmark_at_the_2010_Summer_Youth_Olympics",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Denmark",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\">   <a href=\"http://www.wikipedia.org/wiki/Russia_at_the_2010_Summer_Youth_Olympics\" shape=\"rect\">Russia</a> <span style=\"font-size:90%;\"> (RUS)</span> </td>",
+                "text": "Russia (RUS)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 26916693,
+                            "title": "Russia_at_the_2010_Summer_Youth_Olympics",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Russia",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\">   <a href=\"http://www.wikipedia.org/wiki/Brazil_at_the_2010_Summer_Youth_Olympics\" shape=\"rect\">Brazil</a> <span style=\"font-size:90%;\"> (BRA)</span> </td>",
+                "text": "Brazil (BRA)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 26914958,
+                            "title": "Brazil_at_the_2010_Summer_Youth_Olympics",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Brazil",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.9845696974080056,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

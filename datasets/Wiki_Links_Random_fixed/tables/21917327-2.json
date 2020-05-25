@@ -1,0 +1,640 @@
+{
+    "sectionTitle": "First Ministry (reconstituted)",
+    "pgId": 21917327,
+    "numDataRows": 10,
+    "_id": "21917327-2",
+    "pgTitle": "McLarty–Watts Ministry",
+    "numericColumns": [],
+    "tableCaption": "First Ministry (reconstituted)",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Office </th>",
+                "text": "Office",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Minister </th>",
+                "text": "Minister",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 2,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Premier_of_Western_Australia\" shape=\"rect\">Premier</a> <a href=\"http://www.wikipedia.org/wiki/Treasurer_of_Western_Australia\" shape=\"rect\">Treasurer</a> Minister for Forests <a href=\"http://www.wikipedia.org/wiki/Minister_for_the_North-West\" shape=\"rect\">Minister for the North-West</a> </td>",
+                "text": "Premier Treasurer Minister for Forests Minister for the North-West",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 24680,
+                            "title": "Premier_of_Western_Australia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Premier",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 8,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22031902,
+                            "title": "Treasurer_of_Western_Australia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Treasurer",
+                        "inTemplate": false,
+                        "endOffset": 17,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 32,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Minister_for_the_North-West",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Minister for the North-West",
+                        "inTemplate": false,
+                        "endOffset": 59,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Ross_McLarty\" shape=\"rect\">Ross McLarty</a>, MM, MLA </td>",
+                "text": "Ross McLarty , MM, MLA",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9668851,
+                            "title": "Ross_McLarty",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ross McLarty",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Deputy_Premier_of_Western_Australia\" shape=\"rect\">Deputy Premier</a> <a href=\"http://www.wikipedia.org/wiki/Minister_for_Education_(Western_Australia)\" shape=\"rect\">Minister for Education</a> Minister for Industrial Development Minister for Housing </td>",
+                "text": "Deputy Premier Minister for Education Minister for Industrial Development Minister for Housing",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 30440184,
+                            "title": "Deputy_Premier_of_Western_Australia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Deputy Premier",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27991758,
+                            "title": "Minister_for_Education_(Western_Australia)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Minister for Education",
+                        "inTemplate": false,
+                        "endOffset": 37,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Arthur_Watts_(politician)\" shape=\"rect\">Arthur Watts</a>, CMG, MLA </td>",
+                "text": "Arthur Watts , CMG, MLA",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 38999254,
+                            "title": "Arthur_Watts_(politician)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Arthur Watts",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Chief Secretary <a href=\"http://www.wikipedia.org/wiki/Minister_for_Mines_(Western_Australia)\" shape=\"rect\">Minister for Mines</a> <a href=\"http://www.wikipedia.org/wiki/Minister_for_Police_(Western_Australia)\" shape=\"rect\">Minister for Police</a> Minister for Native Affairs </td>",
+                "text": "Chief Secretary Minister for Mines Minister for Police Minister for Native Affairs",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Minister_for_Mines_(Western_Australia)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Minister for Mines",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 35,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Minister_for_Police_(Western_Australia)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Minister for Police",
+                        "inTemplate": false,
+                        "endOffset": 54,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Hubert_Parker\" shape=\"rect\">Hubert Parker</a>, DSO, VD, MLC </td>",
+                "text": "Hubert Parker , DSO, VD, MLC",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22248194,
+                            "title": "Hubert_Parker",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Hubert Parker",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Minister_for_Lands_(Western_Australia)\" shape=\"rect\">Minister for Lands</a> <a href=\"http://www.wikipedia.org/wiki/Minister_for_Labour_(Western_Australia)\" shape=\"rect\">Minister for Labour</a> </td>",
+                "text": "Minister for Lands Minister for Labour",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Minister_for_Lands_(Western_Australia)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Minister for Lands",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 19,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Minister_for_Labour_(Western_Australia)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Minister for Labour",
+                        "inTemplate": false,
+                        "endOffset": 38,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Lindsay_Thorn\" shape=\"rect\">Lindsay Thorn</a>, MLA </td>",
+                "text": "Lindsay Thorn , MLA",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Lindsay_Thorn",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Lindsay Thorn",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Attorney-General_of_Western_Australia\" shape=\"rect\">Attorney-General</a> Minister for Fisheries Minister for Prices </td>",
+                "text": "Attorney-General Minister for Fisheries Minister for Prices",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2579231,
+                            "title": "Attorney-General_of_Western_Australia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Attorney-General",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Arthur_Abbott\" shape=\"rect\">Arthur Abbott</a>, MLA </td>",
+                "text": "Arthur Abbott , MLA",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 11061652,
+                            "title": "Arthur_Abbott",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Arthur Abbott",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Minister_for_Works_(Western_Australia)\" shape=\"rect\">Minister for Works</a> Minister for Water Supplies </td>",
+                "text": "Minister for Works Minister for Water Supplies",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Minister_for_Works_(Western_Australia)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Minister for Works",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Victor_Doney\" shape=\"rect\">Victor Doney</a>, MLA </td>",
+                "text": "Victor Doney , MLA",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Victor_Doney",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Victor Doney",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Minister for Supply and Shipping <a href=\"http://www.wikipedia.org/wiki/Minister_for_Health_(Western_Australia)\" shape=\"rect\">Minister for Health</a> </td>",
+                "text": "Minister for Supply and Shipping Minister for Health",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 33,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Minister_for_Health_(Western_Australia)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Minister for Health",
+                        "inTemplate": false,
+                        "endOffset": 52,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Florence_Cardell-Oliver\" shape=\"rect\">Florence Cardell-Oliver</a>, MLA </td>",
+                "text": "Florence Cardell-Oliver , MLA",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9506761,
+                            "title": "Florence_Cardell-Oliver",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Florence Cardell-Oliver",
+                        "inTemplate": false,
+                        "endOffset": 23,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Minister_for_Transport_(Western_Australia)\" shape=\"rect\">Minister for Transport</a> Minister for Railways </td>",
+                "text": "Minister for Transport Minister for Railways",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Minister_for_Transport_(Western_Australia)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Minister for Transport",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Harrie_Seward\" shape=\"rect\">Harrie Seward</a>, MLA </td>",
+                "text": "Harrie Seward , MLA",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 20284867,
+                            "title": "Harrie_Seward",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Harrie Seward",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Honorary Minister for Housing, Forests and Local Government </td>",
+                "text": "Honorary Minister for Housing, Forests and Local Government",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/David_Brand\" shape=\"rect\">David Brand</a>, MLA </td>",
+                "text": "David Brand , MLA",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1077694,
+                            "title": "David_Brand",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "David Brand",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Minister_for_Agriculture_(Western_Australia)\" shape=\"rect\">Honorary Minister for Agriculture</a> </td>",
+                "text": "Honorary Minister for Agriculture",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 40679263,
+                            "title": "Minister_for_Agriculture_(Western_Australia)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Honorary Minister for Agriculture",
+                        "inTemplate": false,
+                        "endOffset": 33,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Garnet_Barrington_Wood\" shape=\"rect\">Garnet Barrington Wood</a>, MLC </td>",
+                "text": "Garnet Barrington Wood , MLC",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Garnet_Barrington_Wood",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Garnet Barrington Wood",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.1943695424124599,
+    "numHeaderRows": 1,
+    "numCols": 2
+}

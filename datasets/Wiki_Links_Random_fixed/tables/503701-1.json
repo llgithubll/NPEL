@@ -1,0 +1,1138 @@
+{
+    "sectionTitle": "Lines",
+    "pgId": 503701,
+    "numDataRows": 8,
+    "_id": "503701-1",
+    "pgTitle": "List of Chicago 'L' stations",
+    "numericColumns": [
+        1,
+        3
+    ],
+    "tableCaption": "Chicago 'L' lines",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> Line </th>",
+                "text": "Line",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> Stations </th>",
+                "text": "Stations",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> Termini </th>",
+                "text": "Termini",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> Weekday ridership (2012) </th>",
+                "text": "Weekday ridership (2012)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> Branches </th>",
+                "text": "Branches",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <div> \n       <span style=\"display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #00a1de; color:black; font-size:100%; text-align:center;\">  </span>   \n       <a href=\"http://www.wikipedia.org/wiki/Blue_Line_(CTA)\" shape=\"rect\">Blue Line</a> \n      </div> </td>",
+                "text": "Blue Line",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 503527,
+                            "title": "Blue_Line_(CTA)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Blue Line",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 33 </td>",
+                "text": "33",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/O'Hare_(CTA_station)\" shape=\"rect\">O'Hare</a> (north) <a href=\"http://www.wikipedia.org/wiki/Forest_Park_(CTA_station)\" shape=\"rect\">Forest Park</a> (south) </td>",
+                "text": "O'Hare (north) Forest Park (south)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7232520,
+                            "title": "O'Hare_(CTA_station)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "O'Hare",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7277208,
+                            "title": "Forest_Park_(CTA_station)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Forest Park",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 170,941 </td>",
+                "text": "170,941",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> O'Hare Branch, <a href=\"http://www.wikipedia.org/wiki/Milwaukee-Dearborn_Subway\" shape=\"rect\">Milwaukee-Dearborn Subway</a>, Forest Park Branch </td>",
+                "text": "O'Hare Branch, Milwaukee-Dearborn Subway , Forest Park Branch",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 33500910,
+                            "title": "Milwaukee-Dearborn_Subway",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Milwaukee-Dearborn Subway",
+                        "inTemplate": false,
+                        "endOffset": 40,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <div> \n       <span style=\"display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #62361b; color:black; font-size:100%; text-align:center;\">  </span>   \n       <a href=\"http://www.wikipedia.org/wiki/Brown_Line_(CTA)\" shape=\"rect\">Brown Line</a> \n      </div> </td>",
+                "text": "Brown Line",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 503572,
+                            "title": "Brown_Line_(CTA)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Brown Line",
+                        "inTemplate": false,
+                        "endOffset": 10,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 28 </td>",
+                "text": "28",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Harlem/Lake_(CTA_station)\" shape=\"rect\">Harlem/Lake</a> (north) <a href=\"http://www.wikipedia.org/wiki/The_Loop_(CTA)\" shape=\"rect\">The Loop</a> (south) </td>",
+                "text": "Harlem/Lake (north) TheLoop (south)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7446395,
+                            "title": "The_Loop_(CTA)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The Loop",
+                        "inTemplate": false,
+                        "endOffset": 1,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 106,214 </td>",
+                "text": "106,214",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Ravenswood_Branch\" shape=\"rect\">Ravenswood Branch</a>, <a href=\"http://www.wikipedia.org/wiki/North_Side_Main_Line\" shape=\"rect\">North Side Main Line</a>, <a href=\"http://www.wikipedia.org/wiki/The_Loop_(CTA)\" shape=\"rect\">The Loop</a> </td>",
+                "text": "Ravenswood Branch , North Side Main Line , The Loop",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 34112033,
+                            "title": "Ravenswood_Branch",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ravenswood Branch",
+                        "inTemplate": false,
+                        "endOffset": 17,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 20,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 36479353,
+                            "title": "North_Side_Main_Line",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "North Side Main Line",
+                        "inTemplate": false,
+                        "endOffset": 40,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 26,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7446395,
+                            "title": "The_Loop_(CTA)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The Loop",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <div> \n       <span style=\"display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #009b3a; color:black; font-size:100%; text-align:center;\">  </span>   \n       <a href=\"http://www.wikipedia.org/wiki/Green_Line_(CTA)\" shape=\"rect\">Green Line</a> \n      </div> </td>",
+                "text": "Green Line",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 503618,
+                            "title": "Green_Line_(CTA)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Green Line",
+                        "inTemplate": false,
+                        "endOffset": 10,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 28 </td>",
+                "text": "28",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Harlem/Lake_(CTA_station)\" shape=\"rect\">Harlem/Lake</a> (north) <a href=\"http://www.wikipedia.org/wiki/Cottage_Grove_(CTA_station)\" shape=\"rect\">Cottage Grove</a> (south via <a href=\"http://www.wikipedia.org/wiki/East_63rd_Branch\" shape=\"rect\">East 63rd Branch</a>) <a href=\"http://www.wikipedia.org/wiki/Ashland/63rd_(CTA_station)\" shape=\"rect\">Ashland/63rd</a> (south via <a href=\"http://www.wikipedia.org/wiki/Ashland_Branch\" shape=\"rect\">Ashland Branch</a>) </td>",
+                "text": "Harlem/Lake (north) Cottage Grove (south via East 63rd Branch ) Ashland/63rd (south via Ashland Branch )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 20,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7144326,
+                            "title": "Cottage_Grove_(CTA_station)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Cottage Grove",
+                        "inTemplate": false,
+                        "endOffset": 33,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 45,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 40263700,
+                            "title": "East_63rd_Branch",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "East 63rd Branch",
+                        "inTemplate": false,
+                        "endOffset": 61,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 55,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 40264355,
+                            "title": "Ashland_Branch",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ashland Branch",
+                        "inTemplate": false,
+                        "endOffset": 69,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 65,372 </td>",
+                "text": "65,372",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Lake_Street_Elevated\" shape=\"rect\">Lake Street Elevated</a>, <a href=\"http://www.wikipedia.org/wiki/The_Loop_(CTA)\" shape=\"rect\">The Loop</a>, <a href=\"http://www.wikipedia.org/wiki/South_Side_Elevated\" shape=\"rect\">South Side Elevated</a>, <a href=\"http://www.wikipedia.org/wiki/Ashland_Branch\" shape=\"rect\">Ashland Branch</a>, <a href=\"http://www.wikipedia.org/wiki/East_63rd_Branch\" shape=\"rect\">East 63rd Branch</a> </td>",
+                "text": "Lake Street Elevated , The Loop , South Side Elevated , Ashland Branch , East 63rd Branch",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 38192699,
+                            "title": "Lake_Street_Elevated",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Lake Street Elevated",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 23,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7446395,
+                            "title": "The_Loop_(CTA)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The Loop",
+                        "inTemplate": false,
+                        "endOffset": 31,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 36834744,
+                            "title": "South_Side_Elevated",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "South Side Elevated",
+                        "inTemplate": false,
+                        "endOffset": 33,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 25,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 40264355,
+                            "title": "Ashland_Branch",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ashland Branch",
+                        "inTemplate": false,
+                        "endOffset": 39,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 20,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 40263700,
+                            "title": "East_63rd_Branch",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "East 63rd Branch",
+                        "inTemplate": false,
+                        "endOffset": 36,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <div> \n       <span style=\"display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #f9461c; color:black; font-size:100%; text-align:center;\">  </span>   \n       <a href=\"http://www.wikipedia.org/wiki/Orange_Line_(CTA)\" shape=\"rect\">Orange Line</a> \n      </div> </td>",
+                "text": "Orange Line",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 503251,
+                            "title": "Orange_Line_(CTA)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Orange Line",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 17 </td>",
+                "text": "17",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/The_Loop_(CTA)\" shape=\"rect\">The Loop</a> (north) <a href=\"http://www.wikipedia.org/wiki/Midway_(CTA_station)\" shape=\"rect\">Midway</a> (south) </td>",
+                "text": "TheLoop (north) Midway (south)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7446395,
+                            "title": "The_Loop_(CTA)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The Loop",
+                        "inTemplate": false,
+                        "endOffset": 1,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7245201,
+                            "title": "Midway_(CTA_station)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Midway",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 57,004 </td>",
+                "text": "57,004",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/The_Loop_(CTA)\" shape=\"rect\">The Loop</a>, <a href=\"http://www.wikipedia.org/wiki/South_Side_Elevated\" shape=\"rect\">South Side Elevated</a>, Midway Branch </td>",
+                "text": "The Loop , South Side Elevated , Midway Branch",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7446395,
+                            "title": "The_Loop_(CTA)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The Loop",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 36834744,
+                            "title": "South_Side_Elevated",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "South Side Elevated",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <div> \n       <span style=\"display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #e27ea6; color:black; font-size:100%; text-align:center;\">  </span>   \n       <a href=\"http://www.wikipedia.org/wiki/Pink_Line_(CTA)\" shape=\"rect\">Pink Line</a> \n      </div> </td>",
+                "text": "Pink Line",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4219876,
+                            "title": "Pink_Line_(CTA)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Pink Line",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 23 </td>",
+                "text": "23",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/54th/Cermak_(CTA_station)\" shape=\"rect\">54th/Cermak</a> (west) <a href=\"http://www.wikipedia.org/wiki/The_Loop_(CTA)\" shape=\"rect\">The Loop</a> (east) </td>",
+                "text": "54th/Cermak (west) TheLoop (east)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7446395,
+                            "title": "The_Loop_(CTA)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The Loop",
+                        "inTemplate": false,
+                        "endOffset": 1,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 31,316 </td>",
+                "text": "31,316",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Douglas_Branch\" shape=\"rect\">Douglas Branch</a>, <a href=\"http://www.wikipedia.org/wiki/Lake_Street_Elevated\" shape=\"rect\">Lake Street Elevated</a>, <a href=\"http://www.wikipedia.org/wiki/The_Loop_(CTA)\" shape=\"rect\">The Loop</a> </td>",
+                "text": "Douglas Branch , Lake Street Elevated , The Loop",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 38368037,
+                            "title": "Douglas_Branch",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Douglas Branch",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 38192699,
+                            "title": "Lake_Street_Elevated",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Lake Street Elevated",
+                        "inTemplate": false,
+                        "endOffset": 37,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 26,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7446395,
+                            "title": "The_Loop_(CTA)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The Loop",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <div> \n       <span style=\"display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #522398; color:black; font-size:100%; text-align:center;\">  </span>   \n       <a href=\"http://www.wikipedia.org/wiki/Purple_Line_(CTA)\" shape=\"rect\">Purple Line</a> \n      </div> </td>",
+                "text": "Purple Line",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 503654,
+                            "title": "Purple_Line_(CTA)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Purple Line",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 26 </td>",
+                "text": "26",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Linden_(CTA_station)\" shape=\"rect\">Linden</a> (north) <a href=\"http://www.wikipedia.org/wiki/Howard_(CTA_station)\" shape=\"rect\">Howard</a> (south, shuttle service) <a href=\"http://www.wikipedia.org/wiki/The_Loop_(CTA)\" shape=\"rect\">The Loop</a> (south, weekday rush hour express service) </td>",
+                "text": "Linden (north) Howard (south, shuttle service) TheLoop (south, weekday rush hour express service)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5925474,
+                            "title": "Linden_(CTA_station)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Linden",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3631669,
+                            "title": "Howard_(CTA_station)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Howard",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7446395,
+                            "title": "The_Loop_(CTA)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The Loop",
+                        "inTemplate": false,
+                        "endOffset": 1,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 42,584 </td>",
+                "text": "42,584",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Evanston Branch, <a href=\"http://www.wikipedia.org/wiki/North_Side_Main_Line\" shape=\"rect\">North Side Main Line</a>, <a href=\"http://www.wikipedia.org/wiki/The_Loop_(CTA)\" shape=\"rect\">The Loop</a> </td>",
+                "text": "Evanston Branch, North Side Main Line , The Loop",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 36479353,
+                            "title": "North_Side_Main_Line",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "North Side Main Line",
+                        "inTemplate": false,
+                        "endOffset": 37,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 40,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7446395,
+                            "title": "The_Loop_(CTA)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The Loop",
+                        "inTemplate": false,
+                        "endOffset": 48,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <div> \n       <span style=\"display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #c60c30; color:black; font-size:100%; text-align:center;\">  </span>   \n       <a href=\"http://www.wikipedia.org/wiki/Red_Line_(CTA)\" shape=\"rect\">Red Line</a> \n      </div> </td>",
+                "text": "Red Line",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 503155,
+                            "title": "Red_Line_(CTA)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Red Line",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 33 </td>",
+                "text": "33",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Howard_(CTA_station)\" shape=\"rect\">Howard</a> (north) <a href=\"http://www.wikipedia.org/wiki/95th/Dan_Ryan_(CTA_station)\" shape=\"rect\">95th/Dan Ryan</a> (south) </td>",
+                "text": "Howard (north) 95th/Dan Ryan (south)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3631669,
+                            "title": "Howard_(CTA_station)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Howard",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 251,813 </td>",
+                "text": "251,813",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/North_Side_Main_Line\" shape=\"rect\">North Side Main Line</a>, <a href=\"http://www.wikipedia.org/wiki/State_Street_Subway\" shape=\"rect\">State Street Subway</a>, <a href=\"http://www.wikipedia.org/wiki/Dan_Ryan_Branch\" shape=\"rect\">Dan Ryan Branch</a> </td>",
+                "text": "North Side Main Line , State Street Subway , Dan Ryan Branch",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 36479353,
+                            "title": "North_Side_Main_Line",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "North Side Main Line",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 23,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 37894301,
+                            "title": "State_Street_Subway",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "State Street Subway",
+                        "inTemplate": false,
+                        "endOffset": 42,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 25,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 34242622,
+                            "title": "Dan_Ryan_Branch",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Dan Ryan Branch",
+                        "inTemplate": false,
+                        "endOffset": 40,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <div> \n       <span style=\"display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #f9e300; color:black; font-size:100%; text-align:center;\">  </span>   \n       <a href=\"http://www.wikipedia.org/wiki/Yellow_Line_(CTA)\" shape=\"rect\">Yellow Line</a> \n      </div> </td>",
+                "text": "Yellow Line",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 503015,
+                            "title": "Yellow_Line_(CTA)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Yellow Line",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 3 </td>",
+                "text": "3",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Dempster–Skokie_(CTA_station)\" shape=\"rect\">Dempster–Skokie</a> (west) <a href=\"http://www.wikipedia.org/wiki/Howard_(CTA_station)\" shape=\"rect\">Howard</a> (east) </td>",
+                "text": "Dempster–Skokie (west) Howard (east)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5935115,
+                            "title": "Dempster–Skokie_(CTA_station)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Dempster–Skokie",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 23,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3631669,
+                            "title": "Howard_(CTA_station)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Howard",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 5,175 </td>",
+                "text": "5,175",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Skokie Branch </td>",
+                "text": "Skokie Branch",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.006470899097621441,
+    "numHeaderRows": 1,
+    "numCols": 5
+}

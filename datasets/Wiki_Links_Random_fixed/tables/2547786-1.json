@@ -1,0 +1,127 @@
+{
+    "sectionTitle": "National Flag",
+    "pgId": 2547786,
+    "numDataRows": 1,
+    "_id": "2547786-1",
+    "pgTitle": "List of Russian flags",
+    "numericColumns": [],
+    "tableCaption": "National Flag",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Flag</th>",
+                "text": "Flag",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Date</th>",
+                "text": "Date",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Use</th>",
+                "text": "Use",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Description </th>",
+                "text": "Description",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1668?–1918 (as ensign) 1883–1918 1993–present </td>",
+                "text": "1668?–1918 (as ensign) 1883–1918 1993–present",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> State <a href=\"http://www.wikipedia.org/wiki/Flag_of_Russia\" shape=\"rect\">Flag of Russia</a>. </td>",
+                "text": "State Flag of Russia .",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 6,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 326003,
+                            "title": "Flag_of_Russia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Flag of Russia",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> A <a href=\"http://www.wikipedia.org/wiki/Tricolour\" shape=\"rect\">tricolour</a> consisting of three equal horizontal fields, white on the top, blue in the middle and red on the bottom. Used as a commercial and civil maritime ensign from the 1690s (allegedly from 1668) on. </td>",
+                "text": "A tricolour consisting of three equal horizontal fields, white on the top, blue in the middle and red on the bottom. Used as a commercial and civil maritime ensign from the 1690s (allegedly from 1668) on.",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 2,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 217792,
+                            "title": "Tricolour",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "tricolour",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.04075238551013172,
+    "numHeaderRows": 1,
+    "numCols": 4
+}

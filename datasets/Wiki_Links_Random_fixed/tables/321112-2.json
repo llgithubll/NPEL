@@ -1,0 +1,78 @@
+{
+    "sectionTitle": "Geography and climate",
+    "pgId": 321112,
+    "numDataRows": 2,
+    "_id": "321112-2",
+    "pgTitle": "Ufa",
+    "numericColumns": [],
+    "tableCaption": "Geography and climate",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"14\" rowspan=\"1\"> Climate data for Ufa </th>",
+                "text": "Climate data for Ufa",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Month </th>",
+                "text": "Month",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 2,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"14\" rowspan=\"1\"> Source #1: Pogoda.ru.net, <a href=\"http://www.wikipedia.org/wiki/World_Meteorological_Organization\" shape=\"rect\">World Meteorological Organization</a> (UN) </td>",
+                "text": "Source #1: Pogoda.ru.net, World Meteorological Organization (UN)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 26,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 33584,
+                            "title": "World_Meteorological_Organization",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "World Meteorological Organization",
+                        "inTemplate": false,
+                        "endOffset": 59,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"14\" rowspan=\"1\"> Source #2: Hong Kong Observatory (sun only) </td>",
+                "text": "Source #2: Hong Kong Observatory (sun only)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.1641113820951432,
+    "numHeaderRows": 2,
+    "numCols": 1
+}

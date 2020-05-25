@@ -1,0 +1,418 @@
+{
+    "sectionTitle": "Ribbon",
+    "pgId": 16076593,
+    "numDataRows": 3,
+    "_id": "16076593-5",
+    "pgTitle": "Gymnastics at the World Games",
+    "numericColumns": [],
+    "tableCaption": "Ribbon",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> Games </th>",
+                "text": "Games",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> Gold </th>",
+                "text": "Gold",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> Silver </th>",
+                "text": "Silver",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> Bronze </th>",
+                "text": "Bronze",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 5,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/2005_World_Games\" shape=\"rect\">2005 Duisburg</a> </td>",
+                "text": "2005 Duisburg",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2248375,
+                            "title": "2005_World_Games",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "2005 Duisburg",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Vera_Sessina\" shape=\"rect\">Vera Sessina</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/Russia\" shape=\"rect\">RUS</a>)</span> </td>",
+                "text": "Vera Sessina ( RUS )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4259989,
+                            "title": "Vera_Sessina",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Vera Sessina",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25391,
+                            "title": "Russia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "RUS",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Natalia_Godunko\" shape=\"rect\">Natalia Godunko</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/Ukraine\" shape=\"rect\">UKR</a>)</span> </td>",
+                "text": "Natalia Godunko ( UKR )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2205631,
+                            "title": "Natalia_Godunko",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Natalia Godunko",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 18,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 31750,
+                            "title": "Ukraine",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "UKR",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Anna_Bessonova\" shape=\"rect\">Anna Bessonova</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/Ukraine\" shape=\"rect\">UKR</a>)</span> </td>",
+                "text": "Anna Bessonova ( UKR )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2205150,
+                            "title": "Anna_Bessonova",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Anna Bessonova",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 31750,
+                            "title": "Ukraine",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "UKR",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/2009_World_Games\" shape=\"rect\">2009 Kaohsiung</a> </td>",
+                "text": "2009 Kaohsiung",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4051545,
+                            "title": "2009_World_Games",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "2009 Kaohsiung",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Evgenia_Kanaeva\" shape=\"rect\">Evgenia Kanaeva</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/Russia\" shape=\"rect\">RUS</a>)</span> </td>",
+                "text": "Evgenia Kanaeva ( RUS )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 18385965,
+                            "title": "Evgenia_Kanaeva",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Evgenia Kanaeva",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 18,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25391,
+                            "title": "Russia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "RUS",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Anna_Bessonova\" shape=\"rect\">Anna Bessonova</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/Ukraine\" shape=\"rect\">UKR</a>)</span> </td>",
+                "text": "Anna Bessonova ( UKR )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2205150,
+                            "title": "Anna_Bessonova",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Anna Bessonova",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 31750,
+                            "title": "Ukraine",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "UKR",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Aliya_Garayeva\" shape=\"rect\">Aliya Garayeva</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/Azerbaijan\" shape=\"rect\">AZE</a>)</span> </td>",
+                "text": "Aliya Garayeva ( AZE )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 11984852,
+                            "title": "Aliya_Garayeva",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Aliya Garayeva",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 746,
+                            "title": "Azerbaijan",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "AZE",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/2013_World_Games\" shape=\"rect\">2013 Cali</a> </td>",
+                "text": "2013 Cali",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 16488920,
+                            "title": "2013_World_Games",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "2013 Cali",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> cancelled </td>",
+                "text": "cancelled",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.4166172835975885,
+    "numHeaderRows": 1,
+    "numCols": 4
+}

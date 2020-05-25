@@ -1,0 +1,438 @@
+{
+    "sectionTitle": "Doubles TPB2+TPB2",
+    "pgId": 32442007,
+    "numDataRows": 5,
+    "_id": "32442007-10",
+    "pgTitle": "Bowling at the 2010 Asian Para Games",
+    "numericColumns": [
+        2
+    ],
+    "tableCaption": "Doubles TPB2+TPB2",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Rank </th>",
+                "text": "Rank",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Team </th>",
+                "text": "Team",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Score </th>",
+                "text": "Score",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 10,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\">   <a href=\"http://www.wikipedia.org/wiki/Malaysia_at_the_2010_Asian_Para_Games\" shape=\"rect\">Malaysia</a> <span style=\"font-size:90%;\"> (MAS)</span> <a href=\"http://www.wikipedia.org/wiki/Choo_Kam_Chan\" shape=\"rect\">Choo Kam Chan</a> <a href=\"http://www.wikipedia.org/wiki/Ku_Izham_Ku_Harun\" shape=\"rect\">Ku Izham Ku Harun</a> </td>",
+                "text": "Malaysia (MAS) Choo Kam Chan Ku Izham Ku Harun",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 32258745,
+                            "title": "Malaysia_at_the_2010_Asian_Para_Games",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Malaysia",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Choo_Kam_Chan",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Choo Kam Chan",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 21,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Ku_Izham_Ku_Harun",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ku Izham Ku Harun",
+                        "inTemplate": false,
+                        "endOffset": 38,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2231 </td>",
+                "text": "2231",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\">   <a href=\"http://www.wikipedia.org/wiki/South_Korea_at_the_2010_Asian_Para_Games\" shape=\"rect\">South Korea</a> <span style=\"font-size:90%;\"> (KOR)</span> <a href=\"http://www.wikipedia.org/wiki/Do_Hak-Gil\" shape=\"rect\">Do Hak-Gil</a> <a href=\"http://www.wikipedia.org/wiki/Kim_Nam-Hun\" shape=\"rect\">Kim Nam-Hun</a> </td>",
+                "text": "South Korea (KOR) Do Hak-Gil Kim Nam-Hun",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 32068047,
+                            "title": "South_Korea_at_the_2010_Asian_Para_Games",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "South Korea",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 18,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Do_Hak-Gil",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Do Hak-Gil",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 18,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Kim_Nam-Hun",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Kim Nam-Hun",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2115 </td>",
+                "text": "2115",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\">   <a href=\"http://www.wikipedia.org/wiki/Chinese_Taipei_at_the_2010_Asian_Para_Games\" shape=\"rect\">Chinese Taipei</a> <span style=\"font-size:90%;\"> (TPE)</span> <a href=\"http://www.wikipedia.org/wiki/Ke_Ming_Shuo\" shape=\"rect\">Ke Ming Shuo</a> <a href=\"http://www.wikipedia.org/wiki/Shieh_Tsung_Han\" shape=\"rect\">Shieh Tsung Han</a> </td>",
+                "text": "Chinese Taipei (TPE) Ke Ming Shuo Shieh Tsung Han",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 32258841,
+                            "title": "Chinese_Taipei_at_the_2010_Asian_Para_Games",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Chinese Taipei",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 21,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Ke_Ming_Shuo",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ke Ming Shuo",
+                        "inTemplate": false,
+                        "endOffset": 33,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 20,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Shieh_Tsung_Han",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Shieh Tsung Han",
+                        "inTemplate": false,
+                        "endOffset": 35,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2101 </td>",
+                "text": "2101",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 4</td>",
+                "text": "4",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\">   <a href=\"http://www.wikipedia.org/wiki/Japan_at_the_2010_Asian_Para_Games\" shape=\"rect\">Japan</a> <span style=\"font-size:90%;\"> (JPN)</span> <a href=\"http://www.wikipedia.org/wiki/Kozo_Kimura\" shape=\"rect\">Kozo Kimura</a> <a href=\"http://www.wikipedia.org/wiki/Toru_Mori\" shape=\"rect\">Toru Mori</a> </td>",
+                "text": "Japan (JPN) Kozo Kimura Toru Mori",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 32258688,
+                            "title": "Japan_at_the_2010_Asian_Para_Games",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Japan",
+                        "inTemplate": false,
+                        "endOffset": 5,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Kozo_Kimura",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Kozo Kimura",
+                        "inTemplate": false,
+                        "endOffset": 23,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 19,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Toru_Mori",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Toru Mori",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2058 </td>",
+                "text": "2058",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 5</td>",
+                "text": "5",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\">   <a href=\"http://www.wikipedia.org/wiki/Hong_Kong_at_the_2010_Asian_Para_Games\" shape=\"rect\">Hong Kong</a> <span style=\"font-size:90%;\"> (HKG)</span> <a href=\"http://www.wikipedia.org/wiki/Chan_Wai_Man\" shape=\"rect\">Chan Wai Man</a> <a href=\"http://www.wikipedia.org/wiki/Wan_Hon_Yin\" shape=\"rect\">Wan Hon Yin</a> </td>",
+                "text": "Hong Kong (HKG) Chan Wai Man Wan Hon Yin",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 32258842,
+                            "title": "Hong_Kong_at_the_2010_Asian_Para_Games",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Hong Kong",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Chan_Wai_Man",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Chan Wai Man",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 20,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Wan_Hon_Yin",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Wan Hon Yin",
+                        "inTemplate": false,
+                        "endOffset": 31,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2018 </td>",
+                "text": "2018",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.3061735380906612,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

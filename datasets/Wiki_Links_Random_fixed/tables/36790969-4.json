@@ -1,0 +1,609 @@
+{
+    "sectionTitle": "Pools",
+    "pgId": 36790969,
+    "numDataRows": 1,
+    "_id": "36790969-4",
+    "pgTitle": "2012 Grand Slam of Darts",
+    "numericColumns": [],
+    "tableCaption": "Pools",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Seeded Players </th>",
+                "text": "Seeded Players",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Pool B </th>",
+                "text": "Pool B",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Pool C </th>",
+                "text": "Pool C",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Pool D </th>",
+                "text": "Pool D",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 4,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Phil_Taylor_(darts_player)\" shape=\"rect\">Phil Taylor</a> (1) <span> </span> <a href=\"http://www.wikipedia.org/wiki/Adrian_Lewis\" shape=\"rect\">Adrian Lewis</a> (2) <span> </span> <a href=\"http://www.wikipedia.org/wiki/Christian_Kist\" shape=\"rect\">Christian Kist</a> (3) <span> </span> <a href=\"http://www.wikipedia.org/wiki/James_Wade\" shape=\"rect\">James Wade</a> (4) <span> </span> <a href=\"http://www.wikipedia.org/wiki/Simon_Whitlock\" shape=\"rect\">Simon Whitlock</a> (5) <span> </span> <a href=\"http://www.wikipedia.org/wiki/Wes_Newton\" shape=\"rect\">Wes Newton</a> (6) <span> </span> <a href=\"http://www.wikipedia.org/wiki/Andy_Hamilton_(darts_player)\" shape=\"rect\">Andy Hamilton</a> (7) <span> </span> <a href=\"http://www.wikipedia.org/wiki/Michael_van_Gerwen\" shape=\"rect\">Michael van Gerwen</a> (8) </td>",
+                "text": "Phil Taylor (1) Adrian Lewis (2) Christian Kist (3) James Wade (4) Simon Whitlock (5) Wes Newton (6) Andy Hamilton (7) Michael van Gerwen (8)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 409341,
+                            "title": "Phil_Taylor_(darts_player)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Phil Taylor",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4732147,
+                            "title": "Adrian_Lewis",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Adrian Lewis",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 22,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 34340337,
+                            "title": "Christian_Kist",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Christian Kist",
+                        "inTemplate": false,
+                        "endOffset": 36,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 24,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 6144544,
+                            "title": "James_Wade",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "James Wade",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 20,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 10254961,
+                            "title": "Simon_Whitlock",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Simon Whitlock",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 24,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 10255354,
+                            "title": "Wes_Newton",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Wes Newton",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 20,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 8691151,
+                            "title": "Andy_Hamilton_(darts_player)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Andy Hamilton",
+                        "inTemplate": false,
+                        "endOffset": 33,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 23,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7451852,
+                            "title": "Michael_van_Gerwen",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Michael van Gerwen",
+                        "inTemplate": false,
+                        "endOffset": 41,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Gary_Anderson_(darts_player)\" shape=\"rect\">Gary Anderson</a> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Jan_Dekker\" shape=\"rect\">Jan Dekker</a> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Terry_Jenkins\" shape=\"rect\">Terry Jenkins</a> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Paul_Nicholson_(darts_player)\" shape=\"rect\">Paul Nicholson</a> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Kevin_Painter\" shape=\"rect\">Kevin Painter</a> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Robert_Thornton_(darts_player)\" shape=\"rect\">Robert Thornton</a> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Raymond_van_Barneveld\" shape=\"rect\">Raymond van Barneveld</a> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Scott_Waites\" shape=\"rect\">Scott Waites</a> </td>",
+                "text": "Gary Anderson Jan Dekker Terry Jenkins Paul Nicholson Kevin Painter Robert Thornton Raymond van Barneveld Scott Waites",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 8806627,
+                            "title": "Gary_Anderson_(darts_player)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Gary Anderson",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 30312809,
+                            "title": "Jan_Dekker",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Jan Dekker",
+                        "inTemplate": false,
+                        "endOffset": 24,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 8732072,
+                            "title": "Terry_Jenkins",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Terry Jenkins",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 20232755,
+                            "title": "Paul_Nicholson_(darts_player)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Paul Nicholson",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2158490,
+                            "title": "Kevin_Painter",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Kevin Painter",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 14313846,
+                            "title": "Robert_Thornton_(darts_player)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Robert Thornton",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1418984,
+                            "title": "Raymond_van_Barneveld",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Raymond van Barneveld",
+                        "inTemplate": false,
+                        "endOffset": 38,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 23,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 10321484,
+                            "title": "Scott_Waites",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Scott Waites",
+                        "inTemplate": false,
+                        "endOffset": 35,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Brendan_Dolan\" shape=\"rect\">Brendan Dolan</a> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Ted_Hankey\" shape=\"rect\">Ted Hankey</a> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Wesley_Harms\" shape=\"rect\">Wesley Harms</a> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Mervyn_King_(darts_player)\" shape=\"rect\">Mervyn King</a> <span> </span> <a href=\"http://www.wikipedia.org/wiki/John_Part\" shape=\"rect\">John Part</a> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Mark_Walsh_(darts_player)\" shape=\"rect\">Mark Walsh</a> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Mark_Webster_(darts_player)\" shape=\"rect\">Mark Webster</a> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Dean_Winstanley\" shape=\"rect\">Dean Winstanley</a> </td>",
+                "text": "Brendan Dolan Ted Hankey Wesley Harms Mervyn King John Part Mark Walsh Mark Webster Dean Winstanley",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 20782508,
+                            "title": "Brendan_Dolan",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Brendan Dolan",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 448519,
+                            "title": "Ted_Hankey",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ted Hankey",
+                        "inTemplate": false,
+                        "endOffset": 24,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 34340038,
+                            "title": "Wesley_Harms",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Wesley Harms",
+                        "inTemplate": false,
+                        "endOffset": 24,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2787170,
+                            "title": "Mervyn_King_(darts_player)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Mervyn King",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1716726,
+                            "title": "John_Part",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "John Part",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2035481,
+                            "title": "Mark_Walsh_(darts_player)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Mark Walsh",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 8918704,
+                            "title": "Mark_Webster_(darts_player)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Mark Webster",
+                        "inTemplate": false,
+                        "endOffset": 24,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 30335664,
+                            "title": "Dean_Winstanley",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Dean Winstanley",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Barrie_Bates\" shape=\"rect\">Barrie Bates</a> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Steve_Beaton\" shape=\"rect\">Steve Beaton</a> <span> </span> <a href=\"http://www.wikipedia.org/wiki/James_Hubbard_(darts_player)\" shape=\"rect\">James Hubbard</a> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Wayne_Jones_(darts_player)\" shape=\"rect\">Wayne Jones</a> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Arron_Monk\" shape=\"rect\">Arron Monk</a> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Tony_O'Shea\" shape=\"rect\">Tony O'Shea</a> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Martin_Phillips_(darts_player)\" shape=\"rect\">Martin Phillips</a> <span> </span> <a href=\"http://www.wikipedia.org/wiki/Co_Stompe\" shape=\"rect\">Co Stompe</a> </td>",
+                "text": "Barrie Bates Steve Beaton James Hubbard Wayne Jones Arron Monk Tony O'Shea Martin Phillips Co Stompe",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9860826,
+                            "title": "Barrie_Bates",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Barrie Bates",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2161691,
+                            "title": "Steve_Beaton",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Steve Beaton",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 33737525,
+                            "title": "James_Hubbard_(darts_player)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "James Hubbard",
+                        "inTemplate": false,
+                        "endOffset": 27,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9806872,
+                            "title": "Wayne_Jones_(darts_player)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Wayne Jones",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27625424,
+                            "title": "Arron_Monk",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Arron Monk",
+                        "inTemplate": false,
+                        "endOffset": 23,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 8820112,
+                            "title": "Tony_O'Shea",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Tony O'Shea",
+                        "inTemplate": false,
+                        "endOffset": 23,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 16430011,
+                            "title": "Martin_Phillips_(darts_player)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Martin Phillips",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 8792186,
+                            "title": "Co_Stompe",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Co Stompe",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.8658767389133573,
+    "numHeaderRows": 1,
+    "numCols": 4
+}

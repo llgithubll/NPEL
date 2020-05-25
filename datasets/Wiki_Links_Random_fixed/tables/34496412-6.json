@@ -1,0 +1,92 @@
+{
+    "sectionTitle": "Soundtracks",
+    "pgId": 34496412,
+    "numDataRows": 1,
+    "_id": "34496412-6",
+    "pgTitle": "Hana Hegerová discography",
+    "numericColumns": [
+        0
+    ],
+    "tableCaption": "Soundtracks",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Year </th>",
+                "text": "Year",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Release details </th>",
+                "text": "Release details",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 6,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1996 </td>",
+                "text": "1996",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Starci a klarinety Label: <a href=\"http://www.wikipedia.org/wiki/Bertelsmann_Music_Group\" shape=\"rect\">BMG</a> <a href=\"http://www.wikipedia.org/wiki/Ariola_Records\" shape=\"rect\">Ariola</a> (#74321 41118) Format: CD </td>",
+                "text": "Starci a klarinety Label: BMG Ariola (#74321 41118) Format: CD",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 26,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 288106,
+                            "title": "Bertelsmann_Music_Group",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "BMG",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 30,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 929169,
+                            "title": "Ariola_Records",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ariola",
+                        "inTemplate": false,
+                        "endOffset": 36,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.3058685781434178,
+    "numHeaderRows": 1,
+    "numCols": 2
+}

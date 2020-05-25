@@ -1,0 +1,585 @@
+{
+    "sectionTitle": "Political prisoners",
+    "pgId": 5938905,
+    "numDataRows": 4,
+    "_id": "5938905-4",
+    "pgTitle": "United States Penitentiary, Atlanta",
+    "numericColumns": [],
+    "tableCaption": "Political prisoners",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Inmate Name </th>",
+                "text": "Inmate Name",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Register Number </th>",
+                "text": "Register Number",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Status </th>",
+                "text": "Status",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Details </th>",
+                "text": "Details",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 4,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Eugene_V._Debs\" shape=\"rect\">Eugene V. Debs</a> </td>",
+                "text": "Eugene V. Debs",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 50538,
+                            "title": "Eugene_V._Debs",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Eugene V. Debs",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Unlisted* </td>",
+                "text": "Unlisted*",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Released in 1921 after his sentence was commuted by <a href=\"http://www.wikipedia.org/wiki/US_President\" shape=\"rect\">US President</a> <a href=\"http://www.wikipedia.org/wiki/Warren_G._Harding\" shape=\"rect\">Warren G. Harding</a>. </td>",
+                "text": "Released in 1921 after his sentence was commuted by US President Warren G. Harding .",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 52,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 24113,
+                            "title": "US_President",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "US President",
+                        "inTemplate": false,
+                        "endOffset": 64,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 65,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 33060,
+                            "title": "Warren_G._Harding",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Warren G. Harding",
+                        "inTemplate": false,
+                        "endOffset": 82,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Founding member of <a href=\"http://www.wikipedia.org/wiki/Industrial_Workers_of_the_World\" shape=\"rect\">Industrial Workers of the World</a> and US Presidential candidate for the <a href=\"http://www.wikipedia.org/wiki/Socialist_Party_of_America\" shape=\"rect\">Socialist Party of America</a>; convicted of <a href=\"http://www.wikipedia.org/wiki/Sedition\" shape=\"rect\">sedition</a> in 1918 for promoting opposition to the <a href=\"http://www.wikipedia.org/wiki/Military_draft\" shape=\"rect\">military draft</a> during <a href=\"http://www.wikipedia.org/wiki/World_War_I\" shape=\"rect\">World War I</a>; received over 900,000 votes while incarcerated in 1920. </td>",
+                "text": "Founding member of Industrial Workers of the World and US Presidential candidate for the Socialist Party of America ; convicted of sedition in 1918 for promoting opposition to the military draft during World War I ; received over 900,000 votes while incarcerated in 1920.",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 19,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 37062,
+                            "title": "Industrial_Workers_of_the_World",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Industrial Workers of the World",
+                        "inTemplate": false,
+                        "endOffset": 50,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 89,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 243594,
+                            "title": "Socialist_Party_of_America",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Socialist Party of America",
+                        "inTemplate": false,
+                        "endOffset": 115,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 81,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 324091,
+                            "title": "Sedition",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "sedition",
+                        "inTemplate": false,
+                        "endOffset": 89,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 65,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5735,
+                            "title": "Military_draft",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "military draft",
+                        "inTemplate": false,
+                        "endOffset": 79,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 63,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4764461,
+                            "title": "World_War_I",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "World War I",
+                        "inTemplate": false,
+                        "endOffset": 74,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Vilyam_Genrikhovich_Fisher\" shape=\"rect\">Vilyam Genrikhovich Fisher</a> </td>",
+                "text": "Vilyam Genrikhovich Fisher",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 474909,
+                            "title": "Vilyam_Genrikhovich_Fisher",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Vilyam Genrikhovich Fisher",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Unlisted* </td>",
+                "text": "Unlisted*",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Sentence commuted and released in 1962 as part of a <a href=\"http://www.wikipedia.org/wiki/Prisoner_exchange\" shape=\"rect\">prisoner exchange</a> with the Soviet Union for the release of <a href=\"http://www.wikipedia.org/wiki/Francis_Gary_Powers\" shape=\"rect\">Francis Gary Powers</a> and <a href=\"http://www.wikipedia.org/wiki/Frederic_Pryor\" shape=\"rect\">Frederic Pryor</a>. </td>",
+                "text": "Sentence commuted and released in 1962 as part of a prisoner exchange with the Soviet Union for the release of Francis Gary Powers and Frederic Pryor .",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 52,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 17209653,
+                            "title": "Prisoner_exchange",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "prisoner exchange",
+                        "inTemplate": false,
+                        "endOffset": 69,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 111,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 12888,
+                            "title": "Francis_Gary_Powers",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Francis Gary Powers",
+                        "inTemplate": false,
+                        "endOffset": 130,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 66,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 14743795,
+                            "title": "Frederic_Pryor",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Frederic Pryor",
+                        "inTemplate": false,
+                        "endOffset": 80,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Convicted of espionage with relation to the <a href=\"http://www.wikipedia.org/wiki/Hollow_Nickel_Case\" shape=\"rect\">Hollow Nickel Case</a> and sentenced to 45 years' imprisonment </td>",
+                "text": "Convicted of espionage with relation to the Hollow Nickel Case and sentenced to 45 years' imprisonment",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 44,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3163889,
+                            "title": "Hollow_Nickel_Case",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Hollow Nickel Case",
+                        "inTemplate": false,
+                        "endOffset": 62,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Marcus_Garvey\" shape=\"rect\">Marcus Garvey</a> </td>",
+                "text": "Marcus Garvey",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 181535,
+                            "title": "Marcus_Garvey",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Marcus Garvey",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Unlisted* </td>",
+                "text": "Unlisted*",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Released from custody in 1927 after serving 4 years. </td>",
+                "text": "Released from custody in 1927 after serving 4 years.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Founder of the <a href=\"http://www.wikipedia.org/wiki/Universal_Negro_Improvement_Association\" shape=\"rect\">Universal Negro Improvement Association</a> (UNIA) and leading figure in the <a href=\"http://www.wikipedia.org/wiki/Black_Nationalist\" shape=\"rect\">Black Nationalist</a> and <a href=\"http://www.wikipedia.org/wiki/Pan_Africanist\" shape=\"rect\">Pan Africanist</a> movements; convicted of <a href=\"http://www.wikipedia.org/wiki/Mail_fraud\" shape=\"rect\">mail fraud</a> in 1923 for promoting the <a href=\"http://www.wikipedia.org/wiki/Black_Star_Line\" shape=\"rect\">Black Star Line</a>, a UNIA business dedicated to the transportation of goods and eventually throughout the African global economy. </td>",
+                "text": "Founder of the Universal Negro Improvement Association (UNIA) and leading figure in the Black Nationalist and Pan Africanist movements; convicted of mail fraud in 1923 for promoting the Black Star Line , a UNIA business dedicated to the transportation of goods and eventually throughout the African global economy.",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 261683,
+                            "title": "Universal_Negro_Improvement_Association",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Universal Negro Improvement Association",
+                        "inTemplate": false,
+                        "endOffset": 54,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 88,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 30875801,
+                            "title": "Black_Nationalist",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Black Nationalist",
+                        "inTemplate": false,
+                        "endOffset": 105,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 56,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 952984,
+                            "title": "Pan_Africanist",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Pan Africanist",
+                        "inTemplate": false,
+                        "endOffset": 70,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 44,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 905072,
+                            "title": "Mail_fraud",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "mail fraud",
+                        "inTemplate": false,
+                        "endOffset": 54,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 62,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1059086,
+                            "title": "Black_Star_Line",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Black Star Line",
+                        "inTemplate": false,
+                        "endOffset": 77,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Pedro_Albizu_Campos\" shape=\"rect\">Pedro Albizu Campos</a> </td>",
+                "text": "Pedro Albizu Campos",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 298778,
+                            "title": "Pedro_Albizu_Campos",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Pedro Albizu Campos",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Unlisted* </td>",
+                "text": "Unlisted*",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Transferred to a hospital prison in 1943 and released in 1947 after serving 10 years. </td>",
+                "text": "Transferred to a hospital prison in 1943 and released in 1947 after serving 10 years.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> President of the <a href=\"http://www.wikipedia.org/wiki/Puerto_Rican_Nationalist_Party\" shape=\"rect\">Puerto Rican Nationalist Party</a> from 1930 to 1965; convicted in 1936 of <a href=\"http://www.wikipedia.org/wiki/Sedition\" shape=\"rect\">sedition</a> in connection with the assassination of Puerto Rican Police Chief Elisha Riggs, which was in retaliation for the <a href=\"http://www.wikipedia.org/wiki/Rio_Piedras_massacre\" shape=\"rect\">Rio Piedras massacre</a>, during which police killed four unarmed party supporters. </td>",
+                "text": "President of the Puerto Rican Nationalist Party from 1930 to 1965; convicted in 1936 of sedition in connection with the assassination of Puerto Rican Police Chief Elisha Riggs, which was in retaliation for the Rio Piedras massacre , during which police killed four unarmed party supporters.",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 999336,
+                            "title": "Puerto_Rican_Nationalist_Party",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Puerto Rican Nationalist Party",
+                        "inTemplate": false,
+                        "endOffset": 47,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 88,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 324091,
+                            "title": "Sedition",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "sedition",
+                        "inTemplate": false,
+                        "endOffset": 96,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 163,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5683277,
+                            "title": "Rio_Piedras_massacre",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Rio Piedras massacre",
+                        "inTemplate": false,
+                        "endOffset": 183,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.009408888407051563,
+    "numHeaderRows": 1,
+    "numCols": 4
+}

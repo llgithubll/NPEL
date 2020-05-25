@@ -1,0 +1,300 @@
+{
+    "sectionTitle": "Levels",
+    "pgId": 22729491,
+    "numDataRows": 6,
+    "_id": "22729491-1",
+    "pgTitle": "Test of Russian as a Foreign Language",
+    "numericColumns": [],
+    "tableCaption": "Levels",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Level </th>",
+                "text": "Level",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Competencies </th>",
+                "text": "Competencies",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Enables holder to </th>",
+                "text": "Enables holder to",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Minimum vocabulary (words) </th>",
+                "text": "Minimum vocabulary (words)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Elementary (part of the Basic level) </th>",
+                "text": "Elementary (part of the Basic level)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Successful performance in the Elementary Test represents a standard of initial competence in Russian which enables a candidate to satisfy his elementary communicative needs in a limited number of everyday situations. </td>",
+                "text": "Successful performance in the Elementary Test represents a standard of initial competence in Russian which enables a candidate to satisfy his elementary communicative needs in a limited number of everyday situations.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 750 </td>",
+                "text": "750",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Basic </th>",
+                "text": "Basic",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Successful performance in the Preliminary Test represents a standard of competence in Russian which enables a candidate to satisfy basic communicative needs in a limited number of situations in everyday and cultural spheres. </td>",
+                "text": "Successful performance in the Preliminary Test represents a standard of competence in Russian which enables a candidate to satisfy basic communicative needs in a limited number of situations in everyday and cultural spheres.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> This level is required to obtain a <a href=\"http://www.wikipedia.org/wiki/Russian_citizenship\" shape=\"rect\">Russian citizenship</a> by naturalization. Not enough to study at the Russian educational institutions, except for preparatory faculties (programs or courses) for foreigners. </td>",
+                "text": "This level is required to obtain a Russian citizenship by naturalization. Not enough to study at the Russian educational institutions, except for preparatory faculties (programs or courses) for foreigners.",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 35,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 17005363,
+                            "title": "Russian_citizenship",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Russian citizenship",
+                        "inTemplate": false,
+                        "endOffset": 54,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1300 </td>",
+                "text": "1300",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Level 1 (Intermediate) </th>",
+                "text": "Level 1 (Intermediate)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Successful performance in the First Level Certificate indicates an intermediate level of competence, which enables a candidate to satisfy his main communicative needs in everyday, cultural, educational and professional spheres in line with the State Standard of Competence in Russian as a Foreign Language. </td>",
+                "text": "Successful performance in the First Level Certificate indicates an intermediate level of competence, which enables a candidate to satisfy his main communicative needs in everyday, cultural, educational and professional spheres in line with the State Standard of Competence in Russian as a Foreign Language.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Enter Russian higher educational institutions, with obligatory further studies of the Russian language. The level is usually achieved after the one-year preparatory course. </td>",
+                "text": "Enter Russian higher educational institutions, with obligatory further studies of the Russian language. The level is usually achieved after the one-year preparatory course.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2300 </td>",
+                "text": "2300",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Level 2 (Advanced) </th>",
+                "text": "Level 2 (Advanced)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Successful performance in the Second Level Certificate indicates a high level of competence in Russian which enables a candidate to satisfy his communicative needs in a wide range of situations of cultural,educational and professional spheres. </td>",
+                "text": "Successful performance in the Second Level Certificate indicates a high level of competence in Russian which enables a candidate to satisfy his communicative needs in a wide range of situations of cultural,educational and professional spheres.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Receive Bachelor's, Master's and Ph.D. degrees from Russian universities, excluding certain subjects. </td>",
+                "text": "Receive Bachelor's, Master's and Ph.D. degrees from Russian universities, excluding certain subjects.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 10 000 </td>",
+                "text": "10 000",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Level 3 (Proficiency) </th>",
+                "text": "Level 3 (Proficiency)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Successful performance in the Third Level Certificate in Russian indicates an advanced level of competence in Russian which enables a candidate to communicate fluently in all communicative spheres, to do scientific research in Russian and to teach Russian in courses at an Elementary level. </td>",
+                "text": "Successful performance in the Third Level Certificate in Russian indicates an advanced level of competence in Russian which enables a candidate to communicate fluently in all communicative spheres, to do scientific research in Russian and to teach Russian in courses at an Elementary level.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Participate professionally in philology, translation and interpreting, editing, journalism, diplomatic service and management in a Russian speaking environment; receive Diplomas, Bachelor's, Master's and Ph.D. degrees in these fields (except specialists' and Masters' of Art Degree in Philology) </td>",
+                "text": "Participate professionally in philology, translation and interpreting, editing, journalism, diplomatic service and management in a Russian speaking environment; receive Diplomas, Bachelor's, Master's and Ph.D. degrees in these fields (except specialists' and Masters' of Art Degree in Philology)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 12 000 (7 000 of them in active vocabulary) </td>",
+                "text": "12 000 (7 000 of them in active vocabulary)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Level 4 (Fluency) </th>",
+                "text": "Level 4 (Fluency)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Successful performance in the Fourth Level Certificate indicates Proficiency in Russian and candidate's competence is close to that of native Russian speaker's competence. </td>",
+                "text": "Successful performance in the Fourth Level Certificate indicates Proficiency in Russian and candidate's competence is close to that of native Russian speaker's competence.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Receive a Master of Arts degree in philology, undertake all forms of work in Russian philology </td>",
+                "text": "Receive a Master of Arts degree in philology, undertake all forms of work in Russian philology",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 20 000 (8 000 of them in active vocabulary) </td>",
+                "text": "20 000 (8 000 of them in active vocabulary)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.0575371440500021,
+    "numHeaderRows": 1,
+    "numCols": 4
+}

@@ -1,0 +1,508 @@
+{
+    "sectionTitle": "Theatre",
+    "pgId": 2409545,
+    "numDataRows": 5,
+    "_id": "2409545-3",
+    "pgTitle": "Olivia Williams",
+    "numericColumns": [
+        0
+    ],
+    "tableCaption": "Theatre",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Year(s) of appearance </th>",
+                "text": "Year(s) of appearance",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Production </th>",
+                "text": "Production",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Role </th>",
+                "text": "Role",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Awards and nominations </th>",
+                "text": "Awards and nominations",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 3,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1995 </td>",
+                "text": "1995",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Richard_III_(play)\" shape=\"rect\">Richard III</a> ( <a href=\"http://www.wikipedia.org/wiki/Circa\" shape=\"rect\">c.</a> 1591) by <a href=\"http://www.wikipedia.org/wiki/William_Shakespeare\" shape=\"rect\">William Shakespeare</a> </td>",
+                "text": "Richard III ( c. 1591) by William Shakespeare",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 176961,
+                            "title": "Richard_III_(play)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Richard III",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 547420,
+                            "title": "Circa",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "c.",
+                        "inTemplate": false,
+                        "endOffset": 1,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 26,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 32897,
+                            "title": "William_Shakespeare",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "William Shakespeare",
+                        "inTemplate": false,
+                        "endOffset": 45,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2003 </td>",
+                "text": "2003",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Love's_Labour's_Lost\" shape=\"rect\">Love's Labour's Lost</a> (c. 1595–1596) by <a href=\"http://www.wikipedia.org/wiki/William_Shakespeare\" shape=\"rect\">William Shakespeare</a> Olivier Theatre, <a href=\"http://www.wikipedia.org/wiki/Royal_National_Theatre\" shape=\"rect\">Royal National Theatre</a>, London </td>",
+                "text": "Love's Labour's Lost (c. 1595–1596) by William Shakespeare Olivier Theatre, Royal National Theatre , London",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 67015,
+                            "title": "Love's_Labour's_Lost",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Love's Labour's Lost",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 39,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 32897,
+                            "title": "William_Shakespeare",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "William Shakespeare",
+                        "inTemplate": false,
+                        "endOffset": 58,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 56,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 167775,
+                            "title": "Royal_National_Theatre",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Royal National Theatre",
+                        "inTemplate": false,
+                        "endOffset": 78,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> The Princess </td>",
+                "text": "The Princess",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2003 </td>",
+                "text": "2003",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> The Hotel in Amsterdam (first performed 1968) by <a href=\"http://www.wikipedia.org/wiki/John_Osborne\" shape=\"rect\">John Osborne</a> <a href=\"http://www.wikipedia.org/wiki/Donmar_Warehouse\" shape=\"rect\">Donmar Warehouse</a>, London </td>",
+                "text": "The Hotel in Amsterdam (first performed 1968) by John Osborne Donmar Warehouse , London",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 49,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 167626,
+                            "title": "John_Osborne",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "John Osborne",
+                        "inTemplate": false,
+                        "endOffset": 61,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 62,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1306473,
+                            "title": "Donmar_Warehouse",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Donmar Warehouse",
+                        "inTemplate": false,
+                        "endOffset": 78,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Annie </td>",
+                "text": "Annie",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2006 </td>",
+                "text": "2006",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/The_Changeling_(play)\" shape=\"rect\">The Changeling</a> (1653) by <a href=\"http://www.wikipedia.org/wiki/Thomas_Middleton\" shape=\"rect\">Thomas Middleton</a> and <a href=\"http://www.wikipedia.org/wiki/William_Rowley\" shape=\"rect\">William Rowley</a> <a href=\"http://www.wikipedia.org/wiki/Cheek_by_Jowl\" shape=\"rect\">Cheek by Jowl</a> production at the <a href=\"http://www.wikipedia.org/wiki/Barbican_Centre\" shape=\"rect\">Barbican Centre</a>, London </td>",
+                "text": "The Changeling (1653) by Thomas Middleton and William Rowley Cheek by Jowl production at the Barbican Centre , London",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 603113,
+                            "title": "The_Changeling_(play)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The Changeling",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 25,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 63428,
+                            "title": "Thomas_Middleton",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Thomas Middleton",
+                        "inTemplate": false,
+                        "endOffset": 41,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 32,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 277851,
+                            "title": "William_Rowley",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "William Rowley",
+                        "inTemplate": false,
+                        "endOffset": 46,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 20,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9650668,
+                            "title": "Cheek_by_Jowl",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Cheek by Jowl",
+                        "inTemplate": false,
+                        "endOffset": 33,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 33,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 26536263,
+                            "title": "Barbican_Centre",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Barbican Centre",
+                        "inTemplate": false,
+                        "endOffset": 48,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Beatrice-Joanna </td>",
+                "text": "Beatrice-Joanna",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2011 </td>",
+                "text": "2011",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/In_a_Forest,_Dark_and_Deep\" shape=\"rect\">In a Forest, Dark and Deep</a> by <a href=\"http://www.wikipedia.org/wiki/Neil_LaBute\" shape=\"rect\">Neil LaBute</a> <a href=\"http://www.wikipedia.org/wiki/Vaudeville_Theatre\" shape=\"rect\">Vaudeville Theatre</a>, London </td>",
+                "text": "In a Forest, Dark and Deep by Neil LaBute Vaudeville Theatre , London",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 30111172,
+                            "title": "In_a_Forest,_Dark_and_Deep",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "In a Forest, Dark and Deep",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 30,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 439190,
+                            "title": "Neil_LaBute",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Neil LaBute",
+                        "inTemplate": false,
+                        "endOffset": 41,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1575849,
+                            "title": "Vaudeville_Theatre",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Vaudeville Theatre",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Betty </td>",
+                "text": "Betty",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.5125889310147613,
+    "numHeaderRows": 1,
+    "numCols": 4
+}

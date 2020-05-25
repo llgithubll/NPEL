@@ -1,0 +1,171 @@
+{
+    "sectionTitle": "Ski jumping",
+    "pgId": 21291302,
+    "numDataRows": 1,
+    "_id": "21291302-15",
+    "pgTitle": "Norway at the 1988 Winter Olympics",
+    "numericColumns": [
+        1
+    ],
+    "tableCaption": "Ski jumping",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"2\"> Athletes </th>",
+                "text": "Athletes",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"2\" rowspan=\"1\"> Result </th>",
+                "text": "Result",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"2\" rowspan=\"1\"> Result </th>",
+                "text": "Result",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"2\"> Athletes </th>",
+                "text": "Athletes",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Points 1 </th>",
+                "text": "Points 1",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Rank </th>",
+                "text": "Rank",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 15,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Ole_Christian_Eidhammer\" shape=\"rect\">Ole Christian Eidhammer</a> <a href=\"http://www.wikipedia.org/wiki/Jon_Inge_Kjørum\" shape=\"rect\">Jon Inge Kjørum</a> <a href=\"http://www.wikipedia.org/wiki/Ole_Gunnar_Fidjestøl\" shape=\"rect\">Ole Gunnar Fidjestøl</a> <a href=\"http://www.wikipedia.org/wiki/Erik_Johnsen\" shape=\"rect\">Erik Johnsen</a> </td>",
+                "text": "Ole Christian Eidhammer Jon Inge Kjørum Ole Gunnar Fidjestøl Erik Johnsen",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5838112,
+                            "title": "Ole_Christian_Eidhammer",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ole Christian Eidhammer",
+                        "inTemplate": false,
+                        "endOffset": 23,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 24,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5838159,
+                            "title": "Jon_Inge_Kjørum",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Jon Inge Kjørum",
+                        "inTemplate": false,
+                        "endOffset": 39,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3142354,
+                            "title": "Ole_Gunnar_Fidjestøl",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ole Gunnar Fidjestøl",
+                        "inTemplate": false,
+                        "endOffset": 37,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 22,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5310963,
+                            "title": "Erik_Johnsen",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Erik Johnsen",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 596.1 </td>",
+                "text": "596.1",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\">  <span> </span> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.03308036597445607,
+    "numHeaderRows": 2,
+    "numCols": 3
+}

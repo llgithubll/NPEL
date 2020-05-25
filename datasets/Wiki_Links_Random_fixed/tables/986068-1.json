@@ -1,0 +1,73 @@
+{
+    "sectionTitle": "External links",
+    "pgId": 986068,
+    "numDataRows": 1,
+    "_id": "986068-1",
+    "pgTitle": "Kitanoumi Toshimitsu",
+    "numericColumns": [],
+    "tableCaption": "External links",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <dl>\n        previous: <a href=\"http://www.wikipedia.org/wiki/Wajima_Hiroshi\" shape=\"rect\">Wajima Hiroshi</a></dl> </td>",
+                "text": "previous: Wajima Hiroshi",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 8171315,
+                            "title": "Wajima_Hiroshi",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Wajima Hiroshi",
+                        "inTemplate": false,
+                        "endOffset": 24,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"3\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Yokozuna_(sumo)\" shape=\"rect\">Yokozuna</a> is not a successive rank, and more than one wrestler can share the title </td>",
+                "text": "Yokozuna is not a successive rank, and more than one wrestler can share the title",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 985879,
+                            "title": "Yokozuna_(sumo)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Yokozuna",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.7951644107233733,
+    "numHeaderRows": 1,
+    "numCols": 1
+}

@@ -1,0 +1,76 @@
+{
+    "sectionTitle": "Chart performance",
+    "pgId": 32217192,
+    "numDataRows": 1,
+    "_id": "32217192-1",
+    "pgTitle": "Been a Long Time",
+    "numericColumns": [
+        1
+    ],
+    "tableCaption": "Chart performance",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Chart (2011) </th>",
+                "text": "Chart (2011)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Peak position </th>",
+                "text": "Peak position",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/ARIA_Charts\" shape=\"rect\">ARIA Singles Chart</a> </td>",
+                "text": "ARIA Singles Chart",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3002226,
+                            "title": "ARIA_Charts",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "ARIA Singles Chart",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 33 </td>",
+                "text": "33",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.09747147955931723,
+    "numHeaderRows": 1,
+    "numCols": 2
+}

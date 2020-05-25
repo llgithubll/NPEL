@@ -1,0 +1,74 @@
+{
+    "sectionTitle": "List of historic places",
+    "pgId": 32802769,
+    "numDataRows": 1,
+    "_id": "32802769-131",
+    "pgTitle": "List of historic places in Christchurch",
+    "numericColumns": [],
+    "tableCaption": "",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 131,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Wikimedia Commons has media related to <a href=\"http://www.wikipedia.org/wiki/commons:Category:Lintrathen,_Christchurch\" shape=\"rect\">Lintrathen, Christchurch</a>.</td>",
+                "text": "Wikimedia Commons has media related to Lintrathen, Christchurch .",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 39,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "commons:Category:Lintrathen,_Christchurch",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Lintrathen, Christchurch",
+                        "inTemplate": false,
+                        "endOffset": 63,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.04537310963496566,
+    "numHeaderRows": 1,
+    "numCols": 2
+}

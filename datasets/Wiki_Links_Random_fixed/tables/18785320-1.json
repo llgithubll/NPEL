@@ -1,0 +1,138 @@
+{
+    "sectionTitle": "Adjacent stations",
+    "pgId": 18785320,
+    "numDataRows": 1,
+    "_id": "18785320-1",
+    "pgTitle": "Ichiburi Station",
+    "numericColumns": [],
+    "tableCaption": "Adjacent stations",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"2\" rowspan=\"1\"> « </th>",
+                "text": "«",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Service </th>",
+                "text": "Service",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"2\" rowspan=\"1\"> » </th>",
+                "text": "»",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"5\" rowspan=\"1\"> <span style=\"color:white\"> Hokuriku Main Line</span> </th>",
+                "text": "Hokuriku Main Line",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"5\" rowspan=\"1\"> <span style=\"color:white\"> Hokuriku Main Line</span> </th>",
+                "text": "Hokuriku Main Line",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"5\" rowspan=\"1\"> <span style=\"color:white\"> Hokuriku Main Line</span> </th>",
+                "text": "Hokuriku Main Line",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"2\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Etchū-Miyazaki_Station\" shape=\"rect\">Etchū-Miyazaki</a> </td>",
+                "text": "Etchū-Miyazaki",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 18785305,
+                            "title": "Etchū-Miyazaki_Station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Etchū-Miyazaki",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> - </td>",
+                "text": "-",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"2\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Oyashirazu_Station\" shape=\"rect\">Oyashirazu</a> </td>",
+                "text": "Oyashirazu",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 18785328,
+                            "title": "Oyashirazu_Station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Oyashirazu",
+                        "inTemplate": false,
+                        "endOffset": 10,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.7101406652946025,
+    "numHeaderRows": 2,
+    "numCols": 3
+}

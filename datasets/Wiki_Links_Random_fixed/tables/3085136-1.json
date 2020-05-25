@@ -1,0 +1,126 @@
+{
+    "sectionTitle": "Airlines and destinations",
+    "pgId": 3085136,
+    "numDataRows": 1,
+    "_id": "3085136-1",
+    "pgTitle": "Dong Tac Airport",
+    "numericColumns": [],
+    "tableCaption": "Airlines and destinations",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Airlines </th>",
+                "text": "Airlines",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Destinations |- </th>",
+                "text": "Destinations |-",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Vietnam_Airlines\" shape=\"rect\">Vietnam Airlines</a></td>",
+                "text": "Vietnam Airlines",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 375019,
+                            "title": "Vietnam_Airlines",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Vietnam Airlines",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Vietnam Airlines operated by <a href=\"http://www.wikipedia.org/wiki/Vietnam_Air_Service_Company\" shape=\"rect\">VASCO</a></td>",
+                "text": "Vietnam Airlines operated by VASCO",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 29,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 14563138,
+                            "title": "Vietnam_Air_Service_Company",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "VASCO",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Ho_Chi_Minh_City_Airport\" shape=\"rect\">Ho Chi Minh City</a> </td>",
+                "text": "Ho Chi Minh City",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1217319,
+                            "title": "Ho_Chi_Minh_City_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ho Chi Minh City",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.5527920674066991,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

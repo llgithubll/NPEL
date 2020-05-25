@@ -1,0 +1,211 @@
+{
+    "sectionTitle": "References",
+    "pgId": 7267098,
+    "numDataRows": 1,
+    "_id": "7267098-1",
+    "pgTitle": "Dorimcheon Station",
+    "numericColumns": [],
+    "tableCaption": "References",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Preceding station </th>",
+                "text": "Preceding station",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\">   </th>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Seoul_Metropolitan_Subway\" shape=\"rect\">Seoul Metropolitan Subway</a> </th>",
+                "text": "Seoul Metropolitan Subway",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 293921,
+                            "title": "Seoul_Metropolitan_Subway",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Seoul Metropolitan Subway",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\">   </th>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Following station </th>",
+                "text": "Following station",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <div> \n       <a href=\"http://www.wikipedia.org/wiki/Sindorim_Station\" shape=\"rect\">Sindorim</a> \n      </div> \n      <div>\n        toward  \n       <a href=\"http://www.wikipedia.org/wiki/City_Hall_Station_(Seoul)\" shape=\"rect\">City Hall</a> \n      </div> </td>",
+                "text": "Sindorim toward City Hall",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 6479700,
+                            "title": "Sindorim_Station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Sindorim",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1159223,
+                            "title": "City_Hall_Station_(Seoul)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "City Hall",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Seoul_Subway_Line_2\" shape=\"rect\">Line 2</a> \n      <div>\n        Sinjeong Branch \n      </div> </td>",
+                "text": "Line 2 Sinjeong Branch",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1241896,
+                            "title": "Seoul_Subway_Line_2",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Line 2",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <div> \n       <a href=\"http://www.wikipedia.org/wiki/Yangcheon-gu_Office_Station\" shape=\"rect\">Yangcheon-gu Office</a> \n      </div> \n      <div>\n        toward  \n       <a href=\"http://www.wikipedia.org/wiki/Kkachisan_Station\" shape=\"rect\">Kkachisan</a> \n      </div> </td>",
+                "text": "Yangcheon-gu Office toward Kkachisan",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7267103,
+                            "title": "Yangcheon-gu_Office_Station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Yangcheon-gu Office",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 27,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9429867,
+                            "title": "Kkachisan_Station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Kkachisan",
+                        "inTemplate": false,
+                        "endOffset": 36,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.2133037531748414,
+    "numHeaderRows": 1,
+    "numCols": 5
+}

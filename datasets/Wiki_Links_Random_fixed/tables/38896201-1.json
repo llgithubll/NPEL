@@ -1,0 +1,157 @@
+{
+    "sectionTitle": "Albums",
+    "pgId": 38896201,
+    "numDataRows": 1,
+    "_id": "38896201-1",
+    "pgTitle": "Isac Elliot",
+    "numericColumns": [
+        2
+    ],
+    "tableCaption": "Albums",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"2\" scope=\"col\"> Title </th>",
+                "text": "Title",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"2\" scope=\"col\"> Album details </th>",
+                "text": "Album details",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> Peak chart positions </th>",
+                "text": "Peak chart positions",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"2\" scope=\"col\"> Title </th>",
+                "text": "Title",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"2\" scope=\"col\"> Album details </th>",
+                "text": "Album details",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> <a href=\"http://www.wikipedia.org/wiki/The_Official_Finnish_Charts\" shape=\"rect\">FIN</a> </th>",
+                "text": "FIN",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7824827,
+                            "title": "The_Official_Finnish_Charts",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "FIN",
+                        "inTemplate": false,
+                        "endOffset": 3,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"row\"> <a href=\"http://www.wikipedia.org/wiki/Wake_Up_World_(album)\" shape=\"rect\">Wake Up World</a> </th>",
+                "text": "Wake Up World",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 39048946,
+                            "title": "Wake_Up_World_(album)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Wake Up World",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Released: May 24, 2013 Label: <a href=\"http://www.wikipedia.org/wiki/Sony_Music_Entertainment\" shape=\"rect\">Sony Music Entertainment</a> Formats: Digital download, CD </td>",
+                "text": "Released: May 24, 2013 Label: Sony Music Entertainment Formats: Digital download, CD",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 30,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1071662,
+                            "title": "Sony_Music_Entertainment",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Sony Music Entertainment",
+                        "inTemplate": false,
+                        "endOffset": 54,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1 </td>",
+                "text": "1",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.2907558723818511,
+    "numHeaderRows": 2,
+    "numCols": 3
+}

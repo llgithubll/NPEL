@@ -1,0 +1,189 @@
+{
+    "sectionTitle": "References",
+    "pgId": 2290342,
+    "numDataRows": 2,
+    "_id": "2290342-2",
+    "pgTitle": "Arafo",
+    "numericColumns": [],
+    "tableCaption": "References",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Northwest: <a href=\"http://www.wikipedia.org/wiki/La_Victoria_de_Acentejo\" shape=\"rect\">La Victoria de Acentejo</a> </td>",
+                "text": "Northwest: La Victoria de Acentejo",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2571860,
+                            "title": "La_Victoria_de_Acentejo",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "La Victoria de Acentejo",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> North: <a href=\"http://www.wikipedia.org/wiki/Candelaria,_Tenerife\" shape=\"rect\">Candelaria</a> </td>",
+                "text": "North: Candelaria",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 7,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2290190,
+                            "title": "Candelaria,_Tenerife",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Candelaria",
+                        "inTemplate": false,
+                        "endOffset": 17,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 2,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> West: <a href=\"http://www.wikipedia.org/wiki/La_Orotava\" shape=\"rect\">La Orotava</a> </td>",
+                "text": "West: La Orotava",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 6,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2522924,
+                            "title": "La_Orotava",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "La Orotava",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Arafo </td>",
+                "text": "Arafo",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> East: <a href=\"http://www.wikipedia.org/wiki/Atlantic_Ocean\" shape=\"rect\">Atlantic Ocean</a> </td>",
+                "text": "East: Atlantic Ocean",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 6,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 698,
+                            "title": "Atlantic_Ocean",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Atlantic Ocean",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> South: <a href=\"http://www.wikipedia.org/wiki/Güímar\" shape=\"rect\">Güímar</a> </td>",
+                "text": "South: Güímar",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 7,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2209343,
+                            "title": "Güímar",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Güímar",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.1482020779512823,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

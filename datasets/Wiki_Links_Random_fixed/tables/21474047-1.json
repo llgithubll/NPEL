@@ -1,0 +1,167 @@
+{
+    "sectionTitle": "Adjacent stations",
+    "pgId": 21474047,
+    "numDataRows": 2,
+    "_id": "21474047-1",
+    "pgTitle": "Ten'yaba Station",
+    "numericColumns": [],
+    "tableCaption": "Adjacent stations",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"2\" rowspan=\"1\"> « </th>",
+                "text": "«",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Service </th>",
+                "text": "Service",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"2\" rowspan=\"1\"> » </th>",
+                "text": "»",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"5\" rowspan=\"1\"> <span style=\"color:white\"> Mooka Line</span> </th>",
+                "text": "Mooka Line",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"5\" rowspan=\"1\"> <span style=\"color:white\"> Mooka Line</span> </th>",
+                "text": "Mooka Line",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"5\" rowspan=\"1\"> <span style=\"color:white\"> Mooka Line</span> </th>",
+                "text": "Mooka Line",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> SL Mooka: no stop </td>",
+                "text": "SL Mooka: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> SL Mooka: no stop </td>",
+                "text": "SL Mooka: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> SL Mooka: no stop </td>",
+                "text": "SL Mooka: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"2\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Sasaharada_Station\" shape=\"rect\">Sasaharada</a> </td>",
+                "text": "Sasaharada",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 21474040,
+                            "title": "Sasaharada_Station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Sasaharada",
+                        "inTemplate": false,
+                        "endOffset": 10,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Local </td>",
+                "text": "Local",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"2\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Motegi_Station\" shape=\"rect\">Motegi</a> </td>",
+                "text": "Motegi",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 21474067,
+                            "title": "Motegi_Station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Motegi",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.2403404188808054,
+    "numHeaderRows": 2,
+    "numCols": 3
+}

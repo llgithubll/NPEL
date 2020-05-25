@@ -1,0 +1,167 @@
+{
+    "sectionTitle": "Seasonal",
+    "pgId": 9683905,
+    "numDataRows": 2,
+    "_id": "9683905-6",
+    "pgTitle": "List of bus routes in Westchester County",
+    "numericColumns": [
+        0
+    ],
+    "tableCaption": "Seasonal",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Route </th>",
+                "text": "Route",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Terminal </th>",
+                "text": "Terminal",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Major streets traveled </th>",
+                "text": "Major streets traveled",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Notes </th>",
+                "text": "Notes",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 6,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> 75 </th>",
+                "text": "75",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Rye_(Metro-North_station)\" shape=\"rect\">Rye</a> Railroad Station </td>",
+                "text": "Rye Railroad Station",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5213929,
+                            "title": "Rye_(Metro-North_station)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Rye",
+                        "inTemplate": false,
+                        "endOffset": 3,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Playland Parkway New England Thruway </td>",
+                "text": "Playland Parkway New England Thruway",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> No intermediate stops. </td>",
+                "text": "No intermediate stops.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> 91 </th>",
+                "text": "91",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Yonkers_(Metro-North_station)\" shape=\"rect\">Yonkers</a> Railroad Station </td>",
+                "text": "Yonkers Railroad Station",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 559440,
+                            "title": "Yonkers_(Metro-North_station)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Yonkers",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Yonkers Avenue South Fulton Avenue Sanford Boulevard Pelhamdale Avenue Boston Post Road New England Thruway </td>",
+                "text": "Yonkers Avenue South Fulton Avenue Sanford Boulevard Pelhamdale Avenue Boston Post Road New England Thruway",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Via Route 7 routing between Yonkers &amp; Mount Vernon, then via 42 routing between Mount Vernon &amp; New Rochelle. Nonstop from New Rochelle to Playland. </td>",
+                "text": "Via Route 7 routing between Yonkers & Mount Vernon, then via 42 routing between Mount Vernon & New Rochelle. Nonstop from New Rochelle to Playland.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.2675928540993482,
+    "numHeaderRows": 1,
+    "numCols": 4
+}

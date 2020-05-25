@@ -1,0 +1,127 @@
+{
+    "sectionTitle": "Pools composition",
+    "pgId": 15925889,
+    "numDataRows": 1,
+    "_id": "15925889-1",
+    "pgTitle": "2003 FIVB Volleyball World League",
+    "numericColumns": [],
+    "tableCaption": "Pools composition",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Pool A </th>",
+                "text": "Pool A",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Pool B </th>",
+                "text": "Pool B",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Pool C </th>",
+                "text": "Pool C",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Pool D </th>",
+                "text": "Pool D",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> [[|]] <span>  </span> [[|]] <span>  </span> [[|]] <span>  </span> [[|]] </td>",
+                "text": "[[|]] [[|]] [[|]] [[|]]",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> [[|]] <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Italy_men's_national_volleyball_team\" shape=\"rect\">Italy</a> <span>  </span> [[|]] <span>  </span> [[|]] </td>",
+                "text": "[[|]] Italy [[|]] [[|]]",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 6,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 8252755,
+                            "title": "Italy_men's_national_volleyball_team",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Italy",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Serbia_and_Montenegro_men's_national_volleyball_team\" shape=\"rect\">Serbia and Montenegro</a> <span>  </span> [[|]] <span>  </span> [[|]] <span>  </span> [[|]] </td>",
+                "text": "Serbia and Montenegro [[|]] [[|]] [[|]]",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 13328858,
+                            "title": "Serbia_and_Montenegro_men's_national_volleyball_team",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Serbia and Montenegro",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> [[|]] <span>  </span> [[|]] <span>  </span> [[|]] <span>  </span> [[|]] </td>",
+                "text": "[[|]] [[|]] [[|]] [[|]]",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.3646639564540237,
+    "numHeaderRows": 1,
+    "numCols": 4
+}

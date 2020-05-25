@@ -1,0 +1,74 @@
+{
+    "sectionTitle": "Standings",
+    "pgId": 36227284,
+    "numDataRows": 1,
+    "_id": "36227284-3",
+    "pgTitle": "2012–13 Basketball League of Serbia",
+    "numericColumns": [],
+    "tableCaption": "Standings",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Qualified for Super League </td>",
+                "text": "Qualified for Super League",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 3,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Relegation to <a href=\"http://www.wikipedia.org/wiki/Basketball_League_of_Serbia_B\" shape=\"rect\">B League</a> </td>",
+                "text": "Relegation to B League",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 30986061,
+                            "title": "Basketball_League_of_Serbia_B",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "B League",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.5461412307340652,
+    "numHeaderRows": 1,
+    "numCols": 2
+}

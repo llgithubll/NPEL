@@ -1,0 +1,67 @@
+{
+    "sectionTitle": "Final",
+    "pgId": 38095928,
+    "numDataRows": 2,
+    "_id": "38095928-6",
+    "pgTitle": "2013 Currie Cup First Division",
+    "numericColumns": [],
+    "tableCaption": "Log",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2013 Absa Currie Cup First Division Champions </td>",
+                "text": "2013 Absa Currie Cup First Division Champions",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 6,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Pumas_(rugby_team)\" shape=\"rect\">Pumas</a> </td>",
+                "text": "Pumas",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5476539,
+                            "title": "Pumas_(rugby_team)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Pumas",
+                        "inTemplate": false,
+                        "endOffset": 5,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 3rd title </td>",
+                "text": "3rd title",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.3373770334292203,
+    "numHeaderRows": 1,
+    "numCols": 1
+}

@@ -1,0 +1,124 @@
+{
+    "sectionTitle": "Wards",
+    "pgId": 27307434,
+    "numDataRows": 2,
+    "_id": "27307434-36",
+    "pgTitle": "Manitoba municipal elections, 2010",
+    "numericColumns": [
+        1,
+        2
+    ],
+    "tableCaption": "2010 St. Boniface",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Candidate </th>",
+                "text": "Candidate",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Vote </th>",
+                "text": "Vote",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> % </th>",
+                "text": "%",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 36,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> (x) <a href=\"http://www.wikipedia.org/wiki/Dan_Vandal\" shape=\"rect\">Dan Vandal</a></td>",
+                "text": "(x) Dan Vandal",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 4,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 649430,
+                            "title": "Dan_Vandal",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Dan Vandal",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 15,242 </td>",
+                "text": "15,242",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 82.2 </td>",
+                "text": "82.2",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Christopher Watt</td>",
+                "text": "Christopher Watt",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 3,291 </td>",
+                "text": "3,291",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 17.8 </td>",
+                "text": "17.8",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.5970642485190183,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

@@ -1,0 +1,90 @@
+{
+    "sectionTitle": "Studio albums",
+    "pgId": 27979087,
+    "numDataRows": 1,
+    "_id": "27979087-1",
+    "pgTitle": "The World Famous Tony Williams",
+    "numericColumns": [],
+    "tableCaption": "List of albums, with selected information",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> Title </th>",
+                "text": "Title",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> Album details </th>",
+                "text": "Album details",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"row\"> King or the Fool </th>",
+                "text": "King or the Fool",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Released: February 14, 2012 Label: The High Society Formats: <a href=\"http://www.wikipedia.org/wiki/Compact_Disc\" shape=\"rect\">CD</a>, <a href=\"http://www.wikipedia.org/wiki/Music_download\" shape=\"rect\">digital download</a> </td>",
+                "text": "Released: February 14, 2012 Label: The High Society Formats: CD , digital download",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 61,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 6429,
+                            "title": "Compact_Disc",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "CD",
+                        "inTemplate": false,
+                        "endOffset": 63,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 66,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 797714,
+                            "title": "Music_download",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "digital download",
+                        "inTemplate": false,
+                        "endOffset": 82,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.4031754361931235,
+    "numHeaderRows": 1,
+    "numCols": 2
+}

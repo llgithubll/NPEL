@@ -1,0 +1,109 @@
+{
+    "sectionTitle": "Daddy Long-Legs",
+    "pgId": 3615512,
+    "numDataRows": 1,
+    "_id": "3615512-15",
+    "pgTitle": "MythBusters (2004 season)",
+    "numericColumns": [],
+    "tableCaption": "Daddy Long-Legs",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Myth statement </th>",
+                "text": "Myth statement",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Status </th>",
+                "text": "Status",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Notes </th>",
+                "text": "Notes",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 15,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> A <a href=\"http://www.wikipedia.org/wiki/Pholcus_phalangioides\" shape=\"rect\">Daddy long-legs spider</a> has the most potent venom of all spiders, but is unable to pierce human skin. </td>",
+                "text": "A Daddy long-legs spider has the most potent venom of all spiders, but is unable to pierce human skin.",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 2,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 21393779,
+                            "title": "Pholcus_phalangioides",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Daddy long-legs spider",
+                        "inTemplate": false,
+                        "endOffset": 24,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Busted </td>",
+                "text": "Busted",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> A Daddy long-legs was able to bite through the skin of Adam's arm. He reported nothing more than a very mild, short-lived burning sensation. Analysis of the venom proves it does not approach the potency of the <a href=\"http://www.wikipedia.org/wiki/Latrodectus\" shape=\"rect\">Black widow spider</a>. </td>",
+                "text": "A Daddy long-legs was able to bite through the skin of Adam's arm. He reported nothing more than a very mild, short-lived burning sensation. Analysis of the venom proves it does not approach the potency of the Black widow spider .",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 210,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 287667,
+                            "title": "Latrodectus",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Black widow spider",
+                        "inTemplate": false,
+                        "endOffset": 228,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.1731163295917213,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

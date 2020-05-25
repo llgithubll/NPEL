@@ -1,0 +1,125 @@
+{
+    "sectionTitle": "Airlines and Destinations",
+    "pgId": 35020700,
+    "numDataRows": 1,
+    "_id": "35020700-1",
+    "pgTitle": "Takaka Aerodrome",
+    "numericColumns": [],
+    "tableCaption": "Airlines and Destinations",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Airlines </th>",
+                "text": "Airlines",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Destinations |- </th>",
+                "text": "Destinations |-",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Golden_Bay_Air\" shape=\"rect\">Golden Bay Air</a> </td>",
+                "text": "Golden Bay Air",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3801930,
+                            "title": "Golden_Bay_Air",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Golden Bay Air",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Remote Adventures </td>",
+                "text": "Remote Adventures",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Nelson_Airport_(New_Zealand)\" shape=\"rect\">Nelson</a>, <a href=\"http://www.wikipedia.org/wiki/Paraparaumu_Airport\" shape=\"rect\">Paraparaumu</a> </td>",
+                "text": "Nelson , Paraparaumu",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9989070,
+                            "title": "Nelson_Airport_(New_Zealand)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Nelson",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 9,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7529354,
+                            "title": "Paraparaumu_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Paraparaumu",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.9722155935596675,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

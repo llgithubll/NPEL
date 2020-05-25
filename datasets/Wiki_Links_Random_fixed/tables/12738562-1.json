@@ -1,0 +1,141 @@
+{
+    "sectionTitle": "Services",
+    "pgId": 12738562,
+    "numDataRows": 1,
+    "_id": "12738562-1",
+    "pgTitle": "Jaume I (Barcelona Metro)",
+    "numericColumns": [],
+    "tableCaption": "Services",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Preceding station </th>",
+                "text": "Preceding station",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\">   </th>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Following station </th>",
+                "text": "Following station",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <div> \n       <a href=\"http://www.wikipedia.org/wiki/Urquinaona_(Barcelona_Metro)\" shape=\"rect\">Urquinaona</a> \n      </div> \n      <div>\n        toward  \n       <a href=\"http://www.wikipedia.org/wiki/Trinitat_Nova_(Barcelona_Metro)\" shape=\"rect\">Trinitat Nova</a> \n      </div> </td>",
+                "text": "Urquinaona toward Trinitat Nova",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 11798023,
+                            "title": "Urquinaona_(Barcelona_Metro)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Urquinaona",
+                        "inTemplate": false,
+                        "endOffset": 10,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 18,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 10503115,
+                            "title": "Trinitat_Nova_(Barcelona_Metro)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Trinitat Nova",
+                        "inTemplate": false,
+                        "endOffset": 31,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <div> \n       <a href=\"http://www.wikipedia.org/wiki/Barceloneta_(Barcelona_Metro)\" shape=\"rect\">Barceloneta</a> \n      </div> \n      <div>\n        toward  \n       <a href=\"http://www.wikipedia.org/wiki/La_Pau_(Barcelona_Metro)\" shape=\"rect\">La Pau</a> \n      </div> </td>",
+                "text": "Barceloneta toward La Pau",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 10966932,
+                            "title": "Barceloneta_(Barcelona_Metro)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Barceloneta",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 19,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 10504058,
+                            "title": "La_Pau_(Barcelona_Metro)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "La Pau",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.04966944735497236,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

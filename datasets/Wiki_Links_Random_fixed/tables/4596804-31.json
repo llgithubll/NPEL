@@ -1,0 +1,142 @@
+{
+    "sectionTitle": "1700s",
+    "pgId": 4596804,
+    "numDataRows": 1,
+    "_id": "4596804-31",
+    "pgTitle": "Timeline of country and capital changes",
+    "numericColumns": [
+        0
+    ],
+    "tableCaption": "1700s",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Year</th>",
+                "text": "Year",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Date</th>",
+                "text": "Date",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Event </th>",
+                "text": "Event",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 31,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1707</td>",
+                "text": "1707",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> May 1</td>",
+                "text": "May1",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> The <a href=\"http://www.wikipedia.org/wiki/Kingdom_of_England\" shape=\"rect\">Kingdom of England</a> and the <a href=\"http://www.wikipedia.org/wiki/Kingdom_of_Scotland\" shape=\"rect\">Kingdom of Scotland</a> unite to form the <a href=\"http://www.wikipedia.org/wiki/Kingdom_of_Great_Britain\" shape=\"rect\">Kingdom of Great Britain</a>. <a href=\"http://www.wikipedia.org/wiki/Edinburgh\" shape=\"rect\">Edinburgh</a> yields to London as the capital for all but judicial functions. </td>",
+                "text": "The Kingdom of England and the Kingdom of Scotland unite to form the Kingdom of Great Britain . Edinburgh yields to London as the capital for all but judicial functions.",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 4,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 407950,
+                            "title": "Kingdom_of_England",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Kingdom of England",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 31,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 23248387,
+                            "title": "Kingdom_of_Scotland",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Kingdom of Scotland",
+                        "inTemplate": false,
+                        "endOffset": 50,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 47,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 158019,
+                            "title": "Kingdom_of_Great_Britain",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Kingdom of Great Britain",
+                        "inTemplate": false,
+                        "endOffset": 71,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 46,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9602,
+                            "title": "Edinburgh",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Edinburgh",
+                        "inTemplate": false,
+                        "endOffset": 55,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.03829595609568059,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

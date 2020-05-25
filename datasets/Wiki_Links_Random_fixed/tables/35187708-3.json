@@ -1,0 +1,166 @@
+{
+    "sectionTitle": "Year-end charts",
+    "pgId": 35187708,
+    "numDataRows": 3,
+    "_id": "35187708-3",
+    "pgTitle": "Pluto (Future album)",
+    "numericColumns": [
+        1
+    ],
+    "tableCaption": "Year-end charts",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> Chart (2012) </th>",
+                "text": "Chart (2012)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> position </th>",
+                "text": "position",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 3,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> U.S. <a href=\"http://www.wikipedia.org/wiki/Billboard_200\" shape=\"rect\">Billboard 200</a> </td>",
+                "text": "U.S. Billboard 200",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 5,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 730350,
+                            "title": "Billboard_200",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Billboard 200",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 141 </td>",
+                "text": "141",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> U.S. <a href=\"http://www.wikipedia.org/wiki/Billboard_(magazine)\" shape=\"rect\">Billboard</a> <a href=\"http://www.wikipedia.org/wiki/Top_R&amp;B/Hip-Hop_Albums\" shape=\"rect\">Top R&amp;B/Hip-Hop Albums</a> </td>",
+                "text": "U.S. Billboard Top R&B/Hip-Hop Albums",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 5,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 18309966,
+                            "title": "Billboard_(magazine)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Billboard",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 31 </td>",
+                "text": "31",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> U.S. <a href=\"http://www.wikipedia.org/wiki/Billboard_(magazine)\" shape=\"rect\">Billboard</a> <a href=\"http://www.wikipedia.org/wiki/Top_Rap_Albums\" shape=\"rect\">Top Rap Albums</a> </td>",
+                "text": "U.S. Billboard Top Rap Albums",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 5,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 18309966,
+                            "title": "Billboard_(magazine)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Billboard",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 21961480,
+                            "title": "Top_Rap_Albums",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Top Rap Albums",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 19 </td>",
+                "text": "19",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.205362327164039,
+    "numHeaderRows": 1,
+    "numCols": 2
+}

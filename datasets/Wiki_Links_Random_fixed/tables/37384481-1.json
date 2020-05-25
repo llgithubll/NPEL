@@ -1,0 +1,110 @@
+{
+    "sectionTitle": "Toyota Agya",
+    "pgId": 37384481,
+    "numDataRows": 2,
+    "_id": "37384481-1",
+    "pgTitle": "Toyota Agya",
+    "numericColumns": [],
+    "tableCaption": "Toyota Agya",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> </th>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> 1.0 E </th>",
+                "text": "1.0 E",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Transmission </td>",
+                "text": "Transmission",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Manual and automatic </td>",
+                "text": "Manual and automatic",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Price </td>",
+                "text": "Price",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span style=\"white-space:nowrap;\"> <a href=\"http://www.wikipedia.org/wiki/Indonesian_rupiah\" shape=\"rect\">Rp </a></span> (manual) <span style=\"white-space:nowrap;\"> <a href=\"http://www.wikipedia.org/wiki/Indonesian_rupiah\" shape=\"rect\">Rp </a></span> (automatic) </td>",
+                "text": "Rp (manual) Rp (automatic)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 367435,
+                            "title": "Indonesian_rupiah",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Rp",
+                        "inTemplate": false,
+                        "endOffset": 2,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 367435,
+                            "title": "Indonesian_rupiah",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Rp",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.3268469092436135,
+    "numHeaderRows": 1,
+    "numCols": 2
+}

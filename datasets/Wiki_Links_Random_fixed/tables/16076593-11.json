@@ -1,0 +1,825 @@
+{
+    "sectionTitle": "Individual",
+    "pgId": 16076593,
+    "numDataRows": 5,
+    "_id": "16076593-11",
+    "pgTitle": "Gymnastics at the World Games",
+    "numericColumns": [],
+    "tableCaption": "Individual",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> Games </th>",
+                "text": "Games",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> Gold </th>",
+                "text": "Gold",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> Silver </th>",
+                "text": "Silver",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> Bronze </th>",
+                "text": "Bronze",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 11,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/1997_World_Games\" shape=\"rect\">1997 Lahti</a> </td>",
+                "text": "1997 Lahti",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 18207550,
+                            "title": "1997_World_Games",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "1997 Lahti",
+                        "inTemplate": false,
+                        "endOffset": 10,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Vito_Iaia\" shape=\"rect\">Vito Iaia</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/Italy\" shape=\"rect\">ITA</a>)</span> </td>",
+                "text": "Vito Iaia ( ITA )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Vito_Iaia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Vito Iaia",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 14532,
+                            "title": "Italy",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "ITA",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Adrien_Galo\" shape=\"rect\">Adrien Galo</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/France\" shape=\"rect\">FRA</a>)</span> </td>",
+                "text": "Adrien Galo ( FRA )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Adrien_Galo",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Adrien Galo",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5843419,
+                            "title": "France",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "FRA",
+                        "inTemplate": false,
+                        "endOffset": 17,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Sergey_Konstantinov\" shape=\"rect\">Sergey Konstantinov</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/Russia\" shape=\"rect\">RUS</a>)</span> </td>",
+                "text": "Sergey Konstantinov ( RUS )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Sergey_Konstantinov",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Sergey Konstantinov",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 22,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25391,
+                            "title": "Russia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "RUS",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/2001_World_Games\" shape=\"rect\">2001 Akita</a> </td>",
+                "text": "2001 Akita",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7425758,
+                            "title": "2001_World_Games",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "2001 Akita",
+                        "inTemplate": false,
+                        "endOffset": 10,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Jonatan_Cañada\" shape=\"rect\">Jonatan Cañada</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/Spain\" shape=\"rect\">ESP</a>)</span> </td>",
+                "text": "Jonatan Cañada ( ESP )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Jonatan_Cañada",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Jonatan Cañada",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 26667,
+                            "title": "Spain",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "ESP",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Park_Kwang-Soo\" shape=\"rect\">Park Kwang-Soo</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/South_Korea\" shape=\"rect\">KOR</a>)</span> </td>",
+                "text": "Park Kwang-Soo ( KOR )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Park_Kwang-Soo",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Park Kwang-Soo",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27019,
+                            "title": "South_Korea",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "KOR",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Grégory_Alcan\" shape=\"rect\">Grégory Alcan</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/France\" shape=\"rect\">FRA</a>)</span> </td>",
+                "text": "Grégory Alcan ( FRA )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Grégory_Alcan",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Grégory Alcan",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5843419,
+                            "title": "France",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "FRA",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/2005_World_Games\" shape=\"rect\">2005 Duisburg</a> </td>",
+                "text": "2005 Duisburg",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2248375,
+                            "title": "2005_World_Games",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "2005 Duisburg",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Jozef_Wadecki\" shape=\"rect\">Jozef Wadecki</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/Poland\" shape=\"rect\">POL</a>)</span> </td>",
+                "text": "Jozef Wadecki ( POL )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Jozef_Wadecki",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Jozef Wadecki",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22936,
+                            "title": "Poland",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "POL",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Andrey_Kabishev\" shape=\"rect\">Andrey Kabishev</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/Belarus\" shape=\"rect\">BLR</a>)</span> </td>",
+                "text": "Andrey Kabishev ( BLR )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Andrey_Kabishev",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Andrey Kabishev",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 18,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3457,
+                            "title": "Belarus",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "BLR",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Aleksandr_Skorodumov\" shape=\"rect\">Aleksandr Skorodumov</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/Russia\" shape=\"rect\">RUS</a>)</span> </td>",
+                "text": "Aleksandr Skorodumov ( RUS )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Aleksandr_Skorodumov",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Aleksandr Skorodumov",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 23,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25391,
+                            "title": "Russia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "RUS",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Aerobic_Gymnastics_at_the_2009_World_Games\" shape=\"rect\">2009 Kaohsiung</a> </td>",
+                "text": "2009 Kaohsiung",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 23719793,
+                            "title": "Aerobic_Gymnastics_at_the_2009_World_Games",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "2009 Kaohsiung",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Ivan_Parejo\" shape=\"rect\">Ivan Parejo</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/Spain\" shape=\"rect\">ESP</a>)</span> </td>",
+                "text": "Ivan Parejo ( ESP )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 19064702,
+                            "title": "Ivan_Parejo",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ivan Parejo",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 26667,
+                            "title": "Spain",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "ESP",
+                        "inTemplate": false,
+                        "endOffset": 17,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Morgan_Jacquemin\" shape=\"rect\">Morgan Jacquemin</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/France\" shape=\"rect\">FRA</a>)</span> </td>",
+                "text": "Morgan Jacquemin ( FRA )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Morgan_Jacquemin",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Morgan Jacquemin",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 19,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5843419,
+                            "title": "France",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "FRA",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Alexander_Kondratichev\" shape=\"rect\">Alexander Kondratichev</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/Russia\" shape=\"rect\">RUS</a>)</span> </td>",
+                "text": "Alexander Kondratichev ( RUS )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Alexander_Kondratichev",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Alexander Kondratichev",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 25,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25391,
+                            "title": "Russia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "RUS",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Aerobic_Gymnastics_at_the_2013_World_Games\" shape=\"rect\">2013 Cali</a> </td>",
+                "text": "2013 Cali",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Aerobic_Gymnastics_at_the_2013_World_Games",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "2013 Cali",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Benjamin_Garavel\" shape=\"rect\">Benjamin Garavel</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/France\" shape=\"rect\">FRA</a>)</span> </td>",
+                "text": "Benjamin Garavel ( FRA )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Benjamin_Garavel",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Benjamin Garavel",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 19,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5843419,
+                            "title": "France",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "FRA",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Vicente_Lli\" shape=\"rect\">Vicente Lli</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/Spain\" shape=\"rect\">ESP</a>)</span> </td>",
+                "text": "Vicente Lli ( ESP )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Vicente_Lli",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Vicente Lli",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 26667,
+                            "title": "Spain",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "ESP",
+                        "inTemplate": false,
+                        "endOffset": 17,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span>  </span> <a href=\"http://www.wikipedia.org/wiki/Ryu_Ju-Sun\" shape=\"rect\">Ryu Ju-Sun</a> <span style=\"font-size:90%;\"> ( <a href=\"http://www.wikipedia.org/wiki/South_Korea\" shape=\"rect\">KOR</a>)</span> </td>",
+                "text": "Ryu Ju-Sun ( KOR )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Ryu_Ju-Sun",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ryu Ju-Sun",
+                        "inTemplate": false,
+                        "endOffset": 10,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27019,
+                            "title": "South_Korea",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "KOR",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.1494215745478868,
+    "numHeaderRows": 1,
+    "numCols": 4
+}

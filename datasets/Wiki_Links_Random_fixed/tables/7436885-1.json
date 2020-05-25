@@ -1,0 +1,380 @@
+{
+    "sectionTitle": "Adjacent stations",
+    "pgId": 7436885,
+    "numDataRows": 5,
+    "_id": "7436885-1",
+    "pgTitle": "Kanagawa Station (Kanagawa)",
+    "numericColumns": [],
+    "tableCaption": "Adjacent stations",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"2\" rowspan=\"1\"> « </th>",
+                "text": "«",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"2\" rowspan=\"1\"> « </th>",
+                "text": "«",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Service </th>",
+                "text": "Service",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"2\" rowspan=\"1\"> » </th>",
+                "text": "»",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"2\" rowspan=\"1\"> » </th>",
+                "text": "»",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"5\" rowspan=\"1\"> <span style=\"color:white\"> Keikyū Main Line</span> </th>",
+                "text": "Keikyū Main Line",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"5\" rowspan=\"1\"> <span style=\"color:white\"> Keikyū Main Line</span> </th>",
+                "text": "Keikyū Main Line",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"5\" rowspan=\"1\"> <span style=\"color:white\"> Keikyū Main Line</span> </th>",
+                "text": "Keikyū Main Line",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"5\" rowspan=\"1\"> <span style=\"color:white\"> Keikyū Main Line</span> </th>",
+                "text": "Keikyū Main Line",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"5\" rowspan=\"1\"> <span style=\"color:white\"> Keikyū Main Line</span> </th>",
+                "text": "Keikyū Main Line",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Nakakido_Station\" shape=\"rect\">Nakakido</a> </td>",
+                "text": "Nakakido",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 7436814,
+                            "title": "Nakakido_Station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Nakakido",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\">   </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Local </td>",
+                "text": "Local",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\">   </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Yokohama_Station\" shape=\"rect\">Yokohama</a> </td>",
+                "text": "Yokohama",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 735664,
+                            "title": "Yokohama_Station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Yokohama",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> Airport Express: no stop </td>",
+                "text": "Airport Express: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> Airport Express: no stop </td>",
+                "text": "Airport Express: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> Airport Express: no stop </td>",
+                "text": "Airport Express: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> Airport Express: no stop </td>",
+                "text": "Airport Express: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> Airport Express: no stop </td>",
+                "text": "Airport Express: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> Ltd. Express: no stop </td>",
+                "text": "Ltd. Express: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> Ltd. Express: no stop </td>",
+                "text": "Ltd. Express: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> Ltd. Express: no stop </td>",
+                "text": "Ltd. Express: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> Ltd. Express: no stop </td>",
+                "text": "Ltd. Express: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> Ltd. Express: no stop </td>",
+                "text": "Ltd. Express: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> Rapid Ltd. Express: no stop </td>",
+                "text": "Rapid Ltd. Express: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> Rapid Ltd. Express: no stop </td>",
+                "text": "Rapid Ltd. Express: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> Rapid Ltd. Express: no stop </td>",
+                "text": "Rapid Ltd. Express: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> Rapid Ltd. Express: no stop </td>",
+                "text": "Rapid Ltd. Express: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> Rapid Ltd. Express: no stop </td>",
+                "text": "Rapid Ltd. Express: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> Keikyu Wing: no stop </td>",
+                "text": "Keikyu Wing: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> Keikyu Wing: no stop </td>",
+                "text": "Keikyu Wing: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> Keikyu Wing: no stop </td>",
+                "text": "Keikyu Wing: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> Keikyu Wing: no stop </td>",
+                "text": "Keikyu Wing: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"5\" rowspan=\"1\"> Keikyu Wing: no stop </td>",
+                "text": "Keikyu Wing: no stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.6815081941895187,
+    "numHeaderRows": 2,
+    "numCols": 5
+}

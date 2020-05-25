@@ -1,0 +1,4266 @@
+{
+    "_id": "1054022-8",
+    "numCols": 4,
+    "numDataRows": 20,
+    "numHeaderRows": 1,
+    "numericColumns": [],
+    "order": 0.1833933850284666,
+    "pgId": 1054022,
+    "pgTitle": "South Texas",
+    "sectionTitle": "Sports",
+    "tableCaption": "Sports",
+    "tableData": [
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "San Antonio Spurs",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/San_Antonio_Spurs\" shape=\"rect\">San Antonio Spurs</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 17,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 72889,
+                            "language": "en",
+                            "title": "San_Antonio_Spurs",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "San Antonio Spurs",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Basketball",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"4\"> <a href=\"http://www.wikipedia.org/wiki/Basketball\" shape=\"rect\">Basketball</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 10,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3921,
+                            "language": "en",
+                            "title": "Basketball",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Basketball",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "NBA",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/NBA\" shape=\"rect\">NBA</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 3,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 22093,
+                            "language": "en",
+                            "title": "NBA",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "NBA",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "AT&T Center",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/AT&amp;T_Center\" shape=\"rect\">AT&amp;T Center</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 11,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 753598,
+                            "language": "en",
+                            "title": "AT&T_Center",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "AT&T Center",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "San Antonio Silver Stars",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/San_Antonio_Silver_Stars\" shape=\"rect\">San Antonio Silver Stars</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 24,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 240212,
+                            "language": "en",
+                            "title": "San_Antonio_Silver_Stars",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "San Antonio Silver Stars",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Basketball",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"4\"> <a href=\"http://www.wikipedia.org/wiki/Basketball\" shape=\"rect\">Basketball</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 10,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3921,
+                            "language": "en",
+                            "title": "Basketball",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Basketball",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "WNBA",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/WNBA\" shape=\"rect\">WNBA</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 57721,
+                            "language": "en",
+                            "title": "WNBA",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "WNBA",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "AT&T Center",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/AT&amp;T_Center\" shape=\"rect\">AT&amp;T Center</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 11,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 753598,
+                            "language": "en",
+                            "title": "AT&T_Center",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "AT&T Center",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Rio Grande Valley Vipers",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Rio_Grande_Valley_Vipers\" shape=\"rect\">Rio Grande Valley Vipers</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 24,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 9094620,
+                            "language": "en",
+                            "title": "Rio_Grande_Valley_Vipers",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Rio Grande Valley Vipers",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Basketball",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"4\"> <a href=\"http://www.wikipedia.org/wiki/Basketball\" shape=\"rect\">Basketball</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 10,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3921,
+                            "language": "en",
+                            "title": "Basketball",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Basketball",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "NBA D-League",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/NBA_D-League\" shape=\"rect\">NBA D-League</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 12,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 450389,
+                            "language": "en",
+                            "title": "NBA_D-League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "NBA D-League",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "State Farm Arena",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/State_Farm_Arena\" shape=\"rect\">State Farm Arena</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 16,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1956685,
+                            "language": "en",
+                            "title": "State_Farm_Arena",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "State Farm Arena",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Toros de Los Dos Laredos",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Toros_de_Los_Dos_Laredos\" shape=\"rect\">Toros de Los Dos Laredos</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 24,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 17003167,
+                            "language": "en",
+                            "title": "Toros_de_Los_Dos_Laredos",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Toros de Los Dos Laredos",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Basketball",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"4\"> <a href=\"http://www.wikipedia.org/wiki/Basketball\" shape=\"rect\">Basketball</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 10,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3921,
+                            "language": "en",
+                            "title": "Basketball",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Basketball",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "LNBP",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Liga_Nacional_de_Baloncesto_Profesional\" shape=\"rect\">LNBP</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 4666038,
+                            "language": "en",
+                            "title": "Liga_Nacional_de_Baloncesto_Profesional",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "LNBP",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Laredo Energy Arena",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Laredo_Energy_Arena\" shape=\"rect\">Laredo Energy Arena</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 19,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1958513,
+                            "language": "en",
+                            "title": "Laredo_Energy_Arena",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Laredo Energy Arena",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "San Antonio Talons",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/San_Antonio_Talons\" shape=\"rect\">San Antonio Talons</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 18,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1956647,
+                            "language": "en",
+                            "title": "San_Antonio_Talons",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "San Antonio Talons",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Arena Football",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"3\"> <a href=\"http://www.wikipedia.org/wiki/Indoor_American_football\" shape=\"rect\">Arena Football</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 14,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 619905,
+                            "language": "en",
+                            "title": "Indoor_American_football",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Arena Football",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "AFL",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Arena_Football_League\" shape=\"rect\">AFL</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 3,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 59084,
+                            "language": "en",
+                            "title": "Arena_Football_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "AFL",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Alamodome",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Alamodome\" shape=\"rect\">Alamodome</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 9,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 759780,
+                            "language": "en",
+                            "title": "Alamodome",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Alamodome",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Corpus Christi Hammerheads",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Corpus_Christi_Hammerheads\" shape=\"rect\">Corpus Christi Hammerheads</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 26,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 834201,
+                            "language": "en",
+                            "title": "Corpus_Christi_Hammerheads",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Corpus Christi Hammerheads",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Arena Football",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"3\"> <a href=\"http://www.wikipedia.org/wiki/Indoor_American_football\" shape=\"rect\">Arena Football</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 14,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 619905,
+                            "language": "en",
+                            "title": "Indoor_American_football",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Arena Football",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Lone Star Football League",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Lone_Star_Football_League\" shape=\"rect\">Lone Star Football League</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 25,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 33077381,
+                            "language": "en",
+                            "title": "Lone_Star_Football_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Lone Star Football League",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "American Bank Center",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/American_Bank_Center\" shape=\"rect\">American Bank Center</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 20,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1890571,
+                            "language": "en",
+                            "title": "American_Bank_Center",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "American Bank Center",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Laredo Rattlesnakes",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Laredo_Rattlesnakes\" shape=\"rect\">Laredo Rattlesnakes</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 19,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 32471077,
+                            "language": "en",
+                            "title": "Laredo_Rattlesnakes",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Laredo Rattlesnakes",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Arena Football",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"3\"> <a href=\"http://www.wikipedia.org/wiki/Indoor_American_football\" shape=\"rect\">Arena Football</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 14,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 619905,
+                            "language": "en",
+                            "title": "Indoor_American_football",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Arena Football",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Lone Star Football League",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Lone_Star_Football_League\" shape=\"rect\">Lone Star Football League</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 25,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 33077381,
+                            "language": "en",
+                            "title": "Lone_Star_Football_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Lone Star Football League",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Laredo Energy Arena",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Laredo_Energy_Arena\" shape=\"rect\">Laredo Energy Arena</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 19,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1958513,
+                            "language": "en",
+                            "title": "Laredo_Energy_Arena",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Laredo Energy Arena",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Corpus Christi Hooks",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Corpus_Christi_Hooks\" shape=\"rect\">Corpus Christi Hooks</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 20,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 586749,
+                            "language": "en",
+                            "title": "Corpus_Christi_Hooks",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Corpus Christi Hooks",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Baseball",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"6\"> <a href=\"http://www.wikipedia.org/wiki/Baseball\" shape=\"rect\">Baseball</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3850,
+                            "language": "en",
+                            "title": "Baseball",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Baseball",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Texas League",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Texas_League\" shape=\"rect\">Texas League</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 12,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 70292,
+                            "language": "en",
+                            "title": "Texas_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Texas League",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Whataburger Field",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Whataburger_Field\" shape=\"rect\">Whataburger Field</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 17,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 2004367,
+                            "language": "en",
+                            "title": "Whataburger_Field",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Whataburger Field",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "San Antonio Missions",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/San_Antonio_Missions\" shape=\"rect\">San Antonio Missions</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 20,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 672593,
+                            "language": "en",
+                            "title": "San_Antonio_Missions",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "San Antonio Missions",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Baseball",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"6\"> <a href=\"http://www.wikipedia.org/wiki/Baseball\" shape=\"rect\">Baseball</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3850,
+                            "language": "en",
+                            "title": "Baseball",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Baseball",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Texas League",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Texas_League\" shape=\"rect\">Texas League</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 12,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 70292,
+                            "language": "en",
+                            "title": "Texas_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Texas League",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Nelson W. Wolff Municipal Stadium",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Nelson_W._Wolff_Municipal_Stadium\" shape=\"rect\">Nelson W. Wolff Municipal Stadium</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 33,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 2268462,
+                            "language": "en",
+                            "title": "Nelson_W._Wolff_Municipal_Stadium",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Nelson W. Wolff Municipal Stadium",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Laredo Lemurs",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Laredo_Lemurs\" shape=\"rect\">Laredo Lemurs</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 13,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 32690152,
+                            "language": "en",
+                            "title": "Laredo_Lemurs",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Laredo Lemurs",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Baseball",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"6\"> <a href=\"http://www.wikipedia.org/wiki/Baseball\" shape=\"rect\">Baseball</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3850,
+                            "language": "en",
+                            "title": "Baseball",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Baseball",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "AAIPB",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/American_Association_of_Independent_Professional_Baseball\" shape=\"rect\">AAIPB</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 5,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 2896133,
+                            "language": "en",
+                            "title": "American_Association_of_Independent_Professional_Baseball",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "AAIPB",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Laredo Ballpark",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Laredo_Ballpark\" shape=\"rect\">Laredo Ballpark</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 15,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 20089498,
+                            "language": "en",
+                            "title": "Laredo_Ballpark",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Laredo Ballpark",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "McAllen Thunder",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/McAllen_Thunder\" shape=\"rect\">McAllen Thunder</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 15,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 22531024,
+                            "language": "en",
+                            "title": "McAllen_Thunder",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "McAllen Thunder",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Baseball",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"6\"> <a href=\"http://www.wikipedia.org/wiki/Baseball\" shape=\"rect\">Baseball</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3850,
+                            "language": "en",
+                            "title": "Baseball",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Baseball",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "North American League",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"3\"> <a href=\"http://www.wikipedia.org/wiki/North_American_League_(baseball)\" shape=\"rect\">North American League</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 21,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 36092361,
+                            "language": "en",
+                            "title": "North_American_League_(baseball)",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "North American League",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Edinburg Stadium",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Edinburg_Stadium\" shape=\"rect\">Edinburg Stadium</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 16,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3659979,
+                            "language": "en",
+                            "title": "Edinburg_Stadium",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Edinburg Stadium",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Edinburg Roadrunners",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Edinburg_Roadrunners\" shape=\"rect\">Edinburg Roadrunners</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 20,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 4337592,
+                            "language": "en",
+                            "title": "Edinburg_Roadrunners",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Edinburg Roadrunners",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Baseball",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"6\"> <a href=\"http://www.wikipedia.org/wiki/Baseball\" shape=\"rect\">Baseball</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3850,
+                            "language": "en",
+                            "title": "Baseball",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Baseball",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "North American League",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"3\"> <a href=\"http://www.wikipedia.org/wiki/North_American_League_(baseball)\" shape=\"rect\">North American League</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 21,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 36092361,
+                            "language": "en",
+                            "title": "North_American_League_(baseball)",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "North American League",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Edinburg Stadium",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Edinburg_Stadium\" shape=\"rect\">Edinburg Stadium</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 16,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3659979,
+                            "language": "en",
+                            "title": "Edinburg_Stadium",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Edinburg Stadium",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Rio Grande Valley WhiteWings",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Rio_Grande_Valley_WhiteWings\" shape=\"rect\">Rio Grande Valley WhiteWings</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 28,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 4629683,
+                            "language": "en",
+                            "title": "Rio_Grande_Valley_WhiteWings",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Rio Grande Valley WhiteWings",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Baseball",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"6\"> <a href=\"http://www.wikipedia.org/wiki/Baseball\" shape=\"rect\">Baseball</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3850,
+                            "language": "en",
+                            "title": "Baseball",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Baseball",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "North American League",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"3\"> <a href=\"http://www.wikipedia.org/wiki/North_American_League_(baseball)\" shape=\"rect\">North American League</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 21,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 36092361,
+                            "language": "en",
+                            "title": "North_American_League_(baseball)",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "North American League",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Harlingen Field",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Harlingen_Field\" shape=\"rect\">Harlingen Field</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 15,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1391862,
+                            "language": "en",
+                            "title": "Harlingen_Field",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Harlingen Field",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "San Antonio Rampage",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/San_Antonio_Rampage\" shape=\"rect\">San Antonio Rampage</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 19,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1034015,
+                            "language": "en",
+                            "title": "San_Antonio_Rampage",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "San Antonio Rampage",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Ice hockey",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Ice_hockey\" shape=\"rect\">Ice hockey</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 10,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 14790,
+                            "language": "en",
+                            "title": "Ice_hockey",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Ice hockey",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "American Hockey League",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/American_Hockey_League\" shape=\"rect\">American Hockey League</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 22,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 207085,
+                            "language": "en",
+                            "title": "American_Hockey_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "American Hockey League",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "AT&T Center",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/AT&amp;T_Center\" shape=\"rect\">AT&amp;T Center</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 11,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 753598,
+                            "language": "en",
+                            "title": "AT&T_Center",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "AT&T Center",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Corpus Christi IceRays",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Corpus_Christi_IceRays\" shape=\"rect\">Corpus Christi IceRays</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 22,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 27440914,
+                            "language": "en",
+                            "title": "Corpus_Christi_IceRays",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Corpus Christi IceRays",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Ice hockey",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Ice_hockey\" shape=\"rect\">Ice hockey</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 10,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 14790,
+                            "language": "en",
+                            "title": "Ice_hockey",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Ice hockey",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "North American Hockey League",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/North_American_Hockey_League\" shape=\"rect\">North American Hockey League</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 28,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1061938,
+                            "language": "en",
+                            "title": "North_American_Hockey_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "North American Hockey League",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "American Bank Center",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/American_Bank_Center\" shape=\"rect\">American Bank Center</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 20,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1890571,
+                            "language": "en",
+                            "title": "American_Bank_Center",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "American Bank Center",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "San Antonio Scorpions FC",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/San_Antonio_Scorpions_FC\" shape=\"rect\">San Antonio Scorpions FC</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 24,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 29080740,
+                            "language": "en",
+                            "title": "San_Antonio_Scorpions_FC",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "San Antonio Scorpions FC",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Soccer",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"3\"> <a href=\"http://www.wikipedia.org/wiki/Football_(soccer)\" shape=\"rect\">Soccer</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 6,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 10568,
+                            "language": "en",
+                            "title": "Football_(soccer)",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Soccer",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "NASL",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/North_American_Soccer_League\" shape=\"rect\">NASL</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 34063194,
+                            "language": "en",
+                            "title": "North_American_Soccer_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "NASL",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Heroes Stadium",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Heroes_Stadium\" shape=\"rect\">Heroes Stadium</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 14,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 29081104,
+                            "language": "en",
+                            "title": "Heroes_Stadium",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Heroes Stadium",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Laredo Heat",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Laredo_Heat\" shape=\"rect\">Laredo Heat</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 11,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 2361788,
+                            "language": "en",
+                            "title": "Laredo_Heat",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Laredo Heat",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Soccer",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"3\"> <a href=\"http://www.wikipedia.org/wiki/Football_(soccer)\" shape=\"rect\">Soccer</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 6,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 10568,
+                            "language": "en",
+                            "title": "Football_(soccer)",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Soccer",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "PDL",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/USL_Premier_Development_League\" shape=\"rect\">PDL</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 3,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 746584,
+                            "language": "en",
+                            "title": "USL_Premier_Development_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "PDL",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "TAMIU Soccer Complex",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/TAMIU_Soccer_Complex\" shape=\"rect\">TAMIU Soccer Complex</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 20,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 18227885,
+                            "language": "en",
+                            "title": "TAMIU_Soccer_Complex",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "TAMIU Soccer Complex",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Rio Grande Valley Grandes",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Rio_Grande_Valley_Grandes\" shape=\"rect\">Rio Grande Valley Grandes</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 25,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 30517955,
+                            "language": "en",
+                            "title": "Rio_Grande_Valley_Grandes",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Rio Grande Valley Grandes",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Soccer",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"3\"> <a href=\"http://www.wikipedia.org/wiki/Football_(soccer)\" shape=\"rect\">Soccer</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 6,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 10568,
+                            "language": "en",
+                            "title": "Football_(soccer)",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Soccer",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "PDL",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/USL_Premier_Development_League\" shape=\"rect\">PDL</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 3,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 746584,
+                            "language": "en",
+                            "title": "USL_Premier_Development_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "PDL",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Valley View High School",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Valley_View_High_School_(Hidalgo,_Texas)\" shape=\"rect\">Valley View High School</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 23,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": -1,
+                            "language": "en",
+                            "title": "Valley_View_High_School_(Hidalgo,_Texas)",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Valley View High School",
+                        "linkType": "INTERNAL_RED",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Laredo Honey Badgers",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Laredo_Honey_Badgers\" shape=\"rect\">Laredo Honey Badgers</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 20,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 39512053,
+                            "language": "en",
+                            "title": "Laredo_Honey_Badgers",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Laredo Honey Badgers",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Indoor Soccer",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Indoor_Soccer\" shape=\"rect\">Indoor Soccer</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 13,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 459505,
+                            "language": "en",
+                            "title": "Indoor_Soccer",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Indoor Soccer",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "PASL",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Professional_Arena_Soccer_League\" shape=\"rect\">PASL</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 19053692,
+                            "language": "en",
+                            "title": "Professional_Arena_Soccer_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "PASL",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Laredo Energy Arena",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Laredo_Energy_Arena\" shape=\"rect\">Laredo Energy Arena</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 19,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1958513,
+                            "language": "en",
+                            "title": "Laredo_Energy_Arena",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Laredo Energy Arena",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "La Fiera FC",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/La_Fiera_FC\" shape=\"rect\">La Fiera FC</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 11,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 37161852,
+                            "language": "en",
+                            "title": "La_Fiera_FC",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "La Fiera FC",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Indoor Soccer",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Indoor_Soccer\" shape=\"rect\">Indoor Soccer</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 13,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 459505,
+                            "language": "en",
+                            "title": "Indoor_Soccer",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Indoor Soccer",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "PASL",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Professional_Arena_Soccer_League\" shape=\"rect\">PASL</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 19053692,
+                            "language": "en",
+                            "title": "Professional_Arena_Soccer_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "PASL",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "State Farm Arena",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/State_Farm_Arena\" shape=\"rect\">State Farm Arena</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 16,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1956685,
+                            "language": "en",
+                            "title": "State_Farm_Arena",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "State Farm Arena",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ]
+    ],
+    "tableHeaders": [
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Team",
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Team</th>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Sport",
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Sport</th>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "League",
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> League</th>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Venue",
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Venue </th>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ]
+    ],
+    "tableId": 8,
+    "cols": [
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "San Antonio Spurs",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/San_Antonio_Spurs\" shape=\"rect\">San Antonio Spurs</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 17,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 72889,
+                            "language": "en",
+                            "title": "San_Antonio_Spurs",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "San Antonio Spurs",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "San Antonio Silver Stars",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/San_Antonio_Silver_Stars\" shape=\"rect\">San Antonio Silver Stars</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 24,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 240212,
+                            "language": "en",
+                            "title": "San_Antonio_Silver_Stars",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "San Antonio Silver Stars",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Rio Grande Valley Vipers",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Rio_Grande_Valley_Vipers\" shape=\"rect\">Rio Grande Valley Vipers</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 24,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 9094620,
+                            "language": "en",
+                            "title": "Rio_Grande_Valley_Vipers",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Rio Grande Valley Vipers",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Toros de Los Dos Laredos",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Toros_de_Los_Dos_Laredos\" shape=\"rect\">Toros de Los Dos Laredos</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 24,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 17003167,
+                            "language": "en",
+                            "title": "Toros_de_Los_Dos_Laredos",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Toros de Los Dos Laredos",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "San Antonio Talons",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/San_Antonio_Talons\" shape=\"rect\">San Antonio Talons</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 18,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1956647,
+                            "language": "en",
+                            "title": "San_Antonio_Talons",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "San Antonio Talons",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Corpus Christi Hammerheads",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Corpus_Christi_Hammerheads\" shape=\"rect\">Corpus Christi Hammerheads</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 26,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 834201,
+                            "language": "en",
+                            "title": "Corpus_Christi_Hammerheads",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Corpus Christi Hammerheads",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Laredo Rattlesnakes",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Laredo_Rattlesnakes\" shape=\"rect\">Laredo Rattlesnakes</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 19,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 32471077,
+                            "language": "en",
+                            "title": "Laredo_Rattlesnakes",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Laredo Rattlesnakes",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Corpus Christi Hooks",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Corpus_Christi_Hooks\" shape=\"rect\">Corpus Christi Hooks</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 20,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 586749,
+                            "language": "en",
+                            "title": "Corpus_Christi_Hooks",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Corpus Christi Hooks",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "San Antonio Missions",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/San_Antonio_Missions\" shape=\"rect\">San Antonio Missions</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 20,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 672593,
+                            "language": "en",
+                            "title": "San_Antonio_Missions",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "San Antonio Missions",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Laredo Lemurs",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Laredo_Lemurs\" shape=\"rect\">Laredo Lemurs</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 13,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 32690152,
+                            "language": "en",
+                            "title": "Laredo_Lemurs",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Laredo Lemurs",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "McAllen Thunder",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/McAllen_Thunder\" shape=\"rect\">McAllen Thunder</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 15,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 22531024,
+                            "language": "en",
+                            "title": "McAllen_Thunder",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "McAllen Thunder",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Edinburg Roadrunners",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Edinburg_Roadrunners\" shape=\"rect\">Edinburg Roadrunners</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 20,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 4337592,
+                            "language": "en",
+                            "title": "Edinburg_Roadrunners",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Edinburg Roadrunners",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Rio Grande Valley WhiteWings",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Rio_Grande_Valley_WhiteWings\" shape=\"rect\">Rio Grande Valley WhiteWings</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 28,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 4629683,
+                            "language": "en",
+                            "title": "Rio_Grande_Valley_WhiteWings",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Rio Grande Valley WhiteWings",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "San Antonio Rampage",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/San_Antonio_Rampage\" shape=\"rect\">San Antonio Rampage</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 19,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1034015,
+                            "language": "en",
+                            "title": "San_Antonio_Rampage",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "San Antonio Rampage",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Corpus Christi IceRays",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Corpus_Christi_IceRays\" shape=\"rect\">Corpus Christi IceRays</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 22,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 27440914,
+                            "language": "en",
+                            "title": "Corpus_Christi_IceRays",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Corpus Christi IceRays",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "San Antonio Scorpions FC",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/San_Antonio_Scorpions_FC\" shape=\"rect\">San Antonio Scorpions FC</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 24,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 29080740,
+                            "language": "en",
+                            "title": "San_Antonio_Scorpions_FC",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "San Antonio Scorpions FC",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Laredo Heat",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Laredo_Heat\" shape=\"rect\">Laredo Heat</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 11,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 2361788,
+                            "language": "en",
+                            "title": "Laredo_Heat",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Laredo Heat",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Rio Grande Valley Grandes",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Rio_Grande_Valley_Grandes\" shape=\"rect\">Rio Grande Valley Grandes</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 25,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 30517955,
+                            "language": "en",
+                            "title": "Rio_Grande_Valley_Grandes",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Rio Grande Valley Grandes",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Laredo Honey Badgers",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Laredo_Honey_Badgers\" shape=\"rect\">Laredo Honey Badgers</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 20,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 39512053,
+                            "language": "en",
+                            "title": "Laredo_Honey_Badgers",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Laredo Honey Badgers",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "La Fiera FC",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/La_Fiera_FC\" shape=\"rect\">La Fiera FC</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 11,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 37161852,
+                            "language": "en",
+                            "title": "La_Fiera_FC",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "La Fiera FC",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Basketball",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"4\"> <a href=\"http://www.wikipedia.org/wiki/Basketball\" shape=\"rect\">Basketball</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 10,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3921,
+                            "language": "en",
+                            "title": "Basketball",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Basketball",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Basketball",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"4\"> <a href=\"http://www.wikipedia.org/wiki/Basketball\" shape=\"rect\">Basketball</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 10,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3921,
+                            "language": "en",
+                            "title": "Basketball",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Basketball",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Basketball",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"4\"> <a href=\"http://www.wikipedia.org/wiki/Basketball\" shape=\"rect\">Basketball</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 10,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3921,
+                            "language": "en",
+                            "title": "Basketball",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Basketball",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Basketball",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"4\"> <a href=\"http://www.wikipedia.org/wiki/Basketball\" shape=\"rect\">Basketball</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 10,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3921,
+                            "language": "en",
+                            "title": "Basketball",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Basketball",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Arena Football",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"3\"> <a href=\"http://www.wikipedia.org/wiki/Indoor_American_football\" shape=\"rect\">Arena Football</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 14,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 619905,
+                            "language": "en",
+                            "title": "Indoor_American_football",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Arena Football",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Arena Football",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"3\"> <a href=\"http://www.wikipedia.org/wiki/Indoor_American_football\" shape=\"rect\">Arena Football</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 14,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 619905,
+                            "language": "en",
+                            "title": "Indoor_American_football",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Arena Football",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Arena Football",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"3\"> <a href=\"http://www.wikipedia.org/wiki/Indoor_American_football\" shape=\"rect\">Arena Football</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 14,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 619905,
+                            "language": "en",
+                            "title": "Indoor_American_football",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Arena Football",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Baseball",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"6\"> <a href=\"http://www.wikipedia.org/wiki/Baseball\" shape=\"rect\">Baseball</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3850,
+                            "language": "en",
+                            "title": "Baseball",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Baseball",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Baseball",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"6\"> <a href=\"http://www.wikipedia.org/wiki/Baseball\" shape=\"rect\">Baseball</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3850,
+                            "language": "en",
+                            "title": "Baseball",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Baseball",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Baseball",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"6\"> <a href=\"http://www.wikipedia.org/wiki/Baseball\" shape=\"rect\">Baseball</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3850,
+                            "language": "en",
+                            "title": "Baseball",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Baseball",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Baseball",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"6\"> <a href=\"http://www.wikipedia.org/wiki/Baseball\" shape=\"rect\">Baseball</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3850,
+                            "language": "en",
+                            "title": "Baseball",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Baseball",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Baseball",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"6\"> <a href=\"http://www.wikipedia.org/wiki/Baseball\" shape=\"rect\">Baseball</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3850,
+                            "language": "en",
+                            "title": "Baseball",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Baseball",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Baseball",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"6\"> <a href=\"http://www.wikipedia.org/wiki/Baseball\" shape=\"rect\">Baseball</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3850,
+                            "language": "en",
+                            "title": "Baseball",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Baseball",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Ice hockey",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Ice_hockey\" shape=\"rect\">Ice hockey</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 10,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 14790,
+                            "language": "en",
+                            "title": "Ice_hockey",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Ice hockey",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Ice hockey",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Ice_hockey\" shape=\"rect\">Ice hockey</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 10,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 14790,
+                            "language": "en",
+                            "title": "Ice_hockey",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Ice hockey",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Soccer",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"3\"> <a href=\"http://www.wikipedia.org/wiki/Football_(soccer)\" shape=\"rect\">Soccer</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 6,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 10568,
+                            "language": "en",
+                            "title": "Football_(soccer)",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Soccer",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Soccer",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"3\"> <a href=\"http://www.wikipedia.org/wiki/Football_(soccer)\" shape=\"rect\">Soccer</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 6,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 10568,
+                            "language": "en",
+                            "title": "Football_(soccer)",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Soccer",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Soccer",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"3\"> <a href=\"http://www.wikipedia.org/wiki/Football_(soccer)\" shape=\"rect\">Soccer</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 6,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 10568,
+                            "language": "en",
+                            "title": "Football_(soccer)",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Soccer",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Indoor Soccer",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Indoor_Soccer\" shape=\"rect\">Indoor Soccer</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 13,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 459505,
+                            "language": "en",
+                            "title": "Indoor_Soccer",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Indoor Soccer",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Indoor Soccer",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Indoor_Soccer\" shape=\"rect\">Indoor Soccer</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 13,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 459505,
+                            "language": "en",
+                            "title": "Indoor_Soccer",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Indoor Soccer",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "NBA",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/NBA\" shape=\"rect\">NBA</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 3,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 22093,
+                            "language": "en",
+                            "title": "NBA",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "NBA",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "WNBA",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/WNBA\" shape=\"rect\">WNBA</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 57721,
+                            "language": "en",
+                            "title": "WNBA",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "WNBA",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "NBA D-League",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/NBA_D-League\" shape=\"rect\">NBA D-League</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 12,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 450389,
+                            "language": "en",
+                            "title": "NBA_D-League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "NBA D-League",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "LNBP",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Liga_Nacional_de_Baloncesto_Profesional\" shape=\"rect\">LNBP</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 4666038,
+                            "language": "en",
+                            "title": "Liga_Nacional_de_Baloncesto_Profesional",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "LNBP",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "AFL",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Arena_Football_League\" shape=\"rect\">AFL</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 3,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 59084,
+                            "language": "en",
+                            "title": "Arena_Football_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "AFL",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Lone Star Football League",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Lone_Star_Football_League\" shape=\"rect\">Lone Star Football League</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 25,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 33077381,
+                            "language": "en",
+                            "title": "Lone_Star_Football_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Lone Star Football League",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Lone Star Football League",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Lone_Star_Football_League\" shape=\"rect\">Lone Star Football League</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 25,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 33077381,
+                            "language": "en",
+                            "title": "Lone_Star_Football_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Lone Star Football League",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Texas League",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Texas_League\" shape=\"rect\">Texas League</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 12,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 70292,
+                            "language": "en",
+                            "title": "Texas_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Texas League",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Texas League",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Texas_League\" shape=\"rect\">Texas League</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 12,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 70292,
+                            "language": "en",
+                            "title": "Texas_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Texas League",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "AAIPB",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/American_Association_of_Independent_Professional_Baseball\" shape=\"rect\">AAIPB</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 5,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 2896133,
+                            "language": "en",
+                            "title": "American_Association_of_Independent_Professional_Baseball",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "AAIPB",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "North American League",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"3\"> <a href=\"http://www.wikipedia.org/wiki/North_American_League_(baseball)\" shape=\"rect\">North American League</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 21,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 36092361,
+                            "language": "en",
+                            "title": "North_American_League_(baseball)",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "North American League",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "North American League",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"3\"> <a href=\"http://www.wikipedia.org/wiki/North_American_League_(baseball)\" shape=\"rect\">North American League</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 21,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 36092361,
+                            "language": "en",
+                            "title": "North_American_League_(baseball)",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "North American League",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "North American League",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"3\"> <a href=\"http://www.wikipedia.org/wiki/North_American_League_(baseball)\" shape=\"rect\">North American League</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 21,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 36092361,
+                            "language": "en",
+                            "title": "North_American_League_(baseball)",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "North American League",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "American Hockey League",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/American_Hockey_League\" shape=\"rect\">American Hockey League</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 22,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 207085,
+                            "language": "en",
+                            "title": "American_Hockey_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "American Hockey League",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "North American Hockey League",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/North_American_Hockey_League\" shape=\"rect\">North American Hockey League</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 28,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1061938,
+                            "language": "en",
+                            "title": "North_American_Hockey_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "North American Hockey League",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "NASL",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/North_American_Soccer_League\" shape=\"rect\">NASL</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 34063194,
+                            "language": "en",
+                            "title": "North_American_Soccer_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "NASL",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "PDL",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/USL_Premier_Development_League\" shape=\"rect\">PDL</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 3,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 746584,
+                            "language": "en",
+                            "title": "USL_Premier_Development_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "PDL",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "PDL",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/USL_Premier_Development_League\" shape=\"rect\">PDL</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 3,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 746584,
+                            "language": "en",
+                            "title": "USL_Premier_Development_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "PDL",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "PASL",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Professional_Arena_Soccer_League\" shape=\"rect\">PASL</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 19053692,
+                            "language": "en",
+                            "title": "Professional_Arena_Soccer_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "PASL",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "PASL",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Professional_Arena_Soccer_League\" shape=\"rect\">PASL</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 19053692,
+                            "language": "en",
+                            "title": "Professional_Arena_Soccer_League",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "PASL",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "AT&T Center",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/AT&amp;T_Center\" shape=\"rect\">AT&amp;T Center</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 11,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 753598,
+                            "language": "en",
+                            "title": "AT&T_Center",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "AT&T Center",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "AT&T Center",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/AT&amp;T_Center\" shape=\"rect\">AT&amp;T Center</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 11,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 753598,
+                            "language": "en",
+                            "title": "AT&T_Center",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "AT&T Center",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "State Farm Arena",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/State_Farm_Arena\" shape=\"rect\">State Farm Arena</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 16,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1956685,
+                            "language": "en",
+                            "title": "State_Farm_Arena",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "State Farm Arena",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Laredo Energy Arena",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Laredo_Energy_Arena\" shape=\"rect\">Laredo Energy Arena</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 19,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1958513,
+                            "language": "en",
+                            "title": "Laredo_Energy_Arena",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Laredo Energy Arena",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Alamodome",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Alamodome\" shape=\"rect\">Alamodome</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 9,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 759780,
+                            "language": "en",
+                            "title": "Alamodome",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Alamodome",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "American Bank Center",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/American_Bank_Center\" shape=\"rect\">American Bank Center</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 20,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1890571,
+                            "language": "en",
+                            "title": "American_Bank_Center",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "American Bank Center",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Laredo Energy Arena",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Laredo_Energy_Arena\" shape=\"rect\">Laredo Energy Arena</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 19,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1958513,
+                            "language": "en",
+                            "title": "Laredo_Energy_Arena",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Laredo Energy Arena",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Whataburger Field",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Whataburger_Field\" shape=\"rect\">Whataburger Field</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 17,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 2004367,
+                            "language": "en",
+                            "title": "Whataburger_Field",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Whataburger Field",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Nelson W. Wolff Municipal Stadium",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Nelson_W._Wolff_Municipal_Stadium\" shape=\"rect\">Nelson W. Wolff Municipal Stadium</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 33,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 2268462,
+                            "language": "en",
+                            "title": "Nelson_W._Wolff_Municipal_Stadium",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Nelson W. Wolff Municipal Stadium",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Laredo Ballpark",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Laredo_Ballpark\" shape=\"rect\">Laredo Ballpark</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 15,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 20089498,
+                            "language": "en",
+                            "title": "Laredo_Ballpark",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Laredo Ballpark",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Edinburg Stadium",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Edinburg_Stadium\" shape=\"rect\">Edinburg Stadium</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 16,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3659979,
+                            "language": "en",
+                            "title": "Edinburg_Stadium",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Edinburg Stadium",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Edinburg Stadium",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Edinburg_Stadium\" shape=\"rect\">Edinburg Stadium</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 16,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3659979,
+                            "language": "en",
+                            "title": "Edinburg_Stadium",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Edinburg Stadium",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Harlingen Field",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Harlingen_Field\" shape=\"rect\">Harlingen Field</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 15,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1391862,
+                            "language": "en",
+                            "title": "Harlingen_Field",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Harlingen Field",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "AT&T Center",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/AT&amp;T_Center\" shape=\"rect\">AT&amp;T Center</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 11,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 753598,
+                            "language": "en",
+                            "title": "AT&T_Center",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "AT&T Center",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "American Bank Center",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/American_Bank_Center\" shape=\"rect\">American Bank Center</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 20,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1890571,
+                            "language": "en",
+                            "title": "American_Bank_Center",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "American Bank Center",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Heroes Stadium",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Heroes_Stadium\" shape=\"rect\">Heroes Stadium</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 14,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 29081104,
+                            "language": "en",
+                            "title": "Heroes_Stadium",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Heroes Stadium",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "TAMIU Soccer Complex",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/TAMIU_Soccer_Complex\" shape=\"rect\">TAMIU Soccer Complex</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 20,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 18227885,
+                            "language": "en",
+                            "title": "TAMIU_Soccer_Complex",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "TAMIU Soccer Complex",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Valley View High School",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Valley_View_High_School_(Hidalgo,_Texas)\" shape=\"rect\">Valley View High School</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 23,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": -1,
+                            "language": "en",
+                            "title": "Valley_View_High_School_(Hidalgo,_Texas)",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Valley View High School",
+                        "linkType": "INTERNAL_RED",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Laredo Energy Arena",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Laredo_Energy_Arena\" shape=\"rect\">Laredo Energy Arena</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 19,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1958513,
+                            "language": "en",
+                            "title": "Laredo_Energy_Arena",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Laredo Energy Arena",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "State Farm Arena",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/State_Farm_Arena\" shape=\"rect\">State Farm Arena</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 16,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1956685,
+                            "language": "en",
+                            "title": "State_Farm_Arena",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "State Farm Arena",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ]
+    ],
+    "new_numCols": 4
+}

@@ -1,0 +1,95 @@
+{
+    "sectionTitle": "Climate",
+    "pgId": 88885,
+    "numDataRows": 2,
+    "_id": "88885-1",
+    "pgTitle": "Sheffield",
+    "numericColumns": [],
+    "tableCaption": "Climate",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"14\" rowspan=\"1\"> Climate data for Sheffield 131m (430 ft) asl, 1981–2010, extremes 1960– </th>",
+                "text": "Climate data for Sheffield 131m (430ft) asl, 1981–2010, extremes 1960–",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Month </th>",
+                "text": "Month",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"14\" rowspan=\"1\"> Source #1: <a href=\"http://www.wikipedia.org/wiki/Met_Office\" shape=\"rect\">Met Office</a> </td>",
+                "text": "Source #1: Met Office",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 319671,
+                            "title": "Met_Office",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Met Office",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"14\" rowspan=\"1\"> Source #2: <a href=\"http://www.wikipedia.org/wiki/Royal_Netherlands_Meteorological_Institute\" shape=\"rect\">Royal Netherlands Meteorological Institute</a> </td>",
+                "text": "Source #2: Royal Netherlands Meteorological Institute",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4179425,
+                            "title": "Royal_Netherlands_Meteorological_Institute",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Royal Netherlands Meteorological Institute",
+                        "inTemplate": false,
+                        "endOffset": 53,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.6500128416810185,
+    "numHeaderRows": 2,
+    "numCols": 1
+}

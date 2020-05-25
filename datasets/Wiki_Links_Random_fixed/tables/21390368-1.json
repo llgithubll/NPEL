@@ -1,0 +1,138 @@
+{
+    "sectionTitle": "Adjacent stations",
+    "pgId": 21390368,
+    "numDataRows": 1,
+    "_id": "21390368-1",
+    "pgTitle": "Iida Station (Ishikawa)",
+    "numericColumns": [],
+    "tableCaption": "Adjacent stations",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"2\" rowspan=\"1\"> « </th>",
+                "text": "«",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Service </th>",
+                "text": "Service",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"2\" rowspan=\"1\"> » </th>",
+                "text": "»",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"5\" rowspan=\"1\"> <span style=\"color:white\"> Noto Railway Noto Line</span> </th>",
+                "text": "Noto Railway Noto Line",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"5\" rowspan=\"1\"> <span style=\"color:white\"> Noto Railway Noto Line</span> </th>",
+                "text": "Noto Railway Noto Line",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"5\" rowspan=\"1\"> <span style=\"color:white\"> Noto Railway Noto Line</span> </th>",
+                "text": "Noto Railway Noto Line",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"2\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Uedo_Station_(Ishikawa)\" shape=\"rect\">Uedo</a> </td>",
+                "text": "Uedo",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 21390361,
+                            "title": "Uedo_Station_(Ishikawa)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Uedo",
+                        "inTemplate": false,
+                        "endOffset": 4,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> - </td>",
+                "text": "-",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"2\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Suzu_Station\" shape=\"rect\">Suzu</a> </td>",
+                "text": "Suzu",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 21390379,
+                            "title": "Suzu_Station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Suzu",
+                        "inTemplate": false,
+                        "endOffset": 4,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.04800319788046181,
+    "numHeaderRows": 2,
+    "numCols": 3
+}

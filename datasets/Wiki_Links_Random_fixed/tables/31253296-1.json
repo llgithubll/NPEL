@@ -1,0 +1,92 @@
+{
+    "sectionTitle": "Chart performance",
+    "pgId": 31253296,
+    "numDataRows": 1,
+    "_id": "31253296-1",
+    "pgTitle": "Ready to Go (Get Me Out of My Mind)",
+    "numericColumns": [
+        1
+    ],
+    "tableCaption": "Chart performance",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Chart (2011) </th>",
+                "text": "Chart (2011)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Peak Position </th>",
+                "text": "Peak Position",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Australia ( <a href=\"http://www.wikipedia.org/wiki/ARIA_Charts\" shape=\"rect\">ARIA</a>)[ <a href=\"http://www.wikipedia.org/wiki/Wikipedia:Citation_needed\" shape=\"rect\"><span> citation needed</span> </a>] </td>",
+                "text": "Australia ( ARIA )[ citation needed ]",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3002226,
+                            "title": "ARIA_Charts",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "ARIA",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 20,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Wikipedia:Citation_needed",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "citation needed",
+                        "inTemplate": false,
+                        "endOffset": 35,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 69 </td>",
+                "text": "69",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.9647864277940243,
+    "numHeaderRows": 1,
+    "numCols": 2
+}

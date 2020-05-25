@@ -1,0 +1,503 @@
+{
+    "sectionTitle": "Train services",
+    "pgId": 33874372,
+    "numDataRows": 3,
+    "_id": "33874372-1",
+    "pgTitle": "Ribnitz-Damgarten West railway station",
+    "numericColumns": [],
+    "tableCaption": "Train services",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Preceding station </th>",
+                "text": "Preceding station",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\">   </th>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Deutsche_Bahn\" shape=\"rect\">Deutsche Bahn</a> </th>",
+                "text": "Deutsche Bahn",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 172065,
+                            "title": "Deutsche_Bahn",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Deutsche Bahn",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\">   </th>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Following station </th>",
+                "text": "Following station",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <div> \n       <a href=\"http://www.wikipedia.org/wiki/Velgast_station\" shape=\"rect\">Velgast</a> \n      </div> \n      <div>\n        towards  \n       <a href=\"http://www.wikipedia.org/wiki/Ostseebad_Binz_station\" shape=\"rect\">Ostseebad Binz</a> \n      </div> </td>",
+                "text": "Velgast towards Ostseebad Binz",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 33618736,
+                            "title": "Velgast_station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Velgast",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 33494192,
+                            "title": "Ostseebad_Binz_station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ostseebad Binz",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/IC26_(DB)\" shape=\"rect\">IC 26</a> \n      <div>\n        Stralsund-Karlsruhe \n      </div> </td>",
+                "text": "IC 26 Stralsund-Karlsruhe",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 31988903,
+                            "title": "IC26_(DB)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "IC 26",
+                        "inTemplate": false,
+                        "endOffset": 5,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <div> \n       <a href=\"http://www.wikipedia.org/wiki/Rostock_Hbf_station\" shape=\"rect\">Rostock Hbf</a> \n      </div> \n      <div>\n        towards  \n       <a href=\"http://www.wikipedia.org/wiki/Karlsruhe_station\" shape=\"rect\">Karlsruhe</a> \n      </div> </td>",
+                "text": "Rostock Hbf towards Karlsruhe",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 10477950,
+                            "title": "Rostock_Hbf_station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Rostock Hbf",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 20,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Karlsruhe_station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Karlsruhe",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <div> \n       <a href=\"http://www.wikipedia.org/wiki/Velgast_station\" shape=\"rect\">Velgast</a> \n      </div> \n      <div>\n        towards  \n       <a href=\"http://www.wikipedia.org/wiki/Ostseebad_Binz_station\" shape=\"rect\">Ostseebad Binz</a> or \n       <a href=\"http://www.wikipedia.org/wiki/Greifswald_station\" shape=\"rect\">Greifswald</a> \n      </div> </td>",
+                "text": "Velgast towards Ostseebad Binz or Greifswald",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 33618736,
+                            "title": "Velgast_station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Velgast",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 33494192,
+                            "title": "Ostseebad_Binz_station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ostseebad Binz",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 27,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 33494960,
+                            "title": "Greifswald_station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Greifswald",
+                        "inTemplate": false,
+                        "endOffset": 37,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/IC30_(DB)\" shape=\"rect\">IC/EC 30</a></td>",
+                "text": "IC/EC 30",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 31988903,
+                            "title": "IC30_(DB)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "IC/EC 30",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <div> \n       <a href=\"http://www.wikipedia.org/wiki/Rostock_Hbf_station\" shape=\"rect\">Rostock Hbf</a> \n      </div> \n      <div>\n        towards  \n       <a href=\"http://www.wikipedia.org/wiki/Stuttgart_station\" shape=\"rect\">Stuttgart</a> \n      </div> </td>",
+                "text": "Rostock Hbf towards Stuttgart",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 10477950,
+                            "title": "Rostock_Hbf_station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Rostock Hbf",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 20,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Stuttgart_station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Stuttgart",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <div> \n       <a href=\"http://www.wikipedia.org/wiki/Gelbensande_railway_station\" shape=\"rect\">Gelbensande</a> \n      </div> \n      <div>\n        toward  \n       <a href=\"http://www.wikipedia.org/wiki/Rostock_railway_station\" shape=\"rect\">Rostock</a> \n      </div> </td>",
+                "text": "Gelbensande toward Rostock",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Gelbensande_railway_station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Gelbensande",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 19,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 38461537,
+                            "title": "Rostock_railway_station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Rostock",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/List_of_railway_routes_in_Mecklenburg-Vorpommern\" shape=\"rect\">RE 9</a></td>",
+                "text": "RE 9",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 33852701,
+                            "title": "List_of_railway_routes_in_Mecklenburg-Vorpommern",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "RE 9",
+                        "inTemplate": false,
+                        "endOffset": 4,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \n      <div> \n       <a href=\"http://www.wikipedia.org/wiki/Ribnitz-Damgarten_Ost_railway_station\" shape=\"rect\">Ribnitz-Damgarten Ost</a> \n      </div> \n      <div>\n        toward  \n       <a href=\"http://www.wikipedia.org/wiki/Ostseebad_Binz_railway_station\" shape=\"rect\">Ostseebad Binz</a> or \n       <a href=\"http://www.wikipedia.org/wiki/Sassnitz_railway_station\" shape=\"rect\">Sassnitz</a> \n      </div> </td>",
+                "text": "Ribnitz-Damgarten Ost toward Ostseebad Binz or Sassnitz",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Ribnitz-Damgarten_Ost_railway_station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ribnitz-Damgarten Ost",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 29,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 33494192,
+                            "title": "Ostseebad_Binz_railway_station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ostseebad Binz",
+                        "inTemplate": false,
+                        "endOffset": 43,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 26,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 33568317,
+                            "title": "Sassnitz_railway_station",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Sassnitz",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.9191899651195854,
+    "numHeaderRows": 1,
+    "numCols": 5
+}

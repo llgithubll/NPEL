@@ -1,0 +1,76 @@
+{
+    "sectionTitle": "Year-end charts",
+    "pgId": 6786495,
+    "numDataRows": 1,
+    "_id": "6786495-3",
+    "pgTitle": "Fergalicious",
+    "numericColumns": [
+        1
+    ],
+    "tableCaption": "Year-end charts",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Chart (2007) </th>",
+                "text": "Chart (2007)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Position </th>",
+                "text": "Position",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 3,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> US <a href=\"http://www.wikipedia.org/wiki/Billboard_Hot_100\" shape=\"rect\">Billboard Hot 100</a> </td>",
+                "text": "US Billboard Hot 100",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 3,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 423161,
+                            "title": "Billboard_Hot_100",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Billboard Hot 100",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 19 </td>",
+                "text": "19",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.3348511147778481,
+    "numHeaderRows": 1,
+    "numCols": 2
+}

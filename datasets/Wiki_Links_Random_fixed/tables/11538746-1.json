@@ -1,0 +1,109 @@
+{
+    "sectionTitle": "Services",
+    "pgId": 11538746,
+    "numDataRows": 1,
+    "_id": "11538746-1",
+    "pgTitle": "Woodside Railway Station, New Zealand",
+    "numericColumns": [],
+    "tableCaption": "Services",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Previous Stop </th>",
+                "text": "Previous Stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Public_transport_in_Wellington\" shape=\"rect\">Metlink Bus Services</a> </th>",
+                "text": "Metlink Bus Services",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3445579,
+                            "title": "Public_transport_in_Wellington",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Metlink Bus Services",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Next Stop </th>",
+                "text": "Next Stop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Terminus </td>",
+                "text": "Terminus",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 204 Woodside Station - Greytown </td>",
+                "text": "204 Woodside Station - Greytown",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Woodside Road towards <a href=\"http://www.wikipedia.org/wiki/Greytown,_New_Zealand\" shape=\"rect\">Greytown</a> </td>",
+                "text": "Woodside Road towards Greytown",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 22,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1076015,
+                            "title": "Greytown,_New_Zealand",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Greytown",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.06927704880945385,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

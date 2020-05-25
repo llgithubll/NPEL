@@ -1,0 +1,163 @@
+{
+    "sectionTitle": "Historical marker",
+    "pgId": 35084795,
+    "numDataRows": 1,
+    "_id": "35084795-1",
+    "pgTitle": "List of Indiana state historical markers in Pulaski County",
+    "numericColumns": [
+        2
+    ],
+    "tableCaption": "Historical marker",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Marker title </td>",
+                "text": "Marker title",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Image </th>",
+                "text": "Image",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Year placed </th>",
+                "text": "Year placed",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Location </th>",
+                "text": "Location",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Topics </th>",
+                "text": "Topics",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Indiana_Gas_Boom\" shape=\"rect\">First Indiana Natural Gas Well</a> </td>",
+                "text": "First Indiana Natural Gas Well",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 19820195,
+                            "title": "Indiana_Gas_Boom",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "First Indiana Natural Gas Well",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1988 </td>",
+                "text": "1988",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Western side of <a href=\"http://www.wikipedia.org/wiki/U.S._Route_421\" shape=\"rect\">U.S. Route 421</a>, about 1.5 miles south of <a href=\"http://www.wikipedia.org/wiki/Francesville,_Indiana\" shape=\"rect\">Francesville</a>, across from the quarry entrance </td>",
+                "text": "Western side of U.S. Route 421 , about 1.5 miles south of Francesville , across from the quarry entrance",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 902652,
+                            "title": "U.S._Route_421",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "U.S. Route 421",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 58,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 112556,
+                            "title": "Francesville,_Indiana",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Francesville",
+                        "inTemplate": false,
+                        "endOffset": 70,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Business, Industry, and Labor </td>",
+                "text": "Business, Industry, and Labor",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.02601709100417793,
+    "numHeaderRows": 1,
+    "numCols": 5
+}

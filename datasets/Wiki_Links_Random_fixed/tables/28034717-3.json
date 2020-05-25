@@ -1,0 +1,3247 @@
+{
+    "sectionTitle": "Music",
+    "pgId": 28034717,
+    "numDataRows": 21,
+    "_id": "28034717-3",
+    "pgTitle": "2010 Teen Choice Awards",
+    "numericColumns": [],
+    "tableCaption": "Music",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Female Artist </th>",
+                "text": "Female Artist",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Album Country </th>",
+                "text": "Album Country",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 3,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Kesha\" shape=\"rect\">Ke$ha</a> <a href=\"http://www.wikipedia.org/wiki/Miley_Cyrus\" shape=\"rect\">Miley Cyrus</a> <a href=\"http://www.wikipedia.org/wiki/Lady_Gaga\" shape=\"rect\">Lady Gaga</a> <a href=\"http://www.wikipedia.org/wiki/Shakira\" shape=\"rect\">Shakira</a> <a href=\"http://www.wikipedia.org/wiki/Taylor_Swift\" shape=\"rect\">Taylor Swift</a> </td>",
+                "text": "Ke$ha Miley Cyrus Lady Gaga Shakira Taylor Swift",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25571585,
+                            "title": "Kesha",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ke$ha",
+                        "inTemplate": false,
+                        "endOffset": 5,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 6,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 8135890,
+                            "title": "Miley_Cyrus",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Miley Cyrus",
+                        "inTemplate": false,
+                        "endOffset": 17,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 17782843,
+                            "title": "Lady_Gaga",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Lady Gaga",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 6479315,
+                            "title": "Shakira",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Shakira",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 9,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5422144,
+                            "title": "Taylor_Swift",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Taylor Swift",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Doin'_My_Thing\" shape=\"rect\">Doin' My Thing</a> - <a href=\"http://www.wikipedia.org/wiki/Luke_Bryan\" shape=\"rect\">Luke Bryan</a> <a href=\"http://www.wikipedia.org/wiki/Fearless_(Taylor_Swift_album)\" shape=\"rect\">Fearless</a> - <a href=\"http://www.wikipedia.org/wiki/Taylor_Swift\" shape=\"rect\">Taylor Swift</a> <a href=\"http://www.wikipedia.org/wiki/Need_You_Now_(Lady_Antebellum_album)\" shape=\"rect\">Need You Now</a> - <a href=\"http://www.wikipedia.org/wiki/Lady_Antebellum\" shape=\"rect\">Lady Antebellum</a> <a href=\"http://www.wikipedia.org/wiki/Play_On_(Carrie_Underwood_album)\" shape=\"rect\">Play On</a> - <a href=\"http://www.wikipedia.org/wiki/Carrie_Underwood\" shape=\"rect\">Carrie Underwood</a> <a href=\"http://www.wikipedia.org/wiki/The_Foundation_(Zac_Brown_Band_album)\" shape=\"rect\">The Foundation</a> - <a href=\"http://www.wikipedia.org/wiki/Zac_Brown_Band\" shape=\"rect\">Zac Brown Band</a> </td>",
+                "text": "Doin' My Thing - Luke Bryan Fearless - Taylor Swift Need You Now - Lady Antebellum Play On - Carrie Underwood The Foundation - Zac Brown Band",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 24241479,
+                            "title": "Doin'_My_Thing",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Doin' My Thing",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 12094316,
+                            "title": "Luke_Bryan",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Luke Bryan",
+                        "inTemplate": false,
+                        "endOffset": 27,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 18774671,
+                            "title": "Fearless_(Taylor_Swift_album)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Fearless",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5422144,
+                            "title": "Taylor_Swift",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Taylor Swift",
+                        "inTemplate": false,
+                        "endOffset": 24,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25362946,
+                            "title": "Need_You_Now_(Lady_Antebellum_album)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Need You Now",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 14093399,
+                            "title": "Lady_Antebellum",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Lady Antebellum",
+                        "inTemplate": false,
+                        "endOffset": 31,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 19,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 24211796,
+                            "title": "Play_On_(Carrie_Underwood_album)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Play On",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1535727,
+                            "title": "Carrie_Underwood",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Carrie Underwood",
+                        "inTemplate": false,
+                        "endOffset": 27,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 20,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 20048846,
+                            "title": "The_Foundation_(Zac_Brown_Band_album)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The Foundation",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 18,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 16866996,
+                            "title": "Zac_Brown_Band",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Zac Brown Band",
+                        "inTemplate": false,
+                        "endOffset": 32,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Album Rap </th>",
+                "text": "Album Rap",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Album Rock </th>",
+                "text": "Album Rock",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/B.o.B_Presents:_The_Adventures_of_Bobby_Ray\" shape=\"rect\">B.o.B Presents: The Adventures of Bobby Ray</a> <a href=\"http://www.wikipedia.org/wiki/Battle_of_the_Sexes_(album)\" shape=\"rect\">Battle of the Sexes</a> - <a href=\"http://www.wikipedia.org/wiki/Ludacris\" shape=\"rect\">Ludacris</a> <a href=\"http://www.wikipedia.org/wiki/Relapse_(Eminem_album)\" shape=\"rect\">Relapse</a> - <a href=\"http://www.wikipedia.org/wiki/Eminem\" shape=\"rect\">Eminem</a> <a href=\"http://www.wikipedia.org/wiki/So_Far_Gone_(EP)\" shape=\"rect\">So Far Gone</a> - <a href=\"http://www.wikipedia.org/wiki/Drake_(entertainer)\" shape=\"rect\">Drake</a> <a href=\"http://www.wikipedia.org/wiki/The_Blueprint_3\" shape=\"rect\">The Blueprint 3</a> - <a href=\"http://www.wikipedia.org/wiki/Jay-Z\" shape=\"rect\">Jay-Z</a> </td>",
+                "text": "B.o.B Presents: The Adventures of Bobby Ray Battle of the Sexes - Ludacris Relapse - Eminem So Far Gone - Drake The Blueprint 3 - Jay-Z",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25245349,
+                            "title": "B.o.B_Presents:_The_Adventures_of_Bobby_Ray",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "B.o.B Presents: The Adventures of Bobby Ray",
+                        "inTemplate": false,
+                        "endOffset": 43,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 44,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22113121,
+                            "title": "Battle_of_the_Sexes_(album)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Battle of the Sexes",
+                        "inTemplate": false,
+                        "endOffset": 63,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 23,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 159966,
+                            "title": "Ludacris",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ludacris",
+                        "inTemplate": false,
+                        "endOffset": 31,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 11937084,
+                            "title": "Relapse_(Eminem_album)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Relapse",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4429395,
+                            "title": "Eminem",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Eminem",
+                        "inTemplate": false,
+                        "endOffset": 17,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 24057219,
+                            "title": "So_Far_Gone_(EP)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "So Far Gone",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 21466444,
+                            "title": "Drake_(entertainer)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Drake",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 9,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 18755674,
+                            "title": "The_Blueprint_3",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The Blueprint 3",
+                        "inTemplate": false,
+                        "endOffset": 24,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 19,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 162870,
+                            "title": "Jay-Z",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Jay-Z",
+                        "inTemplate": false,
+                        "endOffset": 24,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/To_The_Sea\" shape=\"rect\">To The Sea</a> - <a href=\"http://www.wikipedia.org/wiki/Jack_Johnson_(musician)\" shape=\"rect\">Jack Johnson</a> <a href=\"http://www.wikipedia.org/wiki/Leave_This_Town\" shape=\"rect\">Leave This Town</a> - <a href=\"http://www.wikipedia.org/wiki/Daughtry_(band)\" shape=\"rect\">Daughtry</a> <a href=\"http://www.wikipedia.org/wiki/The_Resistance_(album)\" shape=\"rect\">The Resistance</a> - <a href=\"http://www.wikipedia.org/wiki/Muse_(band)\" shape=\"rect\">Muse</a> <a href=\"http://www.wikipedia.org/wiki/Brand_New_Eyes\" shape=\"rect\">Brand New Eyes</a> - <a href=\"http://www.wikipedia.org/wiki/Paramore\" shape=\"rect\">Paramore</a> <a href=\"http://www.wikipedia.org/wiki/Save_Me_San_Francisco\" shape=\"rect\">Save Me San Francisco</a> - <a href=\"http://www.wikipedia.org/wiki/Train_(band)\" shape=\"rect\">Train</a> </td>",
+                "text": "To The Sea - Jack Johnson Leave This Town - Daughtry The Resistance - Muse Brand New Eyes - Paramore Save Me San Francisco - Train",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 26792825,
+                            "title": "To_The_Sea",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "To The Sea",
+                        "inTemplate": false,
+                        "endOffset": 10,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 494720,
+                            "title": "Jack_Johnson_(musician)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Jack Johnson",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22712051,
+                            "title": "Leave_This_Town",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Leave This Town",
+                        "inTemplate": false,
+                        "endOffset": 31,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 19,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5747612,
+                            "title": "Daughtry_(band)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Daughtry",
+                        "inTemplate": false,
+                        "endOffset": 27,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22899477,
+                            "title": "The_Resistance_(album)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The Resistance",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 18,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 178244,
+                            "title": "Muse_(band)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Muse",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 8,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 23388310,
+                            "title": "Brand_New_Eyes",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Brand New Eyes",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 18,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3565012,
+                            "title": "Paramore",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Paramore",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 23959170,
+                            "title": "Save_Me_San_Francisco",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Save Me San Francisco",
+                        "inTemplate": false,
+                        "endOffset": 33,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 25,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1010065,
+                            "title": "Train_(band)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Train",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Album Pop </th>",
+                "text": "Album Pop",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Album R&amp;B </th>",
+                "text": "Album R&B",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Here_We_Go_Again_(Demi_Lovato_album)\" shape=\"rect\">Here We Go Again</a> - <a href=\"http://www.wikipedia.org/wiki/Demi_Lovato\" shape=\"rect\">Demi Lovato</a> <a href=\"http://www.wikipedia.org/wiki/My_World_2.0\" shape=\"rect\">My World 2.0</a> - <a href=\"http://www.wikipedia.org/wiki/Justin_Bieber\" shape=\"rect\">Justin Bieber</a> <a href=\"http://www.wikipedia.org/wiki/Animal_(Kesha_album)\" shape=\"rect\">Animal</a> - <a href=\"http://www.wikipedia.org/wiki/Kesha\" shape=\"rect\">Ke$ha</a> <a href=\"http://www.wikipedia.org/wiki/The_Fame_Monster\" shape=\"rect\">The Fame Monster</a> - <a href=\"http://www.wikipedia.org/wiki/Lady_Gaga\" shape=\"rect\">Lady Gaga</a> <a href=\"http://www.wikipedia.org/wiki/The_E.N.D\" shape=\"rect\">The E.N.D</a> - <a href=\"http://www.wikipedia.org/wiki/The_Black_Eyed_Peas\" shape=\"rect\">The Black Eyed Peas</a> </td>",
+                "text": "Here We Go Again - Demi Lovato My World 2.0 - Justin Bieber Animal - Ke$ha The Fame Monster - Lady Gaga The E.N.D - The Black Eyed Peas",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22998331,
+                            "title": "Here_We_Go_Again_(Demi_Lovato_album)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Here We Go Again",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 19,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 12520860,
+                            "title": "Demi_Lovato",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Demi Lovato",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25788483,
+                            "title": "My_World_2.0",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "My World 2.0",
+                        "inTemplate": false,
+                        "endOffset": 27,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 23680998,
+                            "title": "Justin_Bieber",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Justin Bieber",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25092459,
+                            "title": "Animal_(Kesha_album)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Animal",
+                        "inTemplate": false,
+                        "endOffset": 23,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25571585,
+                            "title": "Kesha",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ke$ha",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 9,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 23865343,
+                            "title": "The_Fame_Monster",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The Fame Monster",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 20,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 17782843,
+                            "title": "Lady_Gaga",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Lady Gaga",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 20892116,
+                            "title": "The_E.N.D",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The E.N.D",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 210453,
+                            "title": "The_Black_Eyed_Peas",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The Black Eyed Peas",
+                        "inTemplate": false,
+                        "endOffset": 32,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Jason_Derülo\" shape=\"rect\">Jason Derülo</a> - <a href=\"http://www.wikipedia.org/wiki/Jason_Derülo\" shape=\"rect\">Jason Derülo</a> <a href=\"http://www.wikipedia.org/wiki/Rated_R_(Rihanna_album)\" shape=\"rect\">Rated R</a> - <a href=\"http://www.wikipedia.org/wiki/Rihanna\" shape=\"rect\">Rihanna</a> <a href=\"http://www.wikipedia.org/wiki/Raymond_vs._Raymond\" shape=\"rect\">Raymond vs. Raymond</a> - <a href=\"http://www.wikipedia.org/wiki/Usher_(entertainer)\" shape=\"rect\">Usher</a> <a href=\"http://www.wikipedia.org/wiki/The_ArchAndroid_(Suites_II_and_III)\" shape=\"rect\">The ArchAndroid</a> - <a href=\"http://www.wikipedia.org/wiki/Janelle_Monae\" shape=\"rect\">Janelle Monae</a> <a href=\"http://www.wikipedia.org/wiki/The_Element_of_Freedom\" shape=\"rect\">The Element of Freedom</a> - <a href=\"http://www.wikipedia.org/wiki/Alicia_Keys\" shape=\"rect\">Alicia Keys</a> </td>",
+                "text": "Jason Derülo - Jason Derülo Rated R - Rihanna Raymond vs. Raymond - Usher The ArchAndroid - Janelle Monae The Element of Freedom - Alicia Keys",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 16195374,
+                            "title": "Jason_Derülo",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Jason Derülo",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 16195374,
+                            "title": "Jason_Derülo",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Jason Derülo",
+                        "inTemplate": false,
+                        "endOffset": 27,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 24713950,
+                            "title": "Rated_R_(Rihanna_album)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Rated R",
+                        "inTemplate": false,
+                        "endOffset": 23,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2110323,
+                            "title": "Rihanna",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Rihanna",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 24136015,
+                            "title": "Raymond_vs._Raymond",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Raymond vs. Raymond",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 23,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 215554,
+                            "title": "Usher_(entertainer)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Usher",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 9,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27104057,
+                            "title": "The_ArchAndroid_(Suites_II_and_III)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The ArchAndroid",
+                        "inTemplate": false,
+                        "endOffset": 24,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 19,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 13828397,
+                            "title": "Janelle_Monae",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Janelle Monae",
+                        "inTemplate": false,
+                        "endOffset": 32,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 24479659,
+                            "title": "The_Element_of_Freedom",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The Element of Freedom",
+                        "inTemplate": false,
+                        "endOffset": 39,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 26,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 59720,
+                            "title": "Alicia_Keys",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Alicia Keys",
+                        "inTemplate": false,
+                        "endOffset": 37,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Rock Track </th>",
+                "text": "Rock Track",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Love Song </th>",
+                "text": "Love Song",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \" <a href=\"http://www.wikipedia.org/wiki/All_the_Right_Moves_(OneRepublic_song)\" shape=\"rect\">All The Right Moves</a>\" - <a href=\"http://www.wikipedia.org/wiki/OneRepublic\" shape=\"rect\">OneRepublic</a> \" <a href=\"http://www.wikipedia.org/wiki/Breakeven\" shape=\"rect\">Breakeven</a>\" - <a href=\"http://www.wikipedia.org/wiki/The_Script\" shape=\"rect\">The Script</a> \" <a href=\"http://www.wikipedia.org/wiki/Hey,_Soul_Sister\" shape=\"rect\">Hey, Soul Sister</a>\" - <a href=\"http://www.wikipedia.org/wiki/Train_(band)\" shape=\"rect\">Train</a> \" <a href=\"http://www.wikipedia.org/wiki/Ignorance_(Paramore_song)\" shape=\"rect\">Ignorance</a>\" - <a href=\"http://www.wikipedia.org/wiki/Paramore\" shape=\"rect\">Paramore</a> \" <a href=\"http://www.wikipedia.org/wiki/You_and_Your_Heart\" shape=\"rect\">You and Your Heart</a>\" - <a href=\"http://www.wikipedia.org/wiki/Jack_Johnson_(musician)\" shape=\"rect\">Jack Johnson</a> </td>",
+                "text": "\" All The Right Moves \" - OneRepublic \" Breakeven \" - The Script \" Hey, Soul Sister \" - Train \" Ignorance \" - Paramore \" You and Your Heart \" - Jack Johnson",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 2,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 24213845,
+                            "title": "All_the_Right_Moves_(OneRepublic_song)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "All The Right Moves",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 26,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 10162969,
+                            "title": "OneRepublic",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "OneRepublic",
+                        "inTemplate": false,
+                        "endOffset": 37,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 19,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27878378,
+                            "title": "Breakeven",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Breakeven",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 16520642,
+                            "title": "The_Script",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The Script",
+                        "inTemplate": false,
+                        "endOffset": 27,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 18,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 24492685,
+                            "title": "Hey,_Soul_Sister",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Hey, Soul Sister",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 24,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1010065,
+                            "title": "Train_(band)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Train",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 23397584,
+                            "title": "Ignorance_(Paramore_song)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ignorance",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3565012,
+                            "title": "Paramore",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Paramore",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 26867909,
+                            "title": "You_and_Your_Heart",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "You and Your Heart",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 26,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 494720,
+                            "title": "Jack_Johnson_(musician)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Jack Johnson",
+                        "inTemplate": false,
+                        "endOffset": 38,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \" <a href=\"http://www.wikipedia.org/wiki/Catch_Me_(Demi_Lovato_song)\" shape=\"rect\">Catch Me</a>\"- <a href=\"http://www.wikipedia.org/wiki/Demi_Lovato\" shape=\"rect\">Demi Lovato</a> \" <a href=\"http://www.wikipedia.org/wiki/Neutron_Star_Collision_(Love_Is_Forever)\" shape=\"rect\">Neutron Star Collision (Love Is Forever)</a>\" - <a href=\"http://www.wikipedia.org/wiki/Muse_(band)\" shape=\"rect\">Muse</a> \" <a href=\"http://www.wikipedia.org/wiki/Stay_(Nick_Jonas_and_the_Administration_song)\" shape=\"rect\">Stay</a>\" - <a href=\"http://www.wikipedia.org/wiki/Nick_Jonas_&amp;_The_Administration\" shape=\"rect\">Nick Jonas &amp; The Administration</a> \" <a href=\"http://www.wikipedia.org/wiki/The_Only_Exception\" shape=\"rect\">The Only Exception</a>\" - <a href=\"http://www.wikipedia.org/wiki/Paramore\" shape=\"rect\">Paramore</a> \" <a href=\"http://www.wikipedia.org/wiki/When_I_Look_At_You\" shape=\"rect\">When I Look At You</a>\" - <a href=\"http://www.wikipedia.org/wiki/Miley_Cyrus\" shape=\"rect\">Miley Cyrus</a> </td>",
+                "text": "\" Catch Me \"- Demi Lovato \" Neutron Star Collision (Love Is Forever) \" - Muse \" Stay \" - Nick Jonas & The Administration \" The Only Exception \" - Paramore \" When I Look At You \" - Miley Cyrus",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 2,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22998331,
+                            "title": "Catch_Me_(Demi_Lovato_song)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Catch Me",
+                        "inTemplate": false,
+                        "endOffset": 10,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 12520860,
+                            "title": "Demi_Lovato",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Demi Lovato",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27267780,
+                            "title": "Neutron_Star_Collision_(Love_Is_Forever)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Neutron Star Collision (Love Is Forever)",
+                        "inTemplate": false,
+                        "endOffset": 1,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 63,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 178244,
+                            "title": "Muse_(band)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Muse",
+                        "inTemplate": false,
+                        "endOffset": 67,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 55,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25244999,
+                            "title": "Stay_(Nick_Jonas_and_the_Administration_song)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Stay",
+                        "inTemplate": false,
+                        "endOffset": 59,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25244999,
+                            "title": "Nick_Jonas_&_The_Administration",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Nick Jonas & The Administration",
+                        "inTemplate": false,
+                        "endOffset": 43,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 39,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 26492082,
+                            "title": "The_Only_Exception",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The Only Exception",
+                        "inTemplate": false,
+                        "endOffset": 57,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 26,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3565012,
+                            "title": "Paramore",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Paramore",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 24137097,
+                            "title": "When_I_Look_At_You",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "When I Look At You",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 26,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 8135890,
+                            "title": "Miley_Cyrus",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Miley Cyrus",
+                        "inTemplate": false,
+                        "endOffset": 37,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Hook Up </th>",
+                "text": "Hook Up",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Single </th>",
+                "text": "Single",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \" <a href=\"http://www.wikipedia.org/wiki/Airplanes\" shape=\"rect\">Airplanes</a>\" - <a href=\"http://www.wikipedia.org/wiki/B.o.B\" shape=\"rect\">B.o.B</a> Featuring <a href=\"http://www.wikipedia.org/wiki/Hayley_Williams\" shape=\"rect\">Hayley Williams</a> \" <a href=\"http://www.wikipedia.org/wiki/I_Like_It_(Enrique_Iglesias_song)\" shape=\"rect\">I Like It</a>\" - <a href=\"http://www.wikipedia.org/wiki/Enrique_Iglesias\" shape=\"rect\">Enrique Iglesias</a> Featuring <a href=\"http://www.wikipedia.org/wiki/Pitbull_(rapper)\" shape=\"rect\">Pitbull</a> \" <a href=\"http://www.wikipedia.org/wiki/If_We_Ever_Meet_Again\" shape=\"rect\">If We Ever Meet Again</a>\" - <a href=\"http://www.wikipedia.org/wiki/Timbaland\" shape=\"rect\">Timbaland</a> Featuring <a href=\"http://www.wikipedia.org/wiki/Katy_Perry\" shape=\"rect\">Katy Perry</a> \" <a href=\"http://www.wikipedia.org/wiki/Telephone\" shape=\"rect\">Telephone</a>\" - <a href=\"http://www.wikipedia.org/wiki/Lady_Gaga\" shape=\"rect\">Lady Gaga</a> Featuring <a href=\"http://www.wikipedia.org/wiki/Beyoncé\" shape=\"rect\">Beyoncé</a> \" <a href=\"http://www.wikipedia.org/wiki/We'll_Be_a_Dream\" shape=\"rect\">We'll Be a Dream</a>\" - <a href=\"http://www.wikipedia.org/wiki/We_The_Kings\" shape=\"rect\">We The Kings</a> Featuring <a href=\"http://www.wikipedia.org/wiki/Demi_Lovato\" shape=\"rect\">Demi Lovato</a> </td>",
+                "text": "\" Airplanes \" - B.o.B Featuring Hayley Williams \" I Like It \" - Enrique Iglesias Featuring Pitbull \" If We Ever Meet Again \" - Timbaland Featuring Katy Perry \" Telephone \" - Lady Gaga Featuring Beyoncé \" We'll Be a Dream \" - We The Kings Featuring Demi Lovato",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 2,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1396249,
+                            "title": "Airplanes",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Airplanes",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 20116909,
+                            "title": "B.o.B",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "B.o.B",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 21,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9726633,
+                            "title": "Hayley_Williams",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Hayley Williams",
+                        "inTemplate": false,
+                        "endOffset": 36,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 29,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27175407,
+                            "title": "I_Like_It_(Enrique_Iglesias_song)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "I Like It",
+                        "inTemplate": false,
+                        "endOffset": 38,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 303892,
+                            "title": "Enrique_Iglesias",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Enrique Iglesias",
+                        "inTemplate": false,
+                        "endOffset": 33,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 32,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 991985,
+                            "title": "Pitbull_(rapper)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Pitbull",
+                        "inTemplate": false,
+                        "endOffset": 39,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 21,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25561983,
+                            "title": "If_We_Ever_Meet_Again",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "If We Ever Meet Again",
+                        "inTemplate": false,
+                        "endOffset": 42,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 29,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 401017,
+                            "title": "Timbaland",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Timbaland",
+                        "inTemplate": false,
+                        "endOffset": 38,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 25,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 16477368,
+                            "title": "Katy_Perry",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Katy Perry",
+                        "inTemplate": false,
+                        "endOffset": 35,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 24,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 30003,
+                            "title": "Telephone",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Telephone",
+                        "inTemplate": false,
+                        "endOffset": 33,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 17782843,
+                            "title": "Lady_Gaga",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Lady Gaga",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 25,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 83688,
+                            "title": "Beyoncé",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Beyoncé",
+                        "inTemplate": false,
+                        "endOffset": 32,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 21,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 26031626,
+                            "title": "We'll_Be_a_Dream",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "We'll Be a Dream",
+                        "inTemplate": false,
+                        "endOffset": 37,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 24,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 13881413,
+                            "title": "We_The_Kings",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "We The Kings",
+                        "inTemplate": false,
+                        "endOffset": 36,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 28,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 12520860,
+                            "title": "Demi_Lovato",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Demi Lovato",
+                        "inTemplate": false,
+                        "endOffset": 39,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \" <a href=\"http://www.wikipedia.org/wiki/Bad_Romance\" shape=\"rect\">Bad Romance</a>\" - <a href=\"http://www.wikipedia.org/wiki/Lady_Gaga\" shape=\"rect\">Lady Gaga</a> \" <a href=\"http://www.wikipedia.org/wiki/Can't_Be_Tamed\" shape=\"rect\">Can't Be Tamed</a>\" - <a href=\"http://www.wikipedia.org/wiki/Miley_Cyrus\" shape=\"rect\">Miley Cyrus</a> \" <a href=\"http://www.wikipedia.org/wiki/California_Gurls\" shape=\"rect\">California Gurls</a>\" - <a href=\"http://www.wikipedia.org/wiki/Katy_Perry\" shape=\"rect\">Katy Perry</a> \" <a href=\"http://www.wikipedia.org/wiki/Nothin'_On_You\" shape=\"rect\">Nothin' On You</a>\" - <a href=\"http://www.wikipedia.org/wiki/B.o.B\" shape=\"rect\">B.o.B</a> Featuring <a href=\"http://www.wikipedia.org/wiki/Bruno_Mars\" shape=\"rect\">Bruno Mars</a> \" <a href=\"http://www.wikipedia.org/wiki/Your_Love_Is_My_Drug\" shape=\"rect\">Your Love Is My Drug</a>\" - <a href=\"http://www.wikipedia.org/wiki/Kesha\" shape=\"rect\">Ke$ha</a> </td>",
+                "text": "\" Bad Romance \" - Lady Gaga \" Can't Be Tamed \" - Miley Cyrus \" California Gurls \" - Katy Perry \" Nothin' On You \" - B.o.B Featuring Bruno Mars \" Your Love Is My Drug \" - Ke$ha",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 2,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 24551395,
+                            "title": "Bad_Romance",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Bad Romance",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 18,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 17782843,
+                            "title": "Lady_Gaga",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Lady Gaga",
+                        "inTemplate": false,
+                        "endOffset": 27,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27120694,
+                            "title": "Can't_Be_Tamed",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Can't Be Tamed",
+                        "inTemplate": false,
+                        "endOffset": 31,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 22,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 8135890,
+                            "title": "Miley_Cyrus",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Miley Cyrus",
+                        "inTemplate": false,
+                        "endOffset": 33,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 19,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27227639,
+                            "title": "California_Gurls",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "California Gurls",
+                        "inTemplate": false,
+                        "endOffset": 35,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 24,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 16477368,
+                            "title": "Katy_Perry",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Katy Perry",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 18,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 26095723,
+                            "title": "Nothin'_On_You",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Nothin' On You",
+                        "inTemplate": false,
+                        "endOffset": 32,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 22,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 20116909,
+                            "title": "B.o.B",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "B.o.B",
+                        "inTemplate": false,
+                        "endOffset": 27,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 21,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27005455,
+                            "title": "Bruno_Mars",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Bruno Mars",
+                        "inTemplate": false,
+                        "endOffset": 31,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 24,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 26473639,
+                            "title": "Your_Love_Is_My_Drug",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Your Love Is My Drug",
+                        "inTemplate": false,
+                        "endOffset": 44,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 28,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25571585,
+                            "title": "Kesha",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ke$ha",
+                        "inTemplate": false,
+                        "endOffset": 33,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Breakout Artist Female </th>",
+                "text": "Breakout Artist Female",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Breakout Artist Male </th>",
+                "text": "Breakout Artist Male",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Demi_Lovato\" shape=\"rect\">Demi Lovato</a> <a href=\"http://www.wikipedia.org/wiki/Selena_Gomez_&amp;_The_Scene\" shape=\"rect\">Selena Gomez &amp; The Scene</a> <a href=\"http://www.wikipedia.org/wiki/Kesha\" shape=\"rect\">Ke$ha</a> <a href=\"http://www.wikipedia.org/wiki/Miranda_Cosgrove\" shape=\"rect\">Miranda Cosgrove</a> <a href=\"http://www.wikipedia.org/wiki/Nicki_Minaj\" shape=\"rect\">Nicki Minaj</a> </td>",
+                "text": "Demi Lovato Selena Gomez & The Scene Ke$ha Miranda Cosgrove Nicki Minaj",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 12520860,
+                            "title": "Demi_Lovato",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Demi Lovato",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 24128239,
+                            "title": "Selena_Gomez_&_The_Scene",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Selena Gomez & The Scene",
+                        "inTemplate": false,
+                        "endOffset": 36,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 26,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25571585,
+                            "title": "Kesha",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ke$ha",
+                        "inTemplate": false,
+                        "endOffset": 31,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 7,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 723489,
+                            "title": "Miranda_Cosgrove",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Miranda Cosgrove",
+                        "inTemplate": false,
+                        "endOffset": 23,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 18,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22570683,
+                            "title": "Nicki_Minaj",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Nicki Minaj",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/B.o.B\" shape=\"rect\">B.o.B</a> <a href=\"http://www.wikipedia.org/wiki/Drake_(entertainer)\" shape=\"rect\">Drake</a> <a href=\"http://www.wikipedia.org/wiki/Jason_Derülo\" shape=\"rect\">Jason Derülo</a> <a href=\"http://www.wikipedia.org/wiki/Justin_Bieber\" shape=\"rect\">Justin Bieber</a> <a href=\"http://www.wikipedia.org/wiki/Nick_Jonas_&amp;_The_Administration\" shape=\"rect\">Nick Jonas &amp; The Administration</a> </td>",
+                "text": "B.o.B Drake Jason Derülo Justin Bieber Nick Jonas & The Administration",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 20116909,
+                            "title": "B.o.B",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "B.o.B",
+                        "inTemplate": false,
+                        "endOffset": 5,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 6,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 21466444,
+                            "title": "Drake_(entertainer)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Drake",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 7,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 16195374,
+                            "title": "Jason_Derülo",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Jason Derülo",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 23680998,
+                            "title": "Justin_Bieber",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Justin Bieber",
+                        "inTemplate": false,
+                        "endOffset": 27,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25244999,
+                            "title": "Nick_Jonas_&_The_Administration",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Nick Jonas & The Administration",
+                        "inTemplate": false,
+                        "endOffset": 46,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Male Artist </th>",
+                "text": "Male Artist",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Group </th>",
+                "text": "Group",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Adam_Lambert\" shape=\"rect\">Adam Lambert</a> <a href=\"http://www.wikipedia.org/wiki/Drake_(entertainer)\" shape=\"rect\">Drake</a> <a href=\"http://www.wikipedia.org/wiki/Jason_Derulo\" shape=\"rect\">Jason Derulo</a> <a href=\"http://www.wikipedia.org/wiki/Justin_Bieber\" shape=\"rect\">Justin Bieber</a> <a href=\"http://www.wikipedia.org/wiki/Usher_(entertainer)\" shape=\"rect\">Usher</a> </td>",
+                "text": "Adam Lambert Drake Jason Derulo Justin Bieber Usher",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 21501511,
+                            "title": "Adam_Lambert",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Adam Lambert",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 21466444,
+                            "title": "Drake_(entertainer)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Drake",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 7,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 16195374,
+                            "title": "Jason_Derulo",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Jason Derulo",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 23680998,
+                            "title": "Justin_Bieber",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Justin Bieber",
+                        "inTemplate": false,
+                        "endOffset": 27,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 215554,
+                            "title": "Usher_(entertainer)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Usher",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Glee_(TV_series)\" shape=\"rect\">Glee</a> Cast <a href=\"http://www.wikipedia.org/wiki/New_Boyz\" shape=\"rect\">New Boyz</a> <a href=\"http://www.wikipedia.org/wiki/Selena_Gomez_&amp;_The_Scene\" shape=\"rect\">Selena Gomez &amp; The Scene</a> <a href=\"http://www.wikipedia.org/wiki/The_Black_Eyed_Peas\" shape=\"rect\">The Black Eyed Peas</a> <a href=\"http://www.wikipedia.org/wiki/Young_Money\" shape=\"rect\">Young Money</a> </td>",
+                "text": "Glee Cast New Boyz Selena Gomez & The Scene The Black Eyed Peas Young Money",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 21456938,
+                            "title": "Glee_(TV_series)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Glee",
+                        "inTemplate": false,
+                        "endOffset": 4,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 23331007,
+                            "title": "New_Boyz",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "New Boyz",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 24128239,
+                            "title": "Selena_Gomez_&_The_Scene",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Selena Gomez & The Scene",
+                        "inTemplate": false,
+                        "endOffset": 39,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 26,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 210453,
+                            "title": "The_Black_Eyed_Peas",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The Black Eyed Peas",
+                        "inTemplate": false,
+                        "endOffset": 45,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 21,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 10972664,
+                            "title": "Young_Money",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Young Money",
+                        "inTemplate": false,
+                        "endOffset": 32,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Rock Artist </th>",
+                "text": "Rock Artist",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Rap Artist </th>",
+                "text": "Rap Artist",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/MGMT\" shape=\"rect\">MGMT</a> <a href=\"http://www.wikipedia.org/wiki/Kings_of_Leon\" shape=\"rect\">Kings of Leon</a> <a href=\"http://www.wikipedia.org/wiki/Muse_(band)\" shape=\"rect\">Muse</a> <a href=\"http://www.wikipedia.org/wiki/Train_(band)\" shape=\"rect\">Train</a> <a href=\"http://www.wikipedia.org/wiki/Paramore\" shape=\"rect\">Paramore</a> </td>",
+                "text": "MGMT Kings of Leon Muse Train Paramore",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 10229333,
+                            "title": "MGMT",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "MGMT",
+                        "inTemplate": false,
+                        "endOffset": 4,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 5,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 842182,
+                            "title": "Kings_of_Leon",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Kings of Leon",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 178244,
+                            "title": "Muse_(band)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Muse",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 6,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1010065,
+                            "title": "Train_(band)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Train",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 7,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3565012,
+                            "title": "Paramore",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Paramore",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Drake_(entertainer)\" shape=\"rect\">Drake</a> <a href=\"http://www.wikipedia.org/wiki/Eminem\" shape=\"rect\">Eminem</a> <a href=\"http://www.wikipedia.org/wiki/Jay-Z\" shape=\"rect\">Jay-Z</a> <a href=\"http://www.wikipedia.org/wiki/Ludacris\" shape=\"rect\">Ludacris</a> <a href=\"http://www.wikipedia.org/wiki/Pitbull_(rapper)\" shape=\"rect\">Pitbull</a> </td>",
+                "text": "Drake Eminem Jay-Z Ludacris Pitbull",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 21466444,
+                            "title": "Drake_(entertainer)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Drake",
+                        "inTemplate": false,
+                        "endOffset": 5,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 6,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4429395,
+                            "title": "Eminem",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Eminem",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 8,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 162870,
+                            "title": "Jay-Z",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Jay-Z",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 7,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 159966,
+                            "title": "Ludacris",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ludacris",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 991985,
+                            "title": "Pitbull_(rapper)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Pitbull",
+                        "inTemplate": false,
+                        "endOffset": 17,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> R&amp;B Artist </th>",
+                "text": "R&B Artist",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Country Group </th>",
+                "text": "Country Group",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Alicia_Keys\" shape=\"rect\">Alicia Keys</a> <a href=\"http://www.wikipedia.org/wiki/Beyoncé\" shape=\"rect\">Beyoncé</a> <a href=\"http://www.wikipedia.org/wiki/Rihanna\" shape=\"rect\">Rihanna</a> <a href=\"http://www.wikipedia.org/wiki/Trey_Songz\" shape=\"rect\">Trey Songz</a> <a href=\"http://www.wikipedia.org/wiki/Usher_(entertainer)\" shape=\"rect\">Usher</a> </td>",
+                "text": "Alicia Keys Beyoncé Rihanna Trey Songz Usher",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 59720,
+                            "title": "Alicia_Keys",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Alicia Keys",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 83688,
+                            "title": "Beyoncé",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Beyoncé",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 9,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2110323,
+                            "title": "Rihanna",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Rihanna",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 9,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2338784,
+                            "title": "Trey_Songz",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Trey Songz",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 215554,
+                            "title": "Usher_(entertainer)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Usher",
+                        "inTemplate": false,
+                        "endOffset": 17,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Gloriana\" shape=\"rect\">Gloriana</a> <a href=\"http://www.wikipedia.org/wiki/Lady_Antebellum\" shape=\"rect\">Lady Antebellum</a> <a href=\"http://www.wikipedia.org/wiki/Rascal_Flatts\" shape=\"rect\">Rascal Flatts</a> <a href=\"http://www.wikipedia.org/wiki/Sugarland\" shape=\"rect\">Sugarland</a> <a href=\"http://www.wikipedia.org/wiki/Zac_Brown_Band\" shape=\"rect\">Zac Brown Band</a> </td>",
+                "text": "Gloriana Lady Antebellum Rascal Flatts Sugarland Zac Brown Band",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1583447,
+                            "title": "Gloriana",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Gloriana",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 9,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 14093399,
+                            "title": "Lady_Antebellum",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Lady Antebellum",
+                        "inTemplate": false,
+                        "endOffset": 24,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1881236,
+                            "title": "Rascal_Flatts",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Rascal Flatts",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 753850,
+                            "title": "Sugarland",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Sugarland",
+                        "inTemplate": false,
+                        "endOffset": 24,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 16866996,
+                            "title": "Zac_Brown_Band",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Zac Brown Band",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Country Artist Male </th>",
+                "text": "Country Artist Male",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Country Artist Female </th>",
+                "text": "Country Artist Female",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Brad_Paisley\" shape=\"rect\">Brad Paisley</a> <a href=\"http://www.wikipedia.org/wiki/Darius_Rucker\" shape=\"rect\">Darius Rucker</a> <a href=\"http://www.wikipedia.org/wiki/Kenny_Chesney\" shape=\"rect\">Kenny Chesney</a> <a href=\"http://www.wikipedia.org/wiki/Luke_Bryan\" shape=\"rect\">Luke Bryan</a> <a href=\"http://www.wikipedia.org/wiki/Keith_Urban\" shape=\"rect\">Keith Urban</a> </td>",
+                "text": "Brad Paisley Darius Rucker Kenny Chesney Luke Bryan Keith Urban",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 847618,
+                            "title": "Brad_Paisley",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Brad Paisley",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 651922,
+                            "title": "Darius_Rucker",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Darius Rucker",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 727910,
+                            "title": "Kenny_Chesney",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Kenny Chesney",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 12094316,
+                            "title": "Luke_Bryan",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Luke Bryan",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1574157,
+                            "title": "Keith_Urban",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Keith Urban",
+                        "inTemplate": false,
+                        "endOffset": 23,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Carrie_Underwood\" shape=\"rect\">Carrie Underwood</a> <a href=\"http://www.wikipedia.org/wiki/Gretchen_Wilson\" shape=\"rect\">Gretchen Wilson</a> <a href=\"http://www.wikipedia.org/wiki/Martina_McBride\" shape=\"rect\">Martina McBride</a> <a href=\"http://www.wikipedia.org/wiki/Miranda_Lambert\" shape=\"rect\">Miranda Lambert</a> <a href=\"http://www.wikipedia.org/wiki/Taylor_Swift\" shape=\"rect\">Taylor Swift</a> </td>",
+                "text": "Carrie Underwood Gretchen Wilson Martina McBride Miranda Lambert Taylor Swift",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1535727,
+                            "title": "Carrie_Underwood",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Carrie Underwood",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 802086,
+                            "title": "Gretchen_Wilson",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Gretchen Wilson",
+                        "inTemplate": false,
+                        "endOffset": 32,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 539901,
+                            "title": "Martina_McBride",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Martina McBride",
+                        "inTemplate": false,
+                        "endOffset": 32,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2850075,
+                            "title": "Miranda_Lambert",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Miranda Lambert",
+                        "inTemplate": false,
+                        "endOffset": 32,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5422144,
+                            "title": "Taylor_Swift",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Taylor Swift",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Country Song </th>",
+                "text": "Country Song",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Best Rap/Hip-Hop Track </th>",
+                "text": "Best Rap/Hip-Hop Track",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \" <a href=\"http://www.wikipedia.org/wiki/Fifteen_(song)\" shape=\"rect\">Fifteen</a>\" - <a href=\"http://www.wikipedia.org/wiki/Taylor_Swift\" shape=\"rect\">Taylor Swift</a> \" <a href=\"http://www.wikipedia.org/wiki/Need_You_Now_(song)\" shape=\"rect\">Need You Now</a>\" - <a href=\"http://www.wikipedia.org/wiki/Lady_Antebellum\" shape=\"rect\">Lady Antebellum</a> \" <a href=\"http://www.wikipedia.org/wiki/The_House_That_Built_Me\" shape=\"rect\">The House That Built Me</a>\" - <a href=\"http://www.wikipedia.org/wiki/Miranda_Lambert\" shape=\"rect\">Miranda Lambert</a> \" <a href=\"http://www.wikipedia.org/wiki/Undo_It\" shape=\"rect\">Undo It</a>\" - <a href=\"http://www.wikipedia.org/wiki/Carrie_Underwood\" shape=\"rect\">Carrie Underwood</a> \" <a href=\"http://www.wikipedia.org/wiki/Water\" shape=\"rect\">Water</a>\" - <a href=\"http://www.wikipedia.org/wiki/Brad_Paisley\" shape=\"rect\">Brad Paisley</a> </td>",
+                "text": "\" Fifteen \" - Taylor Swift \" Need You Now \" - Lady Antebellum \" The House That Built Me \" - Miranda Lambert \" Undo It \" - Carrie Underwood \" Water \" - Brad Paisley",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 2,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 21008804,
+                            "title": "Fifteen_(song)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Fifteen",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5422144,
+                            "title": "Taylor_Swift",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Taylor Swift",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 20,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 24059793,
+                            "title": "Need_You_Now_(song)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Need You Now",
+                        "inTemplate": false,
+                        "endOffset": 32,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 20,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 14093399,
+                            "title": "Lady_Antebellum",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Lady Antebellum",
+                        "inTemplate": false,
+                        "endOffset": 35,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 23,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 26169065,
+                            "title": "The_House_That_Built_Me",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "The House That Built Me",
+                        "inTemplate": false,
+                        "endOffset": 46,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 31,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2850075,
+                            "title": "Miranda_Lambert",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Miranda Lambert",
+                        "inTemplate": false,
+                        "endOffset": 46,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 23,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 24873592,
+                            "title": "Undo_It",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Undo It",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1535727,
+                            "title": "Carrie_Underwood",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Carrie Underwood",
+                        "inTemplate": false,
+                        "endOffset": 31,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 24,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 33306,
+                            "title": "Water",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Water",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 847618,
+                            "title": "Brad_Paisley",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Brad Paisley",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \" <a href=\"http://www.wikipedia.org/wiki/Hello_Good_Morning\" shape=\"rect\">Hello Good Morning</a>\" - <a href=\"http://www.wikipedia.org/wiki/Diddy_–_Dirty_Money\" shape=\"rect\">Diddy – Dirty Money</a> featuring <a href=\"http://www.wikipedia.org/wiki/T.I.\" shape=\"rect\">T.I.</a> \" <a href=\"http://www.wikipedia.org/wiki/Find_Your_Love\" shape=\"rect\">Find Your Love</a>\" - <a href=\"http://www.wikipedia.org/wiki/Drake_(entertainer)\" shape=\"rect\">Drake</a> \" <a href=\"http://www.wikipedia.org/wiki/Love_the_Way_You_Lie\" shape=\"rect\">Love the Way You Lie</a>\" - <a href=\"http://www.wikipedia.org/wiki/Eminem\" shape=\"rect\">Eminem</a> featuring <a href=\"http://www.wikipedia.org/wiki/Rihanna\" shape=\"rect\">Rihanna</a> \" <a href=\"http://www.wikipedia.org/wiki/Wavin'_Flag\" shape=\"rect\">Wavin' Flag</a>\" - <a href=\"http://www.wikipedia.org/wiki/K'naan\" shape=\"rect\">K'naan</a> \" <a href=\"http://www.wikipedia.org/wiki/Carry_Out\" shape=\"rect\">Carry Out</a>\" - <a href=\"http://www.wikipedia.org/wiki/Timbaland\" shape=\"rect\">Timbaland</a> featuring <a href=\"http://www.wikipedia.org/wiki/Justin_Timberlake\" shape=\"rect\">Justin Timberlake</a> </td>",
+                "text": "\" Hello Good Morning \" - Diddy – Dirty Money featuring T.I. \" Find Your Love \" - Drake \" Love the Way You Lie \" - Eminem featuring Rihanna \" Wavin' Flag \" - K'naan \" Carry Out \" - Timbaland featuring Justin Timberlake",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 2,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 26792326,
+                            "title": "Hello_Good_Morning",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Hello Good Morning",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 25,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27400495,
+                            "title": "Diddy_–_Dirty_Money",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Diddy – Dirty Money",
+                        "inTemplate": false,
+                        "endOffset": 44,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1532027,
+                            "title": "T.I.",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "T.I.",
+                        "inTemplate": false,
+                        "endOffset": 1,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 42,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27145883,
+                            "title": "Find_Your_Love",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Find Your Love",
+                        "inTemplate": false,
+                        "endOffset": 56,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 37,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 21466444,
+                            "title": "Drake_(entertainer)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Drake",
+                        "inTemplate": false,
+                        "endOffset": 42,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27583194,
+                            "title": "Love_the_Way_You_Lie",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Love the Way You Lie",
+                        "inTemplate": false,
+                        "endOffset": 33,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 28,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4429395,
+                            "title": "Eminem",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Eminem",
+                        "inTemplate": false,
+                        "endOffset": 34,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 22,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2110323,
+                            "title": "Rihanna",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Rihanna",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 21,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22133583,
+                            "title": "Wavin'_Flag",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Wavin' Flag",
+                        "inTemplate": false,
+                        "endOffset": 32,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 19,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2157363,
+                            "title": "K'naan",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "K'naan",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25359308,
+                            "title": "Carry_Out",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Carry Out",
+                        "inTemplate": false,
+                        "endOffset": 23,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 17,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 401017,
+                            "title": "Timbaland",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Timbaland",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 25,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 69323,
+                            "title": "Justin_Timberlake",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Justin Timberlake",
+                        "inTemplate": false,
+                        "endOffset": 42,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.7556213918142021,
+    "numHeaderRows": 1,
+    "numCols": 2
+}

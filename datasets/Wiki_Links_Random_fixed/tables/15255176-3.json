@@ -1,0 +1,143 @@
+{
+    "sectionTitle": "1990s",
+    "pgId": 15255176,
+    "numDataRows": 1,
+    "_id": "15255176-3",
+    "pgTitle": "List of fatal snake bites in the United States",
+    "numericColumns": [],
+    "tableCaption": "1990s",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Name, age, gender</th>",
+                "text": "Name, age, gender",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Date</th>",
+                "text": "Date",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Species</th>",
+                "text": "Species",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Location, comments </th>",
+                "text": "Location, comments",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 3,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Anita Finch, 33, female</td>",
+                "text": "Anita Finch, 33, female",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Reported December 17, 1999 </td>",
+                "text": "Reported December 17, 1999",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Gaboon_Viper\" shape=\"rect\">Gaboon Viper</a> or <a href=\"http://www.wikipedia.org/wiki/Vipera_ammodytes\" shape=\"rect\">Hog-nosed Sand Viper</a></td>",
+                "text": "Gaboon Viper or Hog-nosed Sand Viper",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1210462,
+                            "title": "Gaboon_Viper",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Gaboon Viper",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4954971,
+                            "title": "Vipera_ammodytes",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Hog-nosed Sand Viper",
+                        "inTemplate": false,
+                        "endOffset": 36,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Bitten by either of these snakes she kept as pets in her <a href=\"http://www.wikipedia.org/wiki/Van_Nuys,_California\" shape=\"rect\">Van Nuys, California</a> home </td>",
+                "text": "Bitten by either of these snakes she kept as pets in her Van Nuys, California home",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 57,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 81918,
+                            "title": "Van_Nuys,_California",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Van Nuys, California",
+                        "inTemplate": false,
+                        "endOffset": 77,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.02692103874869645,
+    "numHeaderRows": 1,
+    "numCols": 4
+}

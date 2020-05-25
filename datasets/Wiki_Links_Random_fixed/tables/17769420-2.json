@@ -1,0 +1,453 @@
+{
+    "sectionTitle": "Track listing",
+    "pgId": 17769420,
+    "numDataRows": 10,
+    "_id": "17769420-2",
+    "pgTitle": "Mademoiselle chante...",
+    "numericColumns": [
+        0
+    ],
+    "tableCaption": "Track listing",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> # </th>",
+                "text": "#",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Title </th>",
+                "text": "Title",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Length </th>",
+                "text": "Length",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 2,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1. </td>",
+                "text": "1.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \" <a href=\"http://www.wikipedia.org/wiki/Mon_mec_à_moi\" shape=\"rect\">Mon mec à moi</a>\" ( <a href=\"http://www.wikipedia.org/wiki/Didier_Barbelivien\" shape=\"rect\">Didier Barbelivien</a> / <a href=\"http://www.wikipedia.org/wiki/François_Bernheim\" shape=\"rect\">François Bernheim</a>) </td>",
+                "text": "\" Mon mec à moi \" ( Didier Barbelivien / François Bernheim )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 2,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 17944298,
+                            "title": "Mon_mec_à_moi",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Mon mec à moi",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 20,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 12148611,
+                            "title": "Didier_Barbelivien",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Didier Barbelivien",
+                        "inTemplate": false,
+                        "endOffset": 38,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 26,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "François_Bernheim",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "François Bernheim",
+                        "inTemplate": false,
+                        "endOffset": 43,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 4:14 </td>",
+                "text": "4:14",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2. </td>",
+                "text": "2.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \"Venus des abribus\" (F. Bernheim - <a href=\"http://www.wikipedia.org/wiki/Élisabeth_Depardieu\" shape=\"rect\">Élisabeth Depardieu</a> / <a href=\"http://www.wikipedia.org/wiki/Dominique_Perrier\" shape=\"rect\">Dominique Perrier</a>) </td>",
+                "text": "\"Venus des abribus\" (F. Bernheim - Élisabeth Depardieu / Dominique Perrier )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 35,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9009458,
+                            "title": "Élisabeth_Depardieu",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Élisabeth Depardieu",
+                        "inTemplate": false,
+                        "endOffset": 54,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 57,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 36403239,
+                            "title": "Dominique_Perrier",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Dominique Perrier",
+                        "inTemplate": false,
+                        "endOffset": 74,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 3:55 </td>",
+                "text": "3:55",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 3. </td>",
+                "text": "3.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \"D'Allemagne\" (D. Barbelivien / F. Bernheim) </td>",
+                "text": "\"D'Allemagne\" (D. Barbelivien / F. Bernheim)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 4:25 </td>",
+                "text": "4:25",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 4. </td>",
+                "text": "4.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \"Des Mensonges en musique\" (D. Barbelivien / F. Bernheim) </td>",
+                "text": "\"Des Mensonges en musique\" (D. Barbelivien / F. Bernheim)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 4:19 </td>",
+                "text": "4:19",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 5. </td>",
+                "text": "5.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \"Un Dernier Blues\" (D. Barbelivien) </td>",
+                "text": "\"Un Dernier Blues\" (D. Barbelivien)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1:37 </td>",
+                "text": "1:37",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 6. </td>",
+                "text": "6.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \"Quand Jimmy dit\" (D. Barbelivien / F. Bernheim) </td>",
+                "text": "\"Quand Jimmy dit\" (D. Barbelivien / F. Bernheim)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 3:42 </td>",
+                "text": "3:42",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 7. </td>",
+                "text": "7.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \"Souvenir de l'Est\" (D. Barbelivien / F. Bernheim) </td>",
+                "text": "\"Souvenir de l'Est\" (D. Barbelivien / F. Bernheim)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2:56 </td>",
+                "text": "2:56",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 8. </td>",
+                "text": "8.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \"Elle voulait jouer cabaret\" (D. Barbelivien) </td>",
+                "text": "\"Elle voulait jouer cabaret\" (D. Barbelivien)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 4:02 </td>",
+                "text": "4:02",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 9. </td>",
+                "text": "9.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \" <a href=\"http://www.wikipedia.org/wiki/Mademoiselle_chante_le_blues\" shape=\"rect\">Mademoiselle chante le blues</a>\" (D. Barbelivien / <a href=\"http://www.wikipedia.org/wiki/Bob_Mehdi\" shape=\"rect\">Bob Mehdi</a>) </td>",
+                "text": "\" Mademoiselle chante le blues \" (D. Barbelivien / Bob Mehdi )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 2,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 17927931,
+                            "title": "Mademoiselle_chante_le_blues",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Mademoiselle chante le blues",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 51,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Bob_Mehdi",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Bob Mehdi",
+                        "inTemplate": false,
+                        "endOffset": 60,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 3:48 </td>",
+                "text": "3:48",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 10. </td>",
+                "text": "10.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> \"Chanson d'amour pas finie\" (D. Barbelivien / F. Bernheim) </td>",
+                "text": "\"Chanson d'amour pas finie\" (D. Barbelivien / F. Bernheim)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1:36 </td>",
+                "text": "1:36",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.9059250256977975,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

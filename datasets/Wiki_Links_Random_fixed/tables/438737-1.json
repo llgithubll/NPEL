@@ -1,0 +1,424 @@
+{
+    "sectionTitle": "",
+    "pgId": 438737,
+    "numDataRows": 1,
+    "_id": "438737-1",
+    "pgTitle": "List of United States Presidents by military rank",
+    "numericColumns": [
+        0
+    ],
+    "tableCaption": "",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Rank order </th>",
+                "text": "Rank order",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Highest rank </th>",
+                "text": "Highest rank",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Branch </th>",
+                "text": "Branch",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> President </th>",
+                "text": "President",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Combat experience </th>",
+                "text": "Combat experience",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Service notes </th>",
+                "text": "Service notes",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1 </td>",
+                "text": "1",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/General_of_the_Armies\" shape=\"rect\">General of the Armies of the United States</a> </td>",
+                "text": "General of the Armies of the United States",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 668024,
+                            "title": "General_of_the_Armies",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "General of the Armies of the United States",
+                        "inTemplate": false,
+                        "endOffset": 42,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Virginia_militia\" shape=\"rect\">Virginia militia</a>, <a href=\"http://www.wikipedia.org/wiki/Continental_Army\" shape=\"rect\">Continental Army</a>, <a href=\"http://www.wikipedia.org/wiki/United_States_Army\" shape=\"rect\">United States Army</a> </td>",
+                "text": "Virginia militia , Continental Army , United States Army",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2045215,
+                            "title": "Virginia_militia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Virginia militia",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 19,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 168210,
+                            "title": "Continental_Army",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Continental Army",
+                        "inTemplate": false,
+                        "endOffset": 35,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 22,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 32087,
+                            "title": "United_States_Army",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "United States Army",
+                        "inTemplate": false,
+                        "endOffset": 40,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/George_Washington\" shape=\"rect\">George Washington</a> </td>",
+                "text": "George Washington",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 11968,
+                            "title": "George_Washington",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "George Washington",
+                        "inTemplate": false,
+                        "endOffset": 17,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/French_and_Indian_War\" shape=\"rect\">French and Indian War</a>, <a href=\"http://www.wikipedia.org/wiki/American_Revolutionary_War\" shape=\"rect\">Revolutionary War</a> </td>",
+                "text": "French and Indian War , Revolutionary War",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 39062,
+                            "title": "French_and_Indian_War",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "French and Indian War",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 24,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 771,
+                            "title": "American_Revolutionary_War",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Revolutionary War",
+                        "inTemplate": false,
+                        "endOffset": 41,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Served in the <a href=\"http://www.wikipedia.org/wiki/Virginia_militia\" shape=\"rect\">Virginia militia</a> (1752–1758), attaining the rank of colonel; served as commander in chief of the <a href=\"http://www.wikipedia.org/wiki/Continental_Army\" shape=\"rect\">Continental Army</a> (1775–1783) during the Revolutionary War, with the rank of \"General and Commander in Chief.\" Washington was a <a href=\"http://www.wikipedia.org/wiki/Lieutenant_General_(United_States)\" shape=\"rect\">Lieutenant General</a> in the <a href=\"http://www.wikipedia.org/wiki/United_States_Army\" shape=\"rect\">United States Army</a> at his death. In 1976, then-president <a href=\"http://www.wikipedia.org/wiki/Gerald_R._Ford\" shape=\"rect\">Gerald R. Ford</a> posthumously appointed Washington as <a href=\"http://www.wikipedia.org/wiki/General_of_the_Armies_of_the_United_States\" shape=\"rect\">General of the Armies of the United States</a> and specified that he would forever rank above all officers of the Army, past, present and future. The rank of <a href=\"http://www.wikipedia.org/wiki/General_of_the_Armies\" shape=\"rect\">General of the Armies</a> is considered senior to <a href=\"http://www.wikipedia.org/wiki/General_of_the_Army\" shape=\"rect\">General of the Army</a>, and has been bestowed on only two officers in history, <a href=\"http://www.wikipedia.org/wiki/John_J._Pershing\" shape=\"rect\">John J. Pershing</a>, in 1919 for his services in World War I, and George Washington for his service as the first Commanding General of the United States Army. (An equivalent rank, <a href=\"http://www.wikipedia.org/wiki/Admiral_of_the_Navy\" shape=\"rect\">Admiral of the Navy</a>, was given to <a href=\"http://www.wikipedia.org/wiki/George_Dewey\" shape=\"rect\">George Dewey</a>.) </td>",
+                "text": "Served in the Virginia militia (1752–1758), attaining the rank of colonel; served as commander in chief of the Continental Army (1775–1783) during the Revolutionary War, with the rank of \"General and Commander in Chief.\" Washington was a Lieutenant General in the United States Army at his death. In 1976, then-president Gerald R. Ford posthumously appointed Washington as General of the Armies of the United States and specified that he would forever rank above all officers of the Army, past, present and future. The rank of General of the Armies is considered senior to General of the Army , and has been bestowed on only two officers in history, John J. Pershing , in 1919 for his services in World War I, and George Washington for his service as the first Commanding General of the United States Army. (An equivalent rank, Admiral of the Navy , was given to George Dewey .)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 14,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2045215,
+                            "title": "Virginia_militia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Virginia militia",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 111,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 168210,
+                            "title": "Continental_Army",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Continental Army",
+                        "inTemplate": false,
+                        "endOffset": 127,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 208,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3820104,
+                            "title": "Lieutenant_General_(United_States)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Lieutenant General",
+                        "inTemplate": false,
+                        "endOffset": 226,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 137,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 32087,
+                            "title": "United_States_Army",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "United States Army",
+                        "inTemplate": false,
+                        "endOffset": 155,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 65,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5030380,
+                            "title": "Gerald_R._Ford",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Gerald R. Ford",
+                        "inTemplate": false,
+                        "endOffset": 79,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 91,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 668024,
+                            "title": "General_of_the_Armies_of_the_United_States",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "General of the Armies of the United States",
+                        "inTemplate": false,
+                        "endOffset": 133,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 192,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 668024,
+                            "title": "General_of_the_Armies",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "General of the Armies",
+                        "inTemplate": false,
+                        "endOffset": 213,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 158,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 201931,
+                            "title": "General_of_the_Army",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "General of the Army",
+                        "inTemplate": false,
+                        "endOffset": 177,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 102,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 23453940,
+                            "title": "John_J._Pershing",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "John J. Pershing",
+                        "inTemplate": false,
+                        "endOffset": 118,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 236,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 69473,
+                            "title": "Admiral_of_the_Navy",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Admiral of the Navy",
+                        "inTemplate": false,
+                        "endOffset": 255,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 197,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 146875,
+                            "title": "George_Dewey",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "George Dewey",
+                        "inTemplate": false,
+                        "endOffset": 209,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.5161220515146852,
+    "numHeaderRows": 1,
+    "numCols": 6
+}

@@ -1,0 +1,125 @@
+{
+    "sectionTitle": "Sources",
+    "pgId": 27024349,
+    "numDataRows": 1,
+    "_id": "27024349-1",
+    "pgTitle": "Carl Gustaf von Brinkman",
+    "numericColumns": [],
+    "tableCaption": "Sources",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"3\" rowspan=\"1\"> Cultural offices </th>",
+                "text": "Cultural offices",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"3\" rowspan=\"1\"> Cultural offices </th>",
+                "text": "Cultural offices",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"3\" rowspan=\"1\"> Cultural offices </th>",
+                "text": "Cultural offices",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Preceded by <span style=\"font-weight: bold\"> Johann Adam Tingstadius</span> </td>",
+                "text": "Precededby Johann Adam Tingstadius",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Swedish_Academy\" shape=\"rect\">Swedish Academy</a>, <a href=\"http://www.wikipedia.org/wiki/List_of_members_of_the_Swedish_Academy\" shape=\"rect\">Seat No. 3</a> 1828–1847 </td>",
+                "text": "Swedish Academy , Seat No. 3 1828–1847",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27013,
+                            "title": "Swedish_Academy",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Swedish Academy",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 18,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 937413,
+                            "title": "List_of_members_of_the_Swedish_Academy",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Seat No. 3",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Succeeded by <span style=\"font-weight: bold\"> <a href=\"http://www.wikipedia.org/wiki/Albrecht_Elof_Ihre\" shape=\"rect\">Albrecht Elof Ihre</a></span> </td>",
+                "text": "Succeededby Albrecht Elof Ihre",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4011649,
+                            "title": "Albrecht_Elof_Ihre",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Albrecht Elof Ihre",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.06553890812210739,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

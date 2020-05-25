@@ -1,0 +1,92 @@
+{
+    "sectionTitle": "Changes",
+    "pgId": 10749842,
+    "numDataRows": 1,
+    "_id": "10749842-1",
+    "pgTitle": "ISO 3166-2:JE",
+    "numericColumns": [],
+    "tableCaption": "Changes",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Newsletter </th>",
+                "text": "Newsletter",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Date issued </th>",
+                "text": "Date issued",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Description of change in newsletter </th>",
+                "text": "Description of change in newsletter",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span> Newsletter I-8</span> </td>",
+                "text": "Newsletter I-8",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span> 2007-04-17</span> </td>",
+                "text": "2007-04-17",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Addition of a new entry (in accordance with <a href=\"http://www.wikipedia.org/wiki/ISO_3166-1\" shape=\"rect\">ISO 3166-1 Newsletter V-11</a>) </td>",
+                "text": "Addition of a new entry (in accordance with ISO 3166-1 Newsletter V-11 )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 44,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 222771,
+                            "title": "ISO_3166-1",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "ISO 3166-1 Newsletter V-11",
+                        "inTemplate": false,
+                        "endOffset": 70,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.1868042715359479,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

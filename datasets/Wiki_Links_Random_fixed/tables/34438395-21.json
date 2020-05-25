@@ -1,0 +1,125 @@
+{
+    "sectionTitle": "X-Z",
+    "pgId": 34438395,
+    "numDataRows": 1,
+    "_id": "34438395-21",
+    "pgTitle": "List of SRI International people",
+    "numericColumns": [],
+    "tableCaption": "X-Z",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Name </th>",
+                "text": "Name",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Notability </th>",
+                "text": "Notability",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> References </th>",
+                "text": "References",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 21,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/John_J._Young,_Jr.\" shape=\"rect\">John J. Young, Jr.</a> </td>",
+                "text": "John J. Young, Jr.",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25988024,
+                            "title": "John_J._Young,_Jr.",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "John J. Young, Jr.",
+                        "inTemplate": false,
+                        "endOffset": 1,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> United States <a href=\"http://www.wikipedia.org/wiki/Assistant_Secretary_of_the_Navy_(Research,_Development_and_Acquisitions)\" shape=\"rect\">Assistant Secretary of the Navy (Research, Development and Acquisitions)</a> from 2001 to 2005 and <a href=\"http://www.wikipedia.org/wiki/Under_Secretary_of_Defense_for_Acquisition,_Technology_and_Logistics\" shape=\"rect\">Under Secretary of Defense for Acquisition, Technology and Logistics</a> from 2007 to 2009. He has been on SRI's board of directors since September 2009. </td>",
+                "text": "United States Assistant Secretary of the Navy (Research, Development and Acquisitions) from 2001 to 2005 and Under Secretary of Defense for Acquisition, Technology and Logistics from 2007 to 2009. He has been on SRI's board of directors since September 2009.",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25440497,
+                            "title": "Assistant_Secretary_of_the_Navy_(Research,_Development_and_Acquisitions)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Assistant Secretary of the Navy (Research, Development and Acquisitions)",
+                        "inTemplate": false,
+                        "endOffset": 1,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 109,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 10900796,
+                            "title": "Under_Secretary_of_Defense_for_Acquisition,_Technology_and_Logistics",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Under Secretary of Defense for Acquisition, Technology and Logistics",
+                        "inTemplate": false,
+                        "endOffset": 177,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.5237162348348647,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

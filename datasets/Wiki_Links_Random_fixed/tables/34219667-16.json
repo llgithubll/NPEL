@@ -1,0 +1,92 @@
+{
+    "sectionTitle": "1925",
+    "pgId": 34219667,
+    "numDataRows": 1,
+    "_id": "34219667-16",
+    "pgTitle": "Timeline of the National Football League",
+    "numericColumns": [],
+    "tableCaption": "1925",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> First Season in NFL * </td>",
+                "text": "First Season in NFL *",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Last Active Season ^ </td>",
+                "text": "Last Active Season ^",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Last season before hiatus, rejoined league later § </td>",
+                "text": "Last season before hiatus, rejoined league later §",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 16,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Team jumped to the <a href=\"http://www.wikipedia.org/wiki/American_Football_League_(1926)\" shape=\"rect\"> AFL </a> † </td>",
+                "text": "Team jumped to the AFL †",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 19,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 11553617,
+                            "title": "American_Football_League_(1926)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "AFL",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Rejoined the NFL ** </td>",
+                "text": "Rejoined the NFL **",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.2723089079372585,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

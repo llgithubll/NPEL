@@ -1,0 +1,989 @@
+{
+    "sectionTitle": "Combat brigades",
+    "pgId": 1392092,
+    "numDataRows": 10,
+    "_id": "1392092-2",
+    "pgTitle": "Italian Army",
+    "numericColumns": [],
+    "tableCaption": "Combat brigades",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Name </th>",
+                "text": "Name",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Headquarters </th>",
+                "text": "Headquarters",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Subunits </th>",
+                "text": "Subunits",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 2,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Aosta_Mechanized_Brigade\" shape=\"rect\">Mechanized Brigade Aosta</a> </td>",
+                "text": "Mechanized Brigade Aosta",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22180502,
+                            "title": "Aosta_Mechanized_Brigade",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Mechanized Brigade Aosta",
+                        "inTemplate": false,
+                        "endOffset": 24,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Messina\" shape=\"rect\">Messina</a> ( <a href=\"http://www.wikipedia.org/wiki/Sicily\" shape=\"rect\">Sicily</a>) </td>",
+                "text": "Messina ( Sicily )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 59705,
+                            "title": "Messina",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Messina",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 27619,
+                            "title": "Sicily",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Sicily",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> two infantry regiments, one <a href=\"http://www.wikipedia.org/wiki/Bersaglieri\" shape=\"rect\">Bersaglieri</a> regiment, one cavalry regiment, one self-propelled artillery regiment, one engineer regiment, one logistic regiment, one combat service support battalion </td>",
+                "text": "two infantry regiments, one Bersaglieri regiment, one cavalry regiment, one self-propelled artillery regiment, one engineer regiment, one logistic regiment, one combat service support battalion",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 28,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 931962,
+                            "title": "Bersaglieri",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Bersaglieri",
+                        "inTemplate": false,
+                        "endOffset": 39,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Ariete_Armored_Brigade\" shape=\"rect\">Armored Brigade Ariete</a> </td>",
+                "text": "Armored Brigade Ariete",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 36961607,
+                            "title": "Ariete_Armored_Brigade",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Armored Brigade Ariete",
+                        "inTemplate": false,
+                        "endOffset": 22,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Pordenone\" shape=\"rect\">Pordenone</a> ( <a href=\"http://www.wikipedia.org/wiki/Friuli-Venezia_Giulia\" shape=\"rect\">Friuli-Venezia Giulia</a>) </td>",
+                "text": "Pordenone ( Friuli-Venezia Giulia )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 944061,
+                            "title": "Pordenone",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Pordenone",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 266542,
+                            "title": "Friuli-Venezia_Giulia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Friuli-Venezia Giulia",
+                        "inTemplate": false,
+                        "endOffset": 33,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> two tank regiments, one <a href=\"http://www.wikipedia.org/wiki/Bersaglieri\" shape=\"rect\">Bersaglieri</a> regiment, one cavalry regiment, one self-propelled artillery regiment, one engineer regiment, one logistic regiment, one combat service support battalion </td>",
+                "text": "two tank regiments, one Bersaglieri regiment, one cavalry regiment, one self-propelled artillery regiment, one engineer regiment, one logistic regiment, one combat service support battalion",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 24,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 931962,
+                            "title": "Bersaglieri",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Bersaglieri",
+                        "inTemplate": false,
+                        "endOffset": 35,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Folgore_Parachute_Brigade\" shape=\"rect\">Parachute Brigade Folgore</a> </td>",
+                "text": "Parachute Brigade Folgore",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 13955479,
+                            "title": "Folgore_Parachute_Brigade",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Parachute Brigade Folgore",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Livorno\" shape=\"rect\">Livorno</a> ( <a href=\"http://www.wikipedia.org/wiki/Tuscany\" shape=\"rect\">Tuscany</a>) </td>",
+                "text": "Livorno ( Tuscany )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 246305,
+                            "title": "Livorno",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Livorno",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 21967242,
+                            "title": "Tuscany",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Tuscany",
+                        "inTemplate": false,
+                        "endOffset": 17,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> three parachute infantry regiments, one cavalry regiment, one airborne artillery regiment, one engineer regiment, one logistic regiment, one combat service support battalion, Parachutist Training Center </td>",
+                "text": "three parachute infantry regiments, one cavalry regiment, one airborne artillery regiment, one engineer regiment, one logistic regiment, one combat service support battalion, Parachutist Training Center",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Pozzuolo_del_Friuli_Cavalry_Brigade\" shape=\"rect\">Pozzuolo del Friuli Brigade</a> </td>",
+                "text": "Pozzuolo del Friuli Brigade",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 21817966,
+                            "title": "Pozzuolo_del_Friuli_Cavalry_Brigade",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Pozzuolo del Friuli Brigade",
+                        "inTemplate": false,
+                        "endOffset": 27,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Bologna\" shape=\"rect\">Bologna</a> ( <a href=\"http://www.wikipedia.org/wiki/Emilia-Romagna\" shape=\"rect\">Emilia-Romagna</a>) </td>",
+                "text": "Bologna ( Emilia-Romagna )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 21069333,
+                            "title": "Bologna",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Bologna",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 162715,
+                            "title": "Emilia-Romagna",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Emilia-Romagna",
+                        "inTemplate": false,
+                        "endOffset": 24,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> one air-assault infantry regiment, one amphibious assault infantry regiment, one cavalry regiment, two <a href=\"http://www.wikipedia.org/wiki/Army_Aviation\" shape=\"rect\">Army Aviation</a> helicopter regiments, one logistic regiment, one combat service support battalion </td>",
+                "text": "one air-assault infantry regiment, one amphibious assault infantry regiment, one cavalry regiment, two Army Aviation helicopter regiments, one logistic regiment, one combat service support battalion",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 103,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2827153,
+                            "title": "Army_Aviation",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Army Aviation",
+                        "inTemplate": false,
+                        "endOffset": 116,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Garibaldi_Bersaglieri_Brigade\" shape=\"rect\">Bersaglieri Brigade Garibaldi</a> </td>",
+                "text": "Bersaglieri Brigade Garibaldi",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22179527,
+                            "title": "Garibaldi_Bersaglieri_Brigade",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Bersaglieri Brigade Garibaldi",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Caserta\" shape=\"rect\">Caserta</a> ( <a href=\"http://www.wikipedia.org/wiki/Campania\" shape=\"rect\">Campania</a>) </td>",
+                "text": "Caserta ( Campania )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2861948,
+                            "title": "Caserta",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Caserta",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 44943,
+                            "title": "Campania",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Campania",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> one tank regiment, one cavalry regiment, two <a href=\"http://www.wikipedia.org/wiki/Bersaglieri\" shape=\"rect\">Bersaglieri</a> regiments, one self-propelled artillery regiment, one engineer regiment, one logistic regiment, one combat service support battalion </td>",
+                "text": "one tank regiment, one cavalry regiment, two Bersaglieri regiments, one self-propelled artillery regiment, one engineer regiment, one logistic regiment, one combat service support battalion",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 45,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 931962,
+                            "title": "Bersaglieri",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Bersaglieri",
+                        "inTemplate": false,
+                        "endOffset": 56,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Granatieri_di_Sardegna_Mechanized_Brigade\" shape=\"rect\">Mechanized Brigade Granatieri di Sardegna</a> </td>",
+                "text": "Mechanized Brigade Granatieri di Sardegna",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22178875,
+                            "title": "Granatieri_di_Sardegna_Mechanized_Brigade",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Mechanized Brigade Granatieri di Sardegna",
+                        "inTemplate": false,
+                        "endOffset": 41,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Rome\" shape=\"rect\">Rome</a> ( <a href=\"http://www.wikipedia.org/wiki/Lazio\" shape=\"rect\">Lazio</a>) </td>",
+                "text": "Rome ( Lazio )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25458,
+                            "title": "Rome",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Rome",
+                        "inTemplate": false,
+                        "endOffset": 4,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 7,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 18701,
+                            "title": "Lazio",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Lazio",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> one cavalry regiment, one <a href=\"http://www.wikipedia.org/wiki/Grenadier\" shape=\"rect\">Grenadier</a> regiment, one HQ &amp; support battalion (brigade is being disbanded) </td>",
+                "text": "one cavalry regiment, one Grenadier regiment, one HQ & support battalion (brigade is being disbanded)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 26,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 71349,
+                            "title": "Grenadier",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Grenadier",
+                        "inTemplate": false,
+                        "endOffset": 35,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Alpine_Brigade_Julia\" shape=\"rect\">Alpine Brigade Julia</a> </td>",
+                "text": "Alpine Brigade Julia",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 11154377,
+                            "title": "Alpine_Brigade_Julia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Alpine Brigade Julia",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Udine\" shape=\"rect\">Udine</a> ( <a href=\"http://www.wikipedia.org/wiki/Friuli-Venezia_Giulia\" shape=\"rect\">Friuli-Venezia Giulia</a>) </td>",
+                "text": "Udine ( Friuli-Venezia Giulia )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 223464,
+                            "title": "Udine",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Udine",
+                        "inTemplate": false,
+                        "endOffset": 5,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 8,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 266542,
+                            "title": "Friuli-Venezia_Giulia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Friuli-Venezia Giulia",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> three <a href=\"http://www.wikipedia.org/wiki/Alpini\" shape=\"rect\">Alpini</a> regiments, one cavalry regiment, one field artillery regiment, one engineer regiment, one logistic regiment, one combat service support battalion </td>",
+                "text": "three Alpini regiments, one cavalry regiment, one field artillery regiment, one engineer regiment, one logistic regiment, one combat service support battalion",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 6,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1999227,
+                            "title": "Alpini",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Alpini",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Pinerolo_Mechanized_Brigade\" shape=\"rect\">Mechanized Brigade Pinerolo</a> </td>",
+                "text": "Mechanized Brigade Pinerolo",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22179897,
+                            "title": "Pinerolo_Mechanized_Brigade",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Mechanized Brigade Pinerolo",
+                        "inTemplate": false,
+                        "endOffset": 27,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Bari\" shape=\"rect\">Bari</a> ( <a href=\"http://www.wikipedia.org/wiki/Apulia\" shape=\"rect\">Apulia</a>) </td>",
+                "text": "Bari ( Apulia )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 44784,
+                            "title": "Bari",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Bari",
+                        "inTemplate": false,
+                        "endOffset": 4,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 7,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 44783,
+                            "title": "Apulia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Apulia",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> two infantry regiments, one <a href=\"http://www.wikipedia.org/wiki/Bersaglieri\" shape=\"rect\">Bersaglieri</a> regiment, one self-propelled artillery regiment, one engineer regiment, one logistic regiment, one combat service support battalion </td>",
+                "text": "two infantry regiments, one Bersaglieri regiment, one self-propelled artillery regiment, one engineer regiment, one logistic regiment, one combat service support battalion",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 28,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 931962,
+                            "title": "Bersaglieri",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Bersaglieri",
+                        "inTemplate": false,
+                        "endOffset": 39,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Sassari_Mechanized_Brigade\" shape=\"rect\">Mechanized Brigade Sassari</a> </td>",
+                "text": "Mechanized Brigade Sassari",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 21806544,
+                            "title": "Sassari_Mechanized_Brigade",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Mechanized Brigade Sassari",
+                        "inTemplate": false,
+                        "endOffset": 26,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Sassari\" shape=\"rect\">Sassari</a> ( <a href=\"http://www.wikipedia.org/wiki/Sardinia\" shape=\"rect\">Sardinia</a>) </td>",
+                "text": "Sassari ( Sardinia )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 45427,
+                            "title": "Sassari",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Sassari",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 10,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 29376,
+                            "title": "Sardinia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Sardinia",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> two infantry regiments, one <a href=\"http://www.wikipedia.org/wiki/Bersaglieri\" shape=\"rect\">Bersaglieri</a> regiment, one engineer regiment, one logistic regiment, one combat service support battalion </td>",
+                "text": "two infantry regiments, one Bersaglieri regiment, one engineer regiment, one logistic regiment, one combat service support battalion",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 28,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 931962,
+                            "title": "Bersaglieri",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Bersaglieri",
+                        "inTemplate": false,
+                        "endOffset": 39,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Alpine_Brigade_Taurinense\" shape=\"rect\">Alpine Brigade Taurinense</a> </td>",
+                "text": "Alpine Brigade Taurinense",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 11154380,
+                            "title": "Alpine_Brigade_Taurinense",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Alpine Brigade Taurinense",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Turin\" shape=\"rect\">Turin</a> ( <a href=\"http://www.wikipedia.org/wiki/Piedmont\" shape=\"rect\">Piedmont</a>) </td>",
+                "text": "Turin ( Piedmont )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 19450529,
+                            "title": "Turin",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Turin",
+                        "inTemplate": false,
+                        "endOffset": 5,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 8,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 25061,
+                            "title": "Piedmont",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Piedmont",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> three <a href=\"http://www.wikipedia.org/wiki/Alpini\" shape=\"rect\">Alpini</a> regiments, one cavalry regiment, one field artillery regiment, one engineer regiment, one logistic regiment, one combat service support battalion </td>",
+                "text": "three Alpini regiments, one cavalry regiment, one field artillery regiment, one engineer regiment, one logistic regiment, one combat service support battalion",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 6,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1999227,
+                            "title": "Alpini",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Alpini",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.0360470253508538,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

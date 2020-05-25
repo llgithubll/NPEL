@@ -1,0 +1,206 @@
+{
+    "sectionTitle": "Airlines and destinations",
+    "pgId": 25363931,
+    "numDataRows": 1,
+    "_id": "25363931-1",
+    "pgTitle": "Beloyarsk Airport",
+    "numericColumns": [],
+    "tableCaption": "Airlines and destinations",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Airlines </th>",
+                "text": "Airlines",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Destinations |- </th>",
+                "text": "Destinations |-",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Gazpromavia\" shape=\"rect\">Gazpromavia</a></td>",
+                "text": "Gazpromavia",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1850606,
+                            "title": "Gazpromavia",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Gazpromavia",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/UTair_Aviation\" shape=\"rect\">UTair Aviation</a></td>",
+                "text": "UTair Aviation",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1854751,
+                            "title": "UTair_Aviation",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "UTair Aviation",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Beryozovo_Airport\" shape=\"rect\">Beryozovo</a>, <a href=\"http://www.wikipedia.org/wiki/Khanty-Mansiysk_Airport\" shape=\"rect\">Khanty-Mansiysk</a>, <a href=\"http://www.wikipedia.org/wiki/Nyagan_Airport\" shape=\"rect\">Nyagan</a>, <a href=\"http://www.wikipedia.org/wiki/Sovetsky_Airport\" shape=\"rect\">Sovetskij</a>, <a href=\"http://www.wikipedia.org/wiki/Roschino_Airport\" shape=\"rect\">Tyumen</a>, <a href=\"http://www.wikipedia.org/wiki/Koltsovo_International_Airport\" shape=\"rect\">Yekaterinburg</a> </td>",
+                "text": "Beryozovo , Khanty-Mansiysk , Nyagan , Sovetskij , Tyumen , Yekaterinburg",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Beryozovo_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Beryozovo",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 8347857,
+                            "title": "Khanty-Mansiysk_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Khanty-Mansiysk",
+                        "inTemplate": false,
+                        "endOffset": 27,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 21,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 8336881,
+                            "title": "Nyagan_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Nyagan",
+                        "inTemplate": false,
+                        "endOffset": 27,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 8347737,
+                            "title": "Sovetsky_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Sovetskij",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 15,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 8430121,
+                            "title": "Roschino_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Tyumen",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 12,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1794033,
+                            "title": "Koltsovo_International_Airport",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Yekaterinburg",
+                        "inTemplate": false,
+                        "endOffset": 25,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.2841453561559319,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

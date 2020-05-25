@@ -1,0 +1,565 @@
+{
+    "sectionTitle": "Venues",
+    "pgId": 35388712,
+    "numDataRows": 3,
+    "_id": "35388712-5",
+    "pgTitle": "2012 Champions League Twenty20",
+    "numericColumns": [],
+    "tableCaption": "Venues",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Durban\" shape=\"rect\">Durban</a> </th>",
+                "text": "Durban",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 313650,
+                            "title": "Durban",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Durban",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Centurion,_Gauteng\" shape=\"rect\">Centurion</a> </th>",
+                "text": "Centurion",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 523474,
+                            "title": "Centurion,_Gauteng",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Centurion",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Johannesburg\" shape=\"rect\">Johannesburg</a> </th>",
+                "text": "Johannesburg",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 58893,
+                            "title": "Johannesburg",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Johannesburg",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Cape_Town\" shape=\"rect\">Cape Town</a> </th>",
+                "text": "Cape Town",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 6653,
+                            "title": "Cape_Town",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Cape Town",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 5,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Kingsmead_Cricket_Ground\" shape=\"rect\">Kingsmead</a> Capacity: 25,000 </td>",
+                "text": "Kingsmead Capacity: 25,000",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1342342,
+                            "title": "Kingsmead_Cricket_Ground",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Kingsmead",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/SuperSport_Park\" shape=\"rect\">SuperSport Park</a> Capacity: 20,000 </td>",
+                "text": "SuperSport Park Capacity: 20,000",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3271481,
+                            "title": "SuperSport_Park",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "SuperSport Park",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Wanderers_Stadium\" shape=\"rect\">New Wanderers Stadium</a> Capacity: 34,000 </td>",
+                "text": "New Wanderers Stadium Capacity: 34,000",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1413269,
+                            "title": "Wanderers_Stadium",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "New Wanderers Stadium",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Newlands_Cricket_Ground\" shape=\"rect\">Newlands</a> Capacity: 25,000 </td>",
+                "text": "Newlands Capacity: 25,000",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3124982,
+                            "title": "Newlands_Cricket_Ground",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Newlands",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"4\" rowspan=\"1\"> \n      <div> \n       <div> \n        <div> \n         <div> \n          <div> \n          </div> \n          <div> \n           <span style=\"padding: 1px;\"> <a href=\"http://www.wikipedia.org/wiki/Johannesburg\" shape=\"rect\">Johannesburg</a></span> \n          </div> \n         </div> \n         <div> \n          <div> \n          </div> \n          <div> \n           <span style=\"padding: 1px;\"> <a href=\"http://www.wikipedia.org/wiki/Durban\" shape=\"rect\">Durban</a></span> \n          </div> \n         </div> \n         <div> \n          <div> \n          </div> \n          <div> \n           <span style=\"padding: 1px;\"> <a href=\"http://www.wikipedia.org/wiki/Centurion,_Gauteng\" shape=\"rect\">Centurion</a></span> \n          </div> \n         </div> \n         <div> \n          <div> \n          </div> \n          <div> \n           <span style=\"padding: 1px;\"> <a href=\"http://www.wikipedia.org/wiki/Cape_Town\" shape=\"rect\">Cape Town</a></span> \n          </div> \n         </div> \n        </div> \n        <div> \n        </div> \n       </div> \n      </div> </th>",
+                "text": "Johannesburg Durban Centurion Cape Town",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 58893,
+                            "title": "Johannesburg",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Johannesburg",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 313650,
+                            "title": "Durban",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Durban",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 8,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 523474,
+                            "title": "Centurion,_Gauteng",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Centurion",
+                        "inTemplate": false,
+                        "endOffset": 17,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 6653,
+                            "title": "Cape_Town",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Cape Town",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"4\" rowspan=\"1\"> \n      <div> \n       <div> \n        <div> \n         <div> \n          <div> \n          </div> \n          <div> \n           <span style=\"padding: 1px;\"> <a href=\"http://www.wikipedia.org/wiki/Johannesburg\" shape=\"rect\">Johannesburg</a></span> \n          </div> \n         </div> \n         <div> \n          <div> \n          </div> \n          <div> \n           <span style=\"padding: 1px;\"> <a href=\"http://www.wikipedia.org/wiki/Durban\" shape=\"rect\">Durban</a></span> \n          </div> \n         </div> \n         <div> \n          <div> \n          </div> \n          <div> \n           <span style=\"padding: 1px;\"> <a href=\"http://www.wikipedia.org/wiki/Centurion,_Gauteng\" shape=\"rect\">Centurion</a></span> \n          </div> \n         </div> \n         <div> \n          <div> \n          </div> \n          <div> \n           <span style=\"padding: 1px;\"> <a href=\"http://www.wikipedia.org/wiki/Cape_Town\" shape=\"rect\">Cape Town</a></span> \n          </div> \n         </div> \n        </div> \n        <div> \n        </div> \n       </div> \n      </div> </th>",
+                "text": "Johannesburg Durban Centurion Cape Town",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 58893,
+                            "title": "Johannesburg",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Johannesburg",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 313650,
+                            "title": "Durban",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Durban",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 8,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 523474,
+                            "title": "Centurion,_Gauteng",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Centurion",
+                        "inTemplate": false,
+                        "endOffset": 17,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 6653,
+                            "title": "Cape_Town",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Cape Town",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"4\" rowspan=\"1\"> \n      <div> \n       <div> \n        <div> \n         <div> \n          <div> \n          </div> \n          <div> \n           <span style=\"padding: 1px;\"> <a href=\"http://www.wikipedia.org/wiki/Johannesburg\" shape=\"rect\">Johannesburg</a></span> \n          </div> \n         </div> \n         <div> \n          <div> \n          </div> \n          <div> \n           <span style=\"padding: 1px;\"> <a href=\"http://www.wikipedia.org/wiki/Durban\" shape=\"rect\">Durban</a></span> \n          </div> \n         </div> \n         <div> \n          <div> \n          </div> \n          <div> \n           <span style=\"padding: 1px;\"> <a href=\"http://www.wikipedia.org/wiki/Centurion,_Gauteng\" shape=\"rect\">Centurion</a></span> \n          </div> \n         </div> \n         <div> \n          <div> \n          </div> \n          <div> \n           <span style=\"padding: 1px;\"> <a href=\"http://www.wikipedia.org/wiki/Cape_Town\" shape=\"rect\">Cape Town</a></span> \n          </div> \n         </div> \n        </div> \n        <div> \n        </div> \n       </div> \n      </div> </th>",
+                "text": "Johannesburg Durban Centurion Cape Town",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 58893,
+                            "title": "Johannesburg",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Johannesburg",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 313650,
+                            "title": "Durban",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Durban",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 8,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 523474,
+                            "title": "Centurion,_Gauteng",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Centurion",
+                        "inTemplate": false,
+                        "endOffset": 17,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 6653,
+                            "title": "Cape_Town",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Cape Town",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"4\" rowspan=\"1\"> \n      <div> \n       <div> \n        <div> \n         <div> \n          <div> \n          </div> \n          <div> \n           <span style=\"padding: 1px;\"> <a href=\"http://www.wikipedia.org/wiki/Johannesburg\" shape=\"rect\">Johannesburg</a></span> \n          </div> \n         </div> \n         <div> \n          <div> \n          </div> \n          <div> \n           <span style=\"padding: 1px;\"> <a href=\"http://www.wikipedia.org/wiki/Durban\" shape=\"rect\">Durban</a></span> \n          </div> \n         </div> \n         <div> \n          <div> \n          </div> \n          <div> \n           <span style=\"padding: 1px;\"> <a href=\"http://www.wikipedia.org/wiki/Centurion,_Gauteng\" shape=\"rect\">Centurion</a></span> \n          </div> \n         </div> \n         <div> \n          <div> \n          </div> \n          <div> \n           <span style=\"padding: 1px;\"> <a href=\"http://www.wikipedia.org/wiki/Cape_Town\" shape=\"rect\">Cape Town</a></span> \n          </div> \n         </div> \n        </div> \n        <div> \n        </div> \n       </div> \n      </div> </th>",
+                "text": "Johannesburg Durban Centurion Cape Town",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 58893,
+                            "title": "Johannesburg",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Johannesburg",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 313650,
+                            "title": "Durban",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Durban",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 8,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 523474,
+                            "title": "Centurion,_Gauteng",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Centurion",
+                        "inTemplate": false,
+                        "endOffset": 17,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 11,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 6653,
+                            "title": "Cape_Town",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Cape Town",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.9597031392622739,
+    "numHeaderRows": 1,
+    "numCols": 4
+}

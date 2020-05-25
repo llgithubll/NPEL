@@ -1,0 +1,785 @@
+{
+    "sectionTitle": "Major intersections",
+    "pgId": 5225830,
+    "numDataRows": 6,
+    "_id": "5225830-1",
+    "pgTitle": "Vermont Route 107",
+    "numericColumns": [
+        1
+    ],
+    "tableCaption": "Major intersections",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> Location </th>",
+                "text": "Location",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> Mile </th>",
+                "text": "Mile",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> km </th>",
+                "text": "km",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> Destinations </th>",
+                "text": "Destinations",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"col\"> Notes </th>",
+                "text": "Notes",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"\"> <a href=\"http://www.wikipedia.org/wiki/Stockbridge,_Vermont\" shape=\"rect\">Stockbridge</a></td>",
+                "text": "Stockbridge",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 137467,
+                            "title": "Stockbridge,_Vermont",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Stockbridge",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"row\"> 0.000</th>",
+                "text": "0.000",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Category:Pages_with_bad_rounding_precision\" shape=\"rect\">Category:Pages with bad rounding precision</a> </td>",
+                "text": "Category:Pages with bad rounding precision",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Category:Pages_with_bad_rounding_precision",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Category:Pages with bad rounding precision",
+                        "inTemplate": false,
+                        "endOffset": 42,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Category:Jct_template_transclusions_with_missing_shields\" shape=\"rect\">Category:Jct template transclusions with missing shields</a><span> <a href=\"http://www.wikipedia.org/wiki/Vermont_Route_100\" shape=\"rect\">VT 100</a></span> </td>",
+                "text": "Category:Jct template transclusions with missing shields VT 100",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Category:Jct_template_transclusions_with_missing_shields",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Category:Jct template transclusions with missing shields",
+                        "inTemplate": false,
+                        "endOffset": 56,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 57,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4451417,
+                            "title": "Vermont_Route_100",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "VT 100",
+                        "inTemplate": false,
+                        "endOffset": 63,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Bethel,_Vermont\" shape=\"rect\">Bethel</a></td>",
+                "text": "Bethel",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 137453,
+                            "title": "Bethel,_Vermont",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Bethel",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"row\"> 8.236</th>",
+                "text": "8.236",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Category:Pages_with_bad_rounding_precision\" shape=\"rect\">Category:Pages with bad rounding precision</a> </td>",
+                "text": "Category:Pages with bad rounding precision",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Category:Pages_with_bad_rounding_precision",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Category:Pages with bad rounding precision",
+                        "inTemplate": false,
+                        "endOffset": 42,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Category:Jct_template_transclusions_with_missing_shields\" shape=\"rect\">Category:Jct template transclusions with missing shields</a><span> <a href=\"http://www.wikipedia.org/wiki/Vermont_Route_12\" shape=\"rect\">VT 12</a></span> south</td>",
+                "text": "Category:Jct template transclusions with missing shields VT 12 south",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Category:Jct_template_transclusions_with_missing_shields",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Category:Jct template transclusions with missing shields",
+                        "inTemplate": false,
+                        "endOffset": 56,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 57,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4648054,
+                            "title": "Vermont_Route_12",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "VT 12",
+                        "inTemplate": false,
+                        "endOffset": 62,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Southern terminus of <a href=\"http://www.wikipedia.org/wiki/Overlap_(road)\" shape=\"rect\">overlap</a></td>",
+                "text": "Southern terminus of overlap",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 21,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1237887,
+                            "title": "Overlap_(road)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "overlap",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Bethel,_Vermont\" shape=\"rect\">Bethel</a></td>",
+                "text": "Bethel",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 137453,
+                            "title": "Bethel,_Vermont",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Bethel",
+                        "inTemplate": false,
+                        "endOffset": 6,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"row\"> 10.102</th>",
+                "text": "10.102",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Category:Pages_with_bad_rounding_precision\" shape=\"rect\">Category:Pages with bad rounding precision</a> </td>",
+                "text": "Category:Pages with bad rounding precision",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Category:Pages_with_bad_rounding_precision",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Category:Pages with bad rounding precision",
+                        "inTemplate": false,
+                        "endOffset": 42,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Category:Jct_template_transclusions_with_missing_shields\" shape=\"rect\">Category:Jct template transclusions with missing shields</a><span> <a href=\"http://www.wikipedia.org/wiki/Vermont_Route_12\" shape=\"rect\">VT 12</a></span> north</td>",
+                "text": "Category:Jct template transclusions with missing shields VT 12 north",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Category:Jct_template_transclusions_with_missing_shields",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Category:Jct template transclusions with missing shields",
+                        "inTemplate": false,
+                        "endOffset": 56,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 57,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4648054,
+                            "title": "Vermont_Route_12",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "VT 12",
+                        "inTemplate": false,
+                        "endOffset": 62,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Northern terminus of overlap</td>",
+                "text": "Northern terminus of overlap",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Royalton,_Vermont\" shape=\"rect\">Royalton</a></td>",
+                "text": "Royalton",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 137465,
+                            "title": "Royalton,_Vermont",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Royalton",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"row\"> 12.709</th>",
+                "text": "12.709",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Category:Pages_with_bad_rounding_precision\" shape=\"rect\">Category:Pages with bad rounding precision</a> </td>",
+                "text": "Category:Pages with bad rounding precision",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Category:Pages_with_bad_rounding_precision",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Category:Pages with bad rounding precision",
+                        "inTemplate": false,
+                        "endOffset": 42,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Category:Jct_template_transclusions_with_missing_shields\" shape=\"rect\">Category:Jct template transclusions with missing shields</a><span> <a href=\"http://www.wikipedia.org/wiki/Interstate_89(Vermont)\" shape=\"rect\">I-89</a></span> </td>",
+                "text": "Category:Jct template transclusions with missing shields I-89",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Category:Jct_template_transclusions_with_missing_shields",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Category:Jct template transclusions with missing shields",
+                        "inTemplate": false,
+                        "endOffset": 56,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 57,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Interstate_89(Vermont)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "I-89",
+                        "inTemplate": false,
+                        "endOffset": 61,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Exit 3 (I-89)</td>",
+                "text": "Exit3 (I-89)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> <a href=\"http://www.wikipedia.org/wiki/Royalton,_Vermont\" shape=\"rect\">Royalton</a></td>",
+                "text": "Royalton",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 137465,
+                            "title": "Royalton,_Vermont",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Royalton",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\" scope=\"row\"> 13.503</th>",
+                "text": "13.503",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Category:Pages_with_bad_rounding_precision\" shape=\"rect\">Category:Pages with bad rounding precision</a> </td>",
+                "text": "Category:Pages with bad rounding precision",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Category:Pages_with_bad_rounding_precision",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Category:Pages with bad rounding precision",
+                        "inTemplate": false,
+                        "endOffset": 42,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Category:Jct_template_transclusions_with_missing_shields\" shape=\"rect\">Category:Jct template transclusions with missing shields</a><span> <a href=\"http://www.wikipedia.org/wiki/Vermont_Route_14\" shape=\"rect\">VT 14</a></span> </td>",
+                "text": "Category:Jct template transclusions with missing shields VT 14",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "Category:Jct_template_transclusions_with_missing_shields",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Category:Jct template transclusions with missing shields",
+                        "inTemplate": false,
+                        "endOffset": 56,
+                        "linkType": "INTERNAL_RED"
+                    },
+                    {
+                        "offset": 57,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4643539,
+                            "title": "Vermont_Route_14",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "VT 14",
+                        "inTemplate": false,
+                        "endOffset": 62,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> </td>",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"6\" rowspan=\"1\"> <span style=\"margin:0px; font-size:90%;\"> <span style=\"border:1px solid #000; background-color:#ddffdd; color:#ddffdd;\">     </span>   <a href=\"http://www.wikipedia.org/wiki/Concurrency_(road)\" shape=\"rect\">Concurrency</a> terminus</span> • <span style=\"margin:0px; font-size:90%;\"> <span style=\"border:1px solid #000; background-color:#d3d3d3; color:#d3d3d3;\">     </span>  Closed</span> • <span style=\"margin:0px; font-size:90%;\"> <span style=\"border:1px solid #000; background-color:#ffdead; color:#ffdead;\">     </span>  Unopened</span> </td>",
+                "text": "Concurrency terminus • Closed • Unopened",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1237887,
+                            "title": "Concurrency_(road)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Concurrency",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"6\" rowspan=\"1\"> <span style=\"margin:0px; font-size:90%;\"> <span style=\"border:1px solid #000; background-color:#ddffdd; color:#ddffdd;\">     </span>   <a href=\"http://www.wikipedia.org/wiki/Concurrency_(road)\" shape=\"rect\">Concurrency</a> terminus</span> • <span style=\"margin:0px; font-size:90%;\"> <span style=\"border:1px solid #000; background-color:#d3d3d3; color:#d3d3d3;\">     </span>  Closed</span> • <span style=\"margin:0px; font-size:90%;\"> <span style=\"border:1px solid #000; background-color:#ffdead; color:#ffdead;\">     </span>  Unopened</span> </td>",
+                "text": "Concurrency terminus • Closed • Unopened",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1237887,
+                            "title": "Concurrency_(road)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Concurrency",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"6\" rowspan=\"1\"> <span style=\"margin:0px; font-size:90%;\"> <span style=\"border:1px solid #000; background-color:#ddffdd; color:#ddffdd;\">     </span>   <a href=\"http://www.wikipedia.org/wiki/Concurrency_(road)\" shape=\"rect\">Concurrency</a> terminus</span> • <span style=\"margin:0px; font-size:90%;\"> <span style=\"border:1px solid #000; background-color:#d3d3d3; color:#d3d3d3;\">     </span>  Closed</span> • <span style=\"margin:0px; font-size:90%;\"> <span style=\"border:1px solid #000; background-color:#ffdead; color:#ffdead;\">     </span>  Unopened</span> </td>",
+                "text": "Concurrency terminus • Closed • Unopened",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1237887,
+                            "title": "Concurrency_(road)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Concurrency",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"6\" rowspan=\"1\"> <span style=\"margin:0px; font-size:90%;\"> <span style=\"border:1px solid #000; background-color:#ddffdd; color:#ddffdd;\">     </span>   <a href=\"http://www.wikipedia.org/wiki/Concurrency_(road)\" shape=\"rect\">Concurrency</a> terminus</span> • <span style=\"margin:0px; font-size:90%;\"> <span style=\"border:1px solid #000; background-color:#d3d3d3; color:#d3d3d3;\">     </span>  Closed</span> • <span style=\"margin:0px; font-size:90%;\"> <span style=\"border:1px solid #000; background-color:#ffdead; color:#ffdead;\">     </span>  Unopened</span> </td>",
+                "text": "Concurrency terminus • Closed • Unopened",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1237887,
+                            "title": "Concurrency_(road)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Concurrency",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"6\" rowspan=\"1\"> <span style=\"margin:0px; font-size:90%;\"> <span style=\"border:1px solid #000; background-color:#ddffdd; color:#ddffdd;\">     </span>   <a href=\"http://www.wikipedia.org/wiki/Concurrency_(road)\" shape=\"rect\">Concurrency</a> terminus</span> • <span style=\"margin:0px; font-size:90%;\"> <span style=\"border:1px solid #000; background-color:#d3d3d3; color:#d3d3d3;\">     </span>  Closed</span> • <span style=\"margin:0px; font-size:90%;\"> <span style=\"border:1px solid #000; background-color:#ffdead; color:#ffdead;\">     </span>  Unopened</span> </td>",
+                "text": "Concurrency terminus • Closed • Unopened",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1237887,
+                            "title": "Concurrency_(road)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Concurrency",
+                        "inTemplate": false,
+                        "endOffset": 11,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.7182886647060513,
+    "numHeaderRows": 1,
+    "numCols": 5
+}

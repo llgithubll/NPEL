@@ -1,0 +1,74 @@
+{
+    "sectionTitle": "Certifications",
+    "pgId": 5154150,
+    "numDataRows": 1,
+    "_id": "5154150-3",
+    "pgTitle": "Try It on My Own",
+    "numericColumns": [],
+    "tableCaption": "Certifications",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Country (Provider) </th>",
+                "text": "Country (Provider)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Certification </th>",
+                "text": "Certification",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 3,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> United States ( <a href=\"http://www.wikipedia.org/wiki/Recording_Industry_Association_of_America\" shape=\"rect\">RIAA</a>) </td>",
+                "text": "United States ( RIAA )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 18949819,
+                            "title": "Recording_Industry_Association_of_America",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "RIAA",
+                        "inTemplate": false,
+                        "endOffset": 20,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Gold </td>",
+                "text": "Gold",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.5371262053959072,
+    "numHeaderRows": 1,
+    "numCols": 2
+}

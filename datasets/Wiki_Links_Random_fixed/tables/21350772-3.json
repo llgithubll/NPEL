@@ -1,0 +1,602 @@
+{
+    "sectionTitle": "Natural and anthropogenic sources",
+    "pgId": 21350772,
+    "numDataRows": 5,
+    "_id": "21350772-3",
+    "pgTitle": "Greenhouse gas",
+    "numericColumns": [],
+    "tableCaption": "Natural and anthropogenic sources",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 3,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Gas </th>",
+                "text": "Gas",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Pre-1750 <a href=\"http://www.wikipedia.org/wiki/Tropospheric\" shape=\"rect\">tropospheric</a> concentration , in . Referred to by: , on . Based on Blasing et al. (2013): Pre-1750 concentrations of CH4,N2O and current concentrations of O3, are taken from Table 4.1 (a) of the IPCC Intergovernmental Panel on Climate Change), 2001. Following the convention of IPCC (2001), inferred global-scale trace-gas concentrations from prior to 1750 are assumed to be practically uninfluenced by human activities such as increasingly specialized <a href=\"http://www.wikipedia.org/wiki/Agriculture\" shape=\"rect\">agriculture</a>, <a href=\"http://www.wikipedia.org/wiki/Land_clearing\" shape=\"rect\">land clearing</a>, and combustion of fossil fuels. Preindustrial concentrations of industrially manufactured compounds are given as zero. The short atmospheric lifetime of ozone (hours-days) together with the spatial variability of its sources precludes a globally or vertically homogeneous distribution, so that a fractional unit such as parts per billion would not apply over a range of altitudes or geographical locations. Therefore a different unit is used to integrate the varying concentrations of ozone in the vertical dimension over a unit area, and the results can then be averaged globally. This unit is called a <a href=\"http://www.wikipedia.org/wiki/Dobson_Unit\" shape=\"rect\">Dobson Unit</a> (D.U.), after G. M. B. Dobson, one of the first investigators of atmospheric ozone. A Dobson unit is the amount of ozone in a column which, unmixed with the rest of the atmosphere, would be 10 micrometers thick at standard temperature and pressure. </th>",
+                "text": "Pre-1750 tropospheric concentration , in . Referred to by: , on . Based on Blasing et al. (2013): Pre-1750 concentrations of CH4,N2O and current concentrations of O3, are taken from Table 4.1 (a) of the IPCC Intergovernmental Panel on Climate Change), 2001. Following the convention of IPCC (2001), inferred global-scale trace-gas concentrations from prior to 1750 are assumed to be practically uninfluenced by human activities such as increasingly specialized agriculture , land clearing , and combustion of fossil fuels. Preindustrial concentrations of industrially manufactured compounds are given as zero. The short atmospheric lifetime of ozone (hours-days) together with the spatial variability of its sources precludes a globally or vertically homogeneous distribution, so that a fractional unit such as parts per billion would not apply over a range of altitudes or geographical locations. Therefore a different unit is used to integrate the varying concentrations of ozone in the vertical dimension over a unit area, and the results can then be averaged globally. This unit is called a Dobson Unit (D.U.), after G. M. B. Dobson, one of the first investigators of atmospheric ozone. A Dobson unit is the amount of ozone in a column which, unmixed with the rest of the atmosphere, would be 10 micrometers thick at standard temperature and pressure.",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 9,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 41822,
+                            "title": "Tropospheric",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "tropospheric",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 461,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 627,
+                            "title": "Agriculture",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "agriculture",
+                        "inTemplate": false,
+                        "endOffset": 472,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 454,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 8103,
+                            "title": "Land_clearing",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "land clearing",
+                        "inTemplate": false,
+                        "endOffset": 467,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 623,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 78439,
+                            "title": "Dobson_Unit",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Dobson Unit",
+                        "inTemplate": false,
+                        "endOffset": 634,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Recent <a href=\"http://www.wikipedia.org/wiki/Tropospheric\" shape=\"rect\">tropospheric</a> concentration Because atmospheric concentrations of most gases tend to vary systematically over the course of a year, figures given represent averages over a 12-month period for all gases except ozone (O3), for which a current global value has been estimated (IPCC, 2001, Table 4.1a). CO2 averages for year 2012 are taken from the National Oceanic and Atmospheric Administration, Earth System Research Laboratory, web site: www.esrl.noaa.gov/gmd/ccgg/trends maintained by Dr. Pieter Tans. For other chemical species, the values given are averages for 2011. These data are found on the CDIAC AGAGE web site: http://cdiac.ornl.gov/ndps/alegage.html or the AGAGE home page: http://agage.eas.gatech.edu. </th>",
+                "text": "Recent tropospheric concentration Because atmospheric concentrations of most gases tend to vary systematically over the course of a year, figures given represent averages over a 12-month period for all gases except ozone (O3), for which a current global value has been estimated (IPCC, 2001, Table 4.1a). CO2 averages for year 2012 are taken from the National Oceanic and Atmospheric Administration, Earth System Research Laboratory, web site: www.esrl.noaa.gov/gmd/ccgg/trends maintained by Dr. Pieter Tans. For other chemical species, the values given are averages for 2011. These data are found on the CDIAC AGAGE web site: http://cdiac.ornl.gov/ndps/alegage.html or the AGAGE home page: http://agage.eas.gatech.edu.",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 7,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 41822,
+                            "title": "Tropospheric",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "tropospheric",
+                        "inTemplate": false,
+                        "endOffset": 19,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Absolute increase since 1750 </th>",
+                "text": "Absolute increase since 1750",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Percentage increase since 1750 </th>",
+                "text": "Percentage increase since 1750",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Increased radiative forcing (W/m 2 ) , in . Referred to by: , on . For the latest updates, see the NOAA Annual Greenhouse Gas Index at: . </th>",
+                "text": "Increased radiative forcing (W/m 2 ) , in . Referred to by: , on . For the latest updates, see the NOAA Annual Greenhouse Gas Index at: .",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Carbon_dioxide_in_Earth's_atmosphere\" shape=\"rect\">Carbon dioxide</a> (CO2) </td>",
+                "text": "Carbon dioxide (CO2)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 11251601,
+                            "title": "Carbon_dioxide_in_Earth's_atmosphere",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Carbon dioxide",
+                        "inTemplate": false,
+                        "endOffset": 14,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 280  <a href=\"http://www.wikipedia.org/wiki/Parts-per_notation\" shape=\"rect\">ppm</a> , in . Referred to by: , on </td>",
+                "text": "280 ppm , in . Referred to by: , on",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 4,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 145865,
+                            "title": "Parts-per_notation",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "ppm",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 392.6 ppm Recent CO2 concentration (392.6 ppm) is the 2012 average taken from globally averaged marine surface data given by the National Oceanic and Atmospheric Administration Earth System Research Laboratory, website: http://www.esrl.noaa.gov/gmd/ccgg/trends/index.html#global. Please read the material on that web page and reference Dr. Pieter Tans when citing this average (Dr. Pieter Tans, NOAA/ESRL http://www.esrl.noaa.gov/gmd/ccgg/trends). The oft-cited Mauna Loa average for 2012 is 393.8 ppm, which is a good approximation although typically about 1 ppm higher than the spatial average given above. Refer to http://www.esrl.noaa.gov/gmd/ccgg/trends for records back to the late 1950s. </td>",
+                "text": "392.6 ppm Recent CO2 concentration (392.6 ppm) is the 2012 average taken from globally averaged marine surface data given by the National Oceanic and Atmospheric Administration Earth System Research Laboratory, website: http://www.esrl.noaa.gov/gmd/ccgg/trends/index.html#global. Please read the material on that web page and reference Dr. Pieter Tans when citing this average (Dr. Pieter Tans, NOAA/ESRL http://www.esrl.noaa.gov/gmd/ccgg/trends). The oft-cited Mauna Loa average for 2012 is 393.8 ppm, which is a good approximation although typically about 1 ppm higher than the spatial average given above. Refer to http://www.esrl.noaa.gov/gmd/ccgg/trends for records back to the late 1950s.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 112.6 ppm </td>",
+                "text": "112.6 ppm",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 40.2% </td>",
+                "text": "40.2%",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1.85 </td>",
+                "text": "1.85",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Methane\" shape=\"rect\">Methane</a> (<span style=\"white-space:nowrap;\"> CH<span style=\"display:inline-block; margin-bottom:-0.3em; vertical-align:-0.4em; line-height:1.2em; font-size:70%; text-align:left;\"> 4</span> </span> ) </td>",
+                "text": "Methane ( CH 4 )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 18582230,
+                            "title": "Methane",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Methane",
+                        "inTemplate": false,
+                        "endOffset": 7,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 700 ppb </td>",
+                "text": "700 ppb",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1874 ppb / The first value in a cell represents Mace Head, <a href=\"http://www.wikipedia.org/wiki/Ireland\" shape=\"rect\">Ireland</a>, a mid-latitude Northern-Hemisphere site, and the second value represents <a href=\"http://www.wikipedia.org/wiki/Cape_Grim\" shape=\"rect\">Cape Grim</a>, <a href=\"http://www.wikipedia.org/wiki/Tasmania\" shape=\"rect\">Tasmania</a>, a mid-latitude Southern-Hemisphere site. \"Current\" values given for these gases are annual arithmetic averages based on monthly background concentrations for year 2011. The <span style=\"white-space:nowrap;\"> SF<span style=\"display:inline-block; margin-bottom:-0.3em; vertical-align:-0.4em; line-height:1.2em; font-size:70%; text-align:left;\"> 6</span> </span> values are from the AGAGE gas chromatography - mass spectrometer (gc-ms) Medusa measuring system. Source: Advanced Global Atmospheric Gases Experiment (AGAGE) data posted on CDIAC web site at: http://cdiac.ornl.gov/ftp/ale_gage_Agage/. These data are compiled from data on finer time scales in the ALE/GAGE/AGAGE database (Prinn et al., 2000). These data represent the work of several investigators at various institutions; guidelines on citing the various parts of the AGAGE database are found within the ALE/GAGE/AGAGE database, see: . 1758 ppb || 1174 ppb / 1058 ppb || 167.7% / 151.1% || 0.51 </td>",
+                "text": "1874ppb / The first value in a cell represents Mace Head, Ireland , a mid-latitude Northern-Hemisphere site, and the second value represents Cape Grim , Tasmania , a mid-latitude Southern-Hemisphere site. \"Current\" values given for these gases are annual arithmetic averages based on monthly background concentrations for year 2011. The SF 6 values are from the AGAGE gas chromatography - mass spectrometer (gc-ms) Medusa measuring system. Source: Advanced Global Atmospheric Gases Experiment (AGAGE) data posted on CDIAC web site at: http://cdiac.ornl.gov/ftp/ale_gage_Agage/. These data are compiled from data on finer time scales in the ALE/GAGE/AGAGE database (Prinn et al., 2000). These data represent the work of several investigators at various institutions; guidelines on citing the various parts of the AGAGE database are found within the ALE/GAGE/AGAGE database, see: . 1758ppb || 1174ppb / 1058ppb || 167.7% / 151.1% || 0.51",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 58,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 147575,
+                            "title": "Ireland",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Ireland",
+                        "inTemplate": false,
+                        "endOffset": 65,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 141,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 9060326,
+                            "title": "Cape_Grim",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Cape Grim",
+                        "inTemplate": false,
+                        "endOffset": 150,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 88,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 29944,
+                            "title": "Tasmania",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Tasmania",
+                        "inTemplate": false,
+                        "endOffset": 96,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "",
+                "text": "",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Nitrous_oxide\" shape=\"rect\">Nitrous oxide</a> (<span style=\"white-space:nowrap;\"> N<span style=\"display:inline-block; margin-bottom:-0.3em; vertical-align:-0.4em; line-height:1.2em; font-size:70%; text-align:left;\"> 2</span> O</span> ) </td>",
+                "text": "Nitrous oxide ( N 2 O )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 37441,
+                            "title": "Nitrous_oxide",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Nitrous oxide",
+                        "inTemplate": false,
+                        "endOffset": 13,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 270 ppb The pre-1750 value for <span style=\"white-space:nowrap;\"> N<span style=\"display:inline-block; margin-bottom:-0.3em; vertical-align:-0.4em; line-height:1.2em; font-size:70%; text-align:left;\"> 2</span> O</span> is consistent with ice-core records from 10,000 B.C.E. through 1750 C.E.: , in . Referred to by: , on </td>",
+                "text": "270 ppb The pre-1750 value for N 2 O is consistent with ice-core records from 10,000 B.C.E. through 1750 C.E.: , in . Referred to by: , on",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 324 ppb / 323 ppb </td>",
+                "text": "324ppb / 323ppb",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 54 ppb / 53 ppb </td>",
+                "text": "54ppb / 53ppb",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 20.0% / 19.6% </td>",
+                "text": "20.0% / 19.6%",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0.18 </td>",
+                "text": "0.18",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Tropospheric\" shape=\"rect\">Tropospheric</a> <a href=\"http://www.wikipedia.org/wiki/Ozone\" shape=\"rect\">ozone</a> (<span style=\"white-space:nowrap;\"> O<span style=\"display:inline-block; margin-bottom:-0.3em; vertical-align:-0.4em; line-height:1.2em; font-size:70%; text-align:left;\"> 3</span> </span> ) </td>",
+                "text": "Tropospheric ozone ( O 3 )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 41822,
+                            "title": "Tropospheric",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Tropospheric",
+                        "inTemplate": false,
+                        "endOffset": 12,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 22718,
+                            "title": "Ozone",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "ozone",
+                        "inTemplate": false,
+                        "endOffset": 18,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 25 ppb </td>",
+                "text": "25 ppb",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 34 ppb </td>",
+                "text": "34ppb",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 9 ppb </td>",
+                "text": "9ppb",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 36% </td>",
+                "text": "36%",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0.35 Changes in <a href=\"http://www.wikipedia.org/wiki/Stratospheric\" shape=\"rect\">stratospheric</a> ozone have resulted in a decrease in radiative forcing of 0.05 W/m 2 : , in . Referred to by: , on </td>",
+                "text": "0.35 Changes in stratospheric ozone have resulted in a decrease in radiative forcing of 0.05W/m 2 : , in . Referred to by: , on",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 16,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4520968,
+                            "title": "Stratospheric",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "stratospheric",
+                        "inTemplate": false,
+                        "endOffset": 29,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.3960412803571671,
+    "numHeaderRows": 1,
+    "numCols": 6
+}

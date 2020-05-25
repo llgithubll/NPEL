@@ -1,0 +1,56 @@
+{
+    "sectionTitle": "Standings",
+    "pgId": 31720599,
+    "numDataRows": 1,
+    "_id": "31720599-7",
+    "pgTitle": "1963 Campeonato Ecuatoriano de Fútbol",
+    "numericColumns": [],
+    "tableCaption": "Standings",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Campeonato Ecuatoriano de Fútbol 1963 Champion </th>",
+                "text": "Campeonato Ecuatoriano de Fútbol 1963 Champion",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 7,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Barcelona_Sporting_Club\" shape=\"rect\">Barcelona</a> 2nd Title </td>",
+                "text": "Barcelona 2nd Title",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1167667,
+                            "title": "Barcelona_Sporting_Club",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Barcelona",
+                        "inTemplate": false,
+                        "endOffset": 9,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.363283617887646,
+    "numHeaderRows": 1,
+    "numCols": 1
+}

@@ -1,0 +1,658 @@
+{
+    "sectionTitle": "Summary of matches played",
+    "pgId": 37318100,
+    "numDataRows": 3,
+    "_id": "37318100-1",
+    "pgTitle": "List of international goals scored by Abby Wambach",
+    "numericColumns": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "tableCaption": "Summary of matches played",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"2\"> Matches played </th>",
+                "text": "Matches played",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"2\"> Goals scored </th>",
+                "text": "Goals scored",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"2\"> Assists made </th>",
+                "text": "Assists made",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"2\"> Matches won </th>",
+                "text": "Matches won",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"2\"> Matches lost </th>",
+                "text": "Matches lost",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"3\" rowspan=\"1\"> Matches Drawn </th>",
+                "text": "Matches Drawn",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"3\" rowspan=\"1\"> Matches Drawn </th>",
+                "text": "Matches Drawn",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"3\" rowspan=\"1\"> Matches Drawn </th>",
+                "text": "Matches Drawn",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"2\"> Winning percentage </th>",
+                "text": "Winning percentage",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"2\"> Average points </th>",
+                "text": "Average points",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"2\"> Matches played </th>",
+                "text": "Matches played",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"2\"> Goals scored </th>",
+                "text": "Goals scored",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"2\"> Assists made </th>",
+                "text": "Assists made",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"2\"> Matches won </th>",
+                "text": "Matches won",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"2\"> Matches lost </th>",
+                "text": "Matches lost",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> PSO won</th>",
+                "text": "PSO won",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> PSO lost</th>",
+                "text": "PSO lost",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> no PSO </th>",
+                "text": "no PSO",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"2\"> Winning percentage </th>",
+                "text": "Winning percentage",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"2\"> Average points </th>",
+                "text": "Average points",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> 211</td>",
+                "text": "211",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> 162</td>",
+                "text": "162",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> 67</td>",
+                "text": "67",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> 178</td>",
+                "text": "178",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> 8</td>",
+                "text": "8",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"3\" rowspan=\"1\"> 25</td>",
+                "text": "25",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"3\" rowspan=\"1\"> 25</td>",
+                "text": "25",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"3\" rowspan=\"1\"> 25</td>",
+                "text": "25",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> 90.3</td>",
+                "text": "90.3",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> 2.66 </td>",
+                "text": "2.66",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> 211</td>",
+                "text": "211",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> 162</td>",
+                "text": "162",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> 67</td>",
+                "text": "67",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> 178</td>",
+                "text": "178",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> 8</td>",
+                "text": "8",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2</td>",
+                "text": "2",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1</td>",
+                "text": "1",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 22 </td>",
+                "text": "22",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> 90.3</td>",
+                "text": "90.3",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"2\"> 2.66 </td>",
+                "text": "2.66",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"10\" rowspan=\"1\"> NOTES: PSO = <a href=\"http://www.wikipedia.org/wiki/Penalty_shoot-out_(association_football)\" shape=\"rect\">Penalty shoot-out</a> A drawn match with a win in penalty shoot-out carries 2 points. Winning percentage = <span> 100×<span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> </span> <span style=\"display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;\"> <span style=\"display:block; line-height:1em; padding:0 0.1em;\"> (matches won) + 0.5×(matches drawn)</span> <span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> /</span> <span style=\"display:block; line-height:1em; padding:0 0.1em; border-top:1px solid;\"> matches played</span> </span> </span> Average points = <span style=\"display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;\"> <span style=\"display:block; line-height:1em; padding:0 0.1em;\"> (matches won)×3 + (PSO won)×2 + (PSO lost) + (matches drawn with no PSO)</span> <span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> /</span> <span style=\"display:block; line-height:1em; padding:0 0.1em; border-top:1px solid;\"> matches played</span> </span> </td>",
+                "text": "NOTES: PSO = Penalty shoot-out A drawn match with a win in penalty shoot-out carries 2 points. Winning percentage = 100× (matches won) + 0.5×(matches drawn) / matches played Average points = (matches won)×3 + (PSO won)×2 + (PSO lost) + (matches drawn with no PSO) / matches played",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 511302,
+                            "title": "Penalty_shoot-out_(association_football)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Penalty shoot-out",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"10\" rowspan=\"1\"> NOTES: PSO = <a href=\"http://www.wikipedia.org/wiki/Penalty_shoot-out_(association_football)\" shape=\"rect\">Penalty shoot-out</a> A drawn match with a win in penalty shoot-out carries 2 points. Winning percentage = <span> 100×<span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> </span> <span style=\"display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;\"> <span style=\"display:block; line-height:1em; padding:0 0.1em;\"> (matches won) + 0.5×(matches drawn)</span> <span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> /</span> <span style=\"display:block; line-height:1em; padding:0 0.1em; border-top:1px solid;\"> matches played</span> </span> </span> Average points = <span style=\"display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;\"> <span style=\"display:block; line-height:1em; padding:0 0.1em;\"> (matches won)×3 + (PSO won)×2 + (PSO lost) + (matches drawn with no PSO)</span> <span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> /</span> <span style=\"display:block; line-height:1em; padding:0 0.1em; border-top:1px solid;\"> matches played</span> </span> </td>",
+                "text": "NOTES: PSO = Penalty shoot-out A drawn match with a win in penalty shoot-out carries 2 points. Winning percentage = 100× (matches won) + 0.5×(matches drawn) / matches played Average points = (matches won)×3 + (PSO won)×2 + (PSO lost) + (matches drawn with no PSO) / matches played",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 511302,
+                            "title": "Penalty_shoot-out_(association_football)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Penalty shoot-out",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"10\" rowspan=\"1\"> NOTES: PSO = <a href=\"http://www.wikipedia.org/wiki/Penalty_shoot-out_(association_football)\" shape=\"rect\">Penalty shoot-out</a> A drawn match with a win in penalty shoot-out carries 2 points. Winning percentage = <span> 100×<span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> </span> <span style=\"display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;\"> <span style=\"display:block; line-height:1em; padding:0 0.1em;\"> (matches won) + 0.5×(matches drawn)</span> <span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> /</span> <span style=\"display:block; line-height:1em; padding:0 0.1em; border-top:1px solid;\"> matches played</span> </span> </span> Average points = <span style=\"display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;\"> <span style=\"display:block; line-height:1em; padding:0 0.1em;\"> (matches won)×3 + (PSO won)×2 + (PSO lost) + (matches drawn with no PSO)</span> <span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> /</span> <span style=\"display:block; line-height:1em; padding:0 0.1em; border-top:1px solid;\"> matches played</span> </span> </td>",
+                "text": "NOTES: PSO = Penalty shoot-out A drawn match with a win in penalty shoot-out carries 2 points. Winning percentage = 100× (matches won) + 0.5×(matches drawn) / matches played Average points = (matches won)×3 + (PSO won)×2 + (PSO lost) + (matches drawn with no PSO) / matches played",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 511302,
+                            "title": "Penalty_shoot-out_(association_football)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Penalty shoot-out",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"10\" rowspan=\"1\"> NOTES: PSO = <a href=\"http://www.wikipedia.org/wiki/Penalty_shoot-out_(association_football)\" shape=\"rect\">Penalty shoot-out</a> A drawn match with a win in penalty shoot-out carries 2 points. Winning percentage = <span> 100×<span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> </span> <span style=\"display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;\"> <span style=\"display:block; line-height:1em; padding:0 0.1em;\"> (matches won) + 0.5×(matches drawn)</span> <span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> /</span> <span style=\"display:block; line-height:1em; padding:0 0.1em; border-top:1px solid;\"> matches played</span> </span> </span> Average points = <span style=\"display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;\"> <span style=\"display:block; line-height:1em; padding:0 0.1em;\"> (matches won)×3 + (PSO won)×2 + (PSO lost) + (matches drawn with no PSO)</span> <span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> /</span> <span style=\"display:block; line-height:1em; padding:0 0.1em; border-top:1px solid;\"> matches played</span> </span> </td>",
+                "text": "NOTES: PSO = Penalty shoot-out A drawn match with a win in penalty shoot-out carries 2 points. Winning percentage = 100× (matches won) + 0.5×(matches drawn) / matches played Average points = (matches won)×3 + (PSO won)×2 + (PSO lost) + (matches drawn with no PSO) / matches played",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 511302,
+                            "title": "Penalty_shoot-out_(association_football)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Penalty shoot-out",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"10\" rowspan=\"1\"> NOTES: PSO = <a href=\"http://www.wikipedia.org/wiki/Penalty_shoot-out_(association_football)\" shape=\"rect\">Penalty shoot-out</a> A drawn match with a win in penalty shoot-out carries 2 points. Winning percentage = <span> 100×<span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> </span> <span style=\"display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;\"> <span style=\"display:block; line-height:1em; padding:0 0.1em;\"> (matches won) + 0.5×(matches drawn)</span> <span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> /</span> <span style=\"display:block; line-height:1em; padding:0 0.1em; border-top:1px solid;\"> matches played</span> </span> </span> Average points = <span style=\"display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;\"> <span style=\"display:block; line-height:1em; padding:0 0.1em;\"> (matches won)×3 + (PSO won)×2 + (PSO lost) + (matches drawn with no PSO)</span> <span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> /</span> <span style=\"display:block; line-height:1em; padding:0 0.1em; border-top:1px solid;\"> matches played</span> </span> </td>",
+                "text": "NOTES: PSO = Penalty shoot-out A drawn match with a win in penalty shoot-out carries 2 points. Winning percentage = 100× (matches won) + 0.5×(matches drawn) / matches played Average points = (matches won)×3 + (PSO won)×2 + (PSO lost) + (matches drawn with no PSO) / matches played",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 511302,
+                            "title": "Penalty_shoot-out_(association_football)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Penalty shoot-out",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"10\" rowspan=\"1\"> NOTES: PSO = <a href=\"http://www.wikipedia.org/wiki/Penalty_shoot-out_(association_football)\" shape=\"rect\">Penalty shoot-out</a> A drawn match with a win in penalty shoot-out carries 2 points. Winning percentage = <span> 100×<span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> </span> <span style=\"display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;\"> <span style=\"display:block; line-height:1em; padding:0 0.1em;\"> (matches won) + 0.5×(matches drawn)</span> <span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> /</span> <span style=\"display:block; line-height:1em; padding:0 0.1em; border-top:1px solid;\"> matches played</span> </span> </span> Average points = <span style=\"display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;\"> <span style=\"display:block; line-height:1em; padding:0 0.1em;\"> (matches won)×3 + (PSO won)×2 + (PSO lost) + (matches drawn with no PSO)</span> <span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> /</span> <span style=\"display:block; line-height:1em; padding:0 0.1em; border-top:1px solid;\"> matches played</span> </span> </td>",
+                "text": "NOTES: PSO = Penalty shoot-out A drawn match with a win in penalty shoot-out carries 2 points. Winning percentage = 100× (matches won) + 0.5×(matches drawn) / matches played Average points = (matches won)×3 + (PSO won)×2 + (PSO lost) + (matches drawn with no PSO) / matches played",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 511302,
+                            "title": "Penalty_shoot-out_(association_football)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Penalty shoot-out",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"10\" rowspan=\"1\"> NOTES: PSO = <a href=\"http://www.wikipedia.org/wiki/Penalty_shoot-out_(association_football)\" shape=\"rect\">Penalty shoot-out</a> A drawn match with a win in penalty shoot-out carries 2 points. Winning percentage = <span> 100×<span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> </span> <span style=\"display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;\"> <span style=\"display:block; line-height:1em; padding:0 0.1em;\"> (matches won) + 0.5×(matches drawn)</span> <span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> /</span> <span style=\"display:block; line-height:1em; padding:0 0.1em; border-top:1px solid;\"> matches played</span> </span> </span> Average points = <span style=\"display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;\"> <span style=\"display:block; line-height:1em; padding:0 0.1em;\"> (matches won)×3 + (PSO won)×2 + (PSO lost) + (matches drawn with no PSO)</span> <span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> /</span> <span style=\"display:block; line-height:1em; padding:0 0.1em; border-top:1px solid;\"> matches played</span> </span> </td>",
+                "text": "NOTES: PSO = Penalty shoot-out A drawn match with a win in penalty shoot-out carries 2 points. Winning percentage = 100× (matches won) + 0.5×(matches drawn) / matches played Average points = (matches won)×3 + (PSO won)×2 + (PSO lost) + (matches drawn with no PSO) / matches played",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 511302,
+                            "title": "Penalty_shoot-out_(association_football)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Penalty shoot-out",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"10\" rowspan=\"1\"> NOTES: PSO = <a href=\"http://www.wikipedia.org/wiki/Penalty_shoot-out_(association_football)\" shape=\"rect\">Penalty shoot-out</a> A drawn match with a win in penalty shoot-out carries 2 points. Winning percentage = <span> 100×<span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> </span> <span style=\"display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;\"> <span style=\"display:block; line-height:1em; padding:0 0.1em;\"> (matches won) + 0.5×(matches drawn)</span> <span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> /</span> <span style=\"display:block; line-height:1em; padding:0 0.1em; border-top:1px solid;\"> matches played</span> </span> </span> Average points = <span style=\"display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;\"> <span style=\"display:block; line-height:1em; padding:0 0.1em;\"> (matches won)×3 + (PSO won)×2 + (PSO lost) + (matches drawn with no PSO)</span> <span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> /</span> <span style=\"display:block; line-height:1em; padding:0 0.1em; border-top:1px solid;\"> matches played</span> </span> </td>",
+                "text": "NOTES: PSO = Penalty shoot-out A drawn match with a win in penalty shoot-out carries 2 points. Winning percentage = 100× (matches won) + 0.5×(matches drawn) / matches played Average points = (matches won)×3 + (PSO won)×2 + (PSO lost) + (matches drawn with no PSO) / matches played",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 511302,
+                            "title": "Penalty_shoot-out_(association_football)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Penalty shoot-out",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"10\" rowspan=\"1\"> NOTES: PSO = <a href=\"http://www.wikipedia.org/wiki/Penalty_shoot-out_(association_football)\" shape=\"rect\">Penalty shoot-out</a> A drawn match with a win in penalty shoot-out carries 2 points. Winning percentage = <span> 100×<span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> </span> <span style=\"display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;\"> <span style=\"display:block; line-height:1em; padding:0 0.1em;\"> (matches won) + 0.5×(matches drawn)</span> <span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> /</span> <span style=\"display:block; line-height:1em; padding:0 0.1em; border-top:1px solid;\"> matches played</span> </span> </span> Average points = <span style=\"display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;\"> <span style=\"display:block; line-height:1em; padding:0 0.1em;\"> (matches won)×3 + (PSO won)×2 + (PSO lost) + (matches drawn with no PSO)</span> <span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> /</span> <span style=\"display:block; line-height:1em; padding:0 0.1em; border-top:1px solid;\"> matches played</span> </span> </td>",
+                "text": "NOTES: PSO = Penalty shoot-out A drawn match with a win in penalty shoot-out carries 2 points. Winning percentage = 100× (matches won) + 0.5×(matches drawn) / matches played Average points = (matches won)×3 + (PSO won)×2 + (PSO lost) + (matches drawn with no PSO) / matches played",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 511302,
+                            "title": "Penalty_shoot-out_(association_football)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Penalty shoot-out",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"10\" rowspan=\"1\"> NOTES: PSO = <a href=\"http://www.wikipedia.org/wiki/Penalty_shoot-out_(association_football)\" shape=\"rect\">Penalty shoot-out</a> A drawn match with a win in penalty shoot-out carries 2 points. Winning percentage = <span> 100×<span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> </span> <span style=\"display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;\"> <span style=\"display:block; line-height:1em; padding:0 0.1em;\"> (matches won) + 0.5×(matches drawn)</span> <span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> /</span> <span style=\"display:block; line-height:1em; padding:0 0.1em; border-top:1px solid;\"> matches played</span> </span> </span> Average points = <span style=\"display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;\"> <span style=\"display:block; line-height:1em; padding:0 0.1em;\"> (matches won)×3 + (PSO won)×2 + (PSO lost) + (matches drawn with no PSO)</span> <span style=\"position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;\"> /</span> <span style=\"display:block; line-height:1em; padding:0 0.1em; border-top:1px solid;\"> matches played</span> </span> </td>",
+                "text": "NOTES: PSO = Penalty shoot-out A drawn match with a win in penalty shoot-out carries 2 points. Winning percentage = 100× (matches won) + 0.5×(matches drawn) / matches played Average points = (matches won)×3 + (PSO won)×2 + (PSO lost) + (matches drawn with no PSO) / matches played",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 511302,
+                            "title": "Penalty_shoot-out_(association_football)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Penalty shoot-out",
+                        "inTemplate": false,
+                        "endOffset": 30,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.5565634595695883,
+    "numHeaderRows": 2,
+    "numCols": 10
+}

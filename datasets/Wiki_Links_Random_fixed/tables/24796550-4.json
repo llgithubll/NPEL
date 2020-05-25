@@ -1,0 +1,92 @@
+{
+    "sectionTitle": "Reserve Artillery",
+    "pgId": 24796550,
+    "numDataRows": 1,
+    "_id": "24796550-4",
+    "pgTitle": "Mine Run Campaign Confederate order of battle",
+    "numericColumns": [],
+    "tableCaption": "Reserve Artillery",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Division </th>",
+                "text": "Division",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Battalions </th>",
+                "text": "Battalions",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Batteries </th>",
+                "text": "Batteries",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 4,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> First Corps Artillery </td>",
+                "text": "First Corps Artillery",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Cabell's Battalion    Col Henry C. Cabell </td>",
+                "text": "Cabell's Battalion Col Henry C. Cabell",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Callaway's (Georgia) Battery <a href=\"http://www.wikipedia.org/wiki/Cobb's_Legion\" shape=\"rect\">Troup (Georgia) Artillery</a> Manly's (North Carolina) Battery 1st Richmond (Virginia) Howitzers Nelson (Virginia) Artillery </td>",
+                "text": "Callaway's (Georgia) Battery Troup (Georgia) Artillery Manly's (North Carolina) Battery 1st Richmond (Virginia) Howitzers Nelson (Virginia) Artillery",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 29,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 5734359,
+                            "title": "Cobb's_Legion",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Troup (Georgia) Artillery",
+                        "inTemplate": false,
+                        "endOffset": 54,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.6198629445862025,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

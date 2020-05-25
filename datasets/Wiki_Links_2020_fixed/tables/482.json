@@ -1,0 +1,4249 @@
+{
+    "_id": "1030221-4",
+    "numCols": 5,
+    "numDataRows": 23,
+    "numHeaderRows": 1,
+    "numericColumns": [],
+    "order": 0.8739488816354424,
+    "pgId": 1030221,
+    "pgTitle": "Media in Seattle",
+    "sectionTitle": "FM stations",
+    "tableCaption": "FM stations",
+    "tableData": [
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KPLU",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KPLU\" shape=\"rect\">KPLU</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3364240,
+                            "language": "en",
+                            "title": "KPLU",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KPLU",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 88.5 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 88.5 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Tacoma",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Tacoma </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Pacific Lutheran University",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Pacific_Lutheran_University\" shape=\"rect\">Pacific Lutheran University</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 27,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 226739,
+                            "language": "en",
+                            "title": "Pacific_Lutheran_University",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Pacific Lutheran University",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Public Radio / Jazz",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Public_Radio\" shape=\"rect\">Public Radio</a>/ <a href=\"http://www.wikipedia.org/wiki/Jazz\" shape=\"rect\">Jazz</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 12,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 178808,
+                            "language": "en",
+                            "title": "Public_Radio",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Public Radio",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    },
+                    {
+                        "offset": 15,
+                        "endOffset": 19,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 15613,
+                            "language": "en",
+                            "title": "Jazz",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Jazz",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KNHC",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KNHC\" shape=\"rect\">KNHC</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1104464,
+                            "language": "en",
+                            "title": "KNHC",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KNHC",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 89.5 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 89.5 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Seattle",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Seattle </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Seattle Public Schools",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Seattle_Public_Schools\" shape=\"rect\">Seattle Public Schools</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 22,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 872452,
+                            "language": "en",
+                            "title": "Seattle_Public_Schools",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Seattle Public Schools",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Dance",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Dance\" shape=\"rect\"> Dance</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 5,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 7885,
+                            "language": "en",
+                            "title": "Dance",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Dance",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KEXP",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KEXP\" shape=\"rect\">KEXP</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 728746,
+                            "language": "en",
+                            "title": "KEXP",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KEXP",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 90.3 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 90.3 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Seattle",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Seattle </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "University of Washington",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/University_of_Washington\" shape=\"rect\">University of Washington</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 24,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 31776,
+                            "language": "en",
+                            "title": "University_of_Washington",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "University of Washington",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Eclectic",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Eclecticism_in_music\" shape=\"rect\"> Eclectic</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 9408966,
+                            "language": "en",
+                            "title": "Eclecticism_in_music",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Eclectic",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KBCS",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KBCS\" shape=\"rect\">KBCS</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 9139729,
+                            "language": "en",
+                            "title": "KBCS",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KBCS",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 91.3 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 91.3 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Bellevue",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Bellevue </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Bellevue College",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Bellevue_Community_College\" shape=\"rect\">Bellevue College</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 16,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3060411,
+                            "language": "en",
+                            "title": "Bellevue_Community_College",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Bellevue College",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Variety Music/News",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Variety_(radio)\" shape=\"rect\">Variety</a> Music/News </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 7,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 12556716,
+                            "language": "en",
+                            "title": "Variety_(radio)",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Variety",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KQMV",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KQMV\" shape=\"rect\">KQMV</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 4988837,
+                            "language": "en",
+                            "title": "KQMV",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KQMV",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 92.5 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 92.5 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Bellevue",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Bellevue </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Sandusky",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Sandusky_Newspaper\" shape=\"rect\">Sandusky</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": -1,
+                            "language": "en",
+                            "title": "Sandusky_Newspaper",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Sandusky",
+                        "linkType": "INTERNAL_RED",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Top-40",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Contemporary_hit_radio\" shape=\"rect\">Top-40</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 6,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1428793,
+                            "language": "en",
+                            "title": "Contemporary_hit_radio",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Top-40",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KUBE",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KUBE_(FM)\" shape=\"rect\">KUBE</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 2152338,
+                            "language": "en",
+                            "title": "KUBE_(FM)",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KUBE",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 93.3 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 93.3 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Seattle",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Seattle </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Clear Channel",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Clear_Channel_Communications\" shape=\"rect\"> Clear Channel</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 13,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 180740,
+                            "language": "en",
+                            "title": "Clear_Channel_Communications",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Clear Channel",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "CHR-Rhythmic",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Contemporary_hit_radio\" shape=\"rect\">CHR-Rhythmic</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 12,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1428793,
+                            "language": "en",
+                            "title": "Contemporary_hit_radio",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "CHR-Rhythmic",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KMPS",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KMPS\" shape=\"rect\">KMPS</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 4881957,
+                            "language": "en",
+                            "title": "KMPS",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KMPS",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 94.1 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 94.1 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Seattle",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Seattle </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "CBS",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/CBS_Radio\" shape=\"rect\">CBS</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 3,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 444369,
+                            "language": "en",
+                            "title": "CBS_Radio",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "CBS",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Country",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Country\" shape=\"rect\"> Country</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 7,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 5165,
+                            "language": "en",
+                            "title": "Country",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Country",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KUOW",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KUOW-FM\" shape=\"rect\">KUOW</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 856605,
+                            "language": "en",
+                            "title": "KUOW-FM",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KUOW",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 94.9 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 94.9 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Seattle",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Seattle </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "University of Washington",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/University_of_Washington\" shape=\"rect\">University of Washington</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 24,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 31776,
+                            "language": "en",
+                            "title": "University_of_Washington",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "University of Washington",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "NPR / News / Talk",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/National_Public_Radio\" shape=\"rect\">NPR</a>/ <a href=\"http://www.wikipedia.org/wiki/News\" shape=\"rect\">News</a>/ <a href=\"http://www.wikipedia.org/wiki/Talk_radio\" shape=\"rect\">Talk</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 3,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 29697232,
+                            "language": "en",
+                            "title": "National_Public_Radio",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "NPR",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    },
+                    {
+                        "offset": 6,
+                        "endOffset": 10,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 20781999,
+                            "language": "en",
+                            "title": "News",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "News",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    },
+                    {
+                        "offset": 10,
+                        "endOffset": 14,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 30077,
+                            "language": "en",
+                            "title": "Talk_radio",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Talk",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KJR",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KJR-FM\" shape=\"rect\">KJR</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 3,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1388900,
+                            "language": "en",
+                            "title": "KJR-FM",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KJR",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 95.7 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 95.7 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Seattle",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Seattle </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Clear Channel",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Clear_Channel_Communications\" shape=\"rect\"> Clear Channel</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 13,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 180740,
+                            "language": "en",
+                            "title": "Clear_Channel_Communications",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Clear Channel",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Classic Hits",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Classic_Hits\" shape=\"rect\">Classic Hits</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 12,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1539336,
+                            "language": "en",
+                            "title": "Classic_Hits",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Classic Hits",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KJAQ",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KJAQ\" shape=\"rect\">KJAQ</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 4793445,
+                            "language": "en",
+                            "title": "KJAQ",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KJAQ",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 96.5 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 96.5 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Seattle",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Seattle </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "CBS",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/CBS_Radio\" shape=\"rect\">CBS</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 3,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 444369,
+                            "language": "en",
+                            "title": "CBS_Radio",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "CBS",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Adult Hits",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Adult_Hits\" shape=\"rect\"> Adult Hits</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 10,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3013559,
+                            "language": "en",
+                            "title": "Adult_Hits",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Adult Hits",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KIRO",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KIRO-FM\" shape=\"rect\">KIRO</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 6100128,
+                            "language": "en",
+                            "title": "KIRO-FM",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KIRO",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 97.3 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 97.3 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Tacoma",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Tacoma </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Bonneville Communications",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Bonneville_Communications\" shape=\"rect\">Bonneville Communications</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 25,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1217682,
+                            "language": "en",
+                            "title": "Bonneville_Communications",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Bonneville Communications",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "News / Talk",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/News\" shape=\"rect\"> News</a>/ <a href=\"http://www.wikipedia.org/wiki/Talk_radio\" shape=\"rect\">Talk</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 20781999,
+                            "language": "en",
+                            "title": "News",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "News",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    },
+                    {
+                        "offset": 7,
+                        "endOffset": 11,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 30077,
+                            "language": "en",
+                            "title": "Talk_radio",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Talk",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KING",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KING-FM\" shape=\"rect\">KING</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1621787,
+                            "language": "en",
+                            "title": "KING-FM",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KING",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 98.1 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 98.1 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Seattle",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Seattle </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Seattle Symphony",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Seattle_Symphony\" shape=\"rect\">Seattle Symphony</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 16,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 155538,
+                            "language": "en",
+                            "title": "Seattle_Symphony",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Seattle Symphony",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Classical",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Classical_music\" shape=\"rect\">Classical</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 9,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 6668778,
+                            "language": "en",
+                            "title": "Classical_music",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Classical",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KCLK",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KCLK-FM\" shape=\"rect\">KCLK</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 16258872,
+                            "language": "en",
+                            "title": "KCLK-FM",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KCLK",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 98.9 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 98.9 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Seattle",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Seattle </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Sandusky",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Sandusky_Newspaper\" shape=\"rect\">Sandusky</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": -1,
+                            "language": "en",
+                            "title": "Sandusky_Newspaper",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Sandusky",
+                        "linkType": "INTERNAL_RED",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Modern AC",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Modern_Adult_Contemporary\" shape=\"rect\">Modern AC</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 9,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 20083053,
+                            "language": "en",
+                            "title": "Modern_Adult_Contemporary",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Modern AC",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KISW",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KISW\" shape=\"rect\">KISW</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 2901324,
+                            "language": "en",
+                            "title": "KISW",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KISW",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 99.9 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 99.9 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Seattle",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Seattle </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Entercom",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Entercom\" shape=\"rect\">Entercom</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1860912,
+                            "language": "en",
+                            "title": "Entercom",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Entercom",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Active Rock",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Active_Rock\" shape=\"rect\">Active Rock</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 11,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 2797280,
+                            "language": "en",
+                            "title": "Active_Rock",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Active Rock",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KKWF",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KKWF\" shape=\"rect\">KKWF</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 5022616,
+                            "language": "en",
+                            "title": "KKWF",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KKWF",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 100.7 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 100.7 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Seattle",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Seattle </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Entercom",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Entercom\" shape=\"rect\">Entercom</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1860912,
+                            "language": "en",
+                            "title": "Entercom",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Entercom",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Country",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Country\" shape=\"rect\"> Country</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 7,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 5165,
+                            "language": "en",
+                            "title": "Country",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Country",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KPLZ",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KPLZ\" shape=\"rect\">KPLZ</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 4608387,
+                            "language": "en",
+                            "title": "KPLZ",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KPLZ",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 101.5 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 101.5 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Seattle",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Seattle </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Sinclair",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Sinclair_Broadcast_Group\" shape=\"rect\">Sinclair</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 627707,
+                            "language": "en",
+                            "title": "Sinclair_Broadcast_Group",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Sinclair",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "HOT-AC",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Hot_Adult_Contemporary\" shape=\"rect\"> HOT-AC</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 6,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 20083053,
+                            "language": "en",
+                            "title": "Hot_Adult_Contemporary",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "HOT-AC",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KZOK",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KZOK\" shape=\"rect\">KZOK</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 5022942,
+                            "language": "en",
+                            "title": "KZOK",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KZOK",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 102.5 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 102.5 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Seattle",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Seattle </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "CBS",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/CBS_Radio\" shape=\"rect\">CBS</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 3,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 444369,
+                            "language": "en",
+                            "title": "CBS_Radio",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "CBS",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Classic Rock",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Classic_rock\" shape=\"rect\">Classic Rock</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 12,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 294091,
+                            "language": "en",
+                            "title": "Classic_rock",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Classic Rock",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KHTP",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KHTP\" shape=\"rect\">KHTP</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3809495,
+                            "language": "en",
+                            "title": "KHTP",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KHTP",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 103.7 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 103.7 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Tacoma",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Tacoma </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Entercom",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Entercom\" shape=\"rect\">Entercom</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1860912,
+                            "language": "en",
+                            "title": "Entercom",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Entercom",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Rhythmic AC",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Rhythmic_AC\" shape=\"rect\">Rhythmic AC</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 11,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3678610,
+                            "language": "en",
+                            "title": "Rhythmic_AC",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Rhythmic AC",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KMCQ",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KMCQ\" shape=\"rect\">KMCQ</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 13211978,
+                            "language": "en",
+                            "title": "KMCQ",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KMCQ",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 104.5 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 104.5 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Covington",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Covington </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "First Broadcasting",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/First_Broadcasting\" shape=\"rect\">First Broadcasting</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 18,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": -1,
+                            "language": "en",
+                            "title": "First_Broadcasting",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "First Broadcasting",
+                        "linkType": "INTERNAL_RED",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Classic Hits",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Classic_Hits\" shape=\"rect\"> Classic Hits</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 12,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1539336,
+                            "language": "en",
+                            "title": "Classic_Hits",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Classic Hits",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KCMS",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KCMS\" shape=\"rect\">KCMS</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 4569870,
+                            "language": "en",
+                            "title": "KCMS",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KCMS",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 105.3 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 105.3 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Edmonds",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Edmonds </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Christa Media",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Christa_Media\" shape=\"rect\">Christa Media</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 13,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": -1,
+                            "language": "en",
+                            "title": "Christa_Media",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Christa Media",
+                        "linkType": "INTERNAL_RED",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Contemporary Christian",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Contemporary_Christian\" shape=\"rect\">Contemporary Christian</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 22,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 154403,
+                            "language": "en",
+                            "title": "Contemporary_Christian",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Contemporary Christian",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KBKS",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KBKS\" shape=\"rect\">KBKS</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 4362740,
+                            "language": "en",
+                            "title": "KBKS",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KBKS",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 106.1 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 106.1 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Tacoma",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Tacoma </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Clear Channel",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Clear_Channel_Communications\" shape=\"rect\">Clear Channel</a></td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 13,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 180740,
+                            "language": "en",
+                            "title": "Clear_Channel_Communications",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Clear Channel",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Top-40",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Contemporary_hit_radio\" shape=\"rect\">Top-40</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 6,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1428793,
+                            "language": "en",
+                            "title": "Contemporary_hit_radio",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Top-40",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KRWM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KRWM\" shape=\"rect\">KRWM</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 5023487,
+                            "language": "en",
+                            "title": "KRWM",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KRWM",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 106.9 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 106.9 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Bremerton",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Bremerton </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Sandusky",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Sandusky_Newspaper\" shape=\"rect\"> Sandusky</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": -1,
+                            "language": "en",
+                            "title": "Sandusky_Newspaper",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Sandusky",
+                        "linkType": "INTERNAL_RED",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Adult Contemporary",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Adult_Contemporary\" shape=\"rect\"> Adult Contemporary</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 18,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 20083053,
+                            "language": "en",
+                            "title": "Adult_Contemporary",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Adult Contemporary",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KNDD",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KNDD\" shape=\"rect\">KNDD</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3060184,
+                            "language": "en",
+                            "title": "KNDD",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KNDD",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "0 107.7 FM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 0 107.7 FM </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Seattle",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Seattle </td>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Entercom",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Entercom\" shape=\"rect\">Entercom</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1860912,
+                            "language": "en",
+                            "title": "Entercom",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Entercom",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Alternative",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Alternative_rock\" shape=\"rect\"> Alternative</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 11,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 167409,
+                            "language": "en",
+                            "title": "Alternative_rock",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Alternative",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ]
+    ],
+    "tableHeaders": [
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Call sign",
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Call sign </th>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Frequency",
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Frequency </th>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "City of License",
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> City of License </th>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Owner",
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Owner </th>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Format",
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Format </th>",
+                "surfaceLinks": [],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ]
+    ],
+    "tableId": 4,
+    "cols": [
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KPLU",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KPLU\" shape=\"rect\">KPLU</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3364240,
+                            "language": "en",
+                            "title": "KPLU",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KPLU",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KNHC",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KNHC\" shape=\"rect\">KNHC</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1104464,
+                            "language": "en",
+                            "title": "KNHC",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KNHC",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KEXP",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KEXP\" shape=\"rect\">KEXP</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 728746,
+                            "language": "en",
+                            "title": "KEXP",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KEXP",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KBCS",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KBCS\" shape=\"rect\">KBCS</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 9139729,
+                            "language": "en",
+                            "title": "KBCS",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KBCS",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KQMV",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KQMV\" shape=\"rect\">KQMV</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 4988837,
+                            "language": "en",
+                            "title": "KQMV",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KQMV",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KUBE",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KUBE_(FM)\" shape=\"rect\">KUBE</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 2152338,
+                            "language": "en",
+                            "title": "KUBE_(FM)",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KUBE",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KMPS",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KMPS\" shape=\"rect\">KMPS</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 4881957,
+                            "language": "en",
+                            "title": "KMPS",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KMPS",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KUOW",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KUOW-FM\" shape=\"rect\">KUOW</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 856605,
+                            "language": "en",
+                            "title": "KUOW-FM",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KUOW",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KJR",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KJR-FM\" shape=\"rect\">KJR</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 3,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1388900,
+                            "language": "en",
+                            "title": "KJR-FM",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KJR",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KJAQ",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KJAQ\" shape=\"rect\">KJAQ</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 4793445,
+                            "language": "en",
+                            "title": "KJAQ",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KJAQ",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KIRO",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KIRO-FM\" shape=\"rect\">KIRO</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 6100128,
+                            "language": "en",
+                            "title": "KIRO-FM",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KIRO",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KING",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KING-FM\" shape=\"rect\">KING</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1621787,
+                            "language": "en",
+                            "title": "KING-FM",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KING",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KCLK",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KCLK-FM\" shape=\"rect\">KCLK</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 16258872,
+                            "language": "en",
+                            "title": "KCLK-FM",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KCLK",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KISW",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KISW\" shape=\"rect\">KISW</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 2901324,
+                            "language": "en",
+                            "title": "KISW",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KISW",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KKWF",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KKWF\" shape=\"rect\">KKWF</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 5022616,
+                            "language": "en",
+                            "title": "KKWF",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KKWF",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KPLZ",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KPLZ\" shape=\"rect\">KPLZ</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 4608387,
+                            "language": "en",
+                            "title": "KPLZ",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KPLZ",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KZOK",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KZOK\" shape=\"rect\">KZOK</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 5022942,
+                            "language": "en",
+                            "title": "KZOK",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KZOK",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KHTP",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KHTP\" shape=\"rect\">KHTP</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3809495,
+                            "language": "en",
+                            "title": "KHTP",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KHTP",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KMCQ",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KMCQ\" shape=\"rect\">KMCQ</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 13211978,
+                            "language": "en",
+                            "title": "KMCQ",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KMCQ",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KCMS",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KCMS\" shape=\"rect\">KCMS</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 4569870,
+                            "language": "en",
+                            "title": "KCMS",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KCMS",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KBKS",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KBKS\" shape=\"rect\">KBKS</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 4362740,
+                            "language": "en",
+                            "title": "KBKS",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KBKS",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KRWM",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KRWM\" shape=\"rect\">KRWM</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 5023487,
+                            "language": "en",
+                            "title": "KRWM",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KRWM",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "KNDD",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/KNDD\" shape=\"rect\">KNDD</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3060184,
+                            "language": "en",
+                            "title": "KNDD",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "KNDD",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Pacific Lutheran University",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Pacific_Lutheran_University\" shape=\"rect\">Pacific Lutheran University</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 27,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 226739,
+                            "language": "en",
+                            "title": "Pacific_Lutheran_University",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Pacific Lutheran University",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Seattle Public Schools",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Seattle_Public_Schools\" shape=\"rect\">Seattle Public Schools</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 22,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 872452,
+                            "language": "en",
+                            "title": "Seattle_Public_Schools",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Seattle Public Schools",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "University of Washington",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/University_of_Washington\" shape=\"rect\">University of Washington</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 24,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 31776,
+                            "language": "en",
+                            "title": "University_of_Washington",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "University of Washington",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Bellevue College",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Bellevue_Community_College\" shape=\"rect\">Bellevue College</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 16,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3060411,
+                            "language": "en",
+                            "title": "Bellevue_Community_College",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Bellevue College",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Sandusky",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Sandusky_Newspaper\" shape=\"rect\">Sandusky</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": -1,
+                            "language": "en",
+                            "title": "Sandusky_Newspaper",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Sandusky",
+                        "linkType": "INTERNAL_RED",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Clear Channel",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Clear_Channel_Communications\" shape=\"rect\"> Clear Channel</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 13,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 180740,
+                            "language": "en",
+                            "title": "Clear_Channel_Communications",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Clear Channel",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "CBS",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/CBS_Radio\" shape=\"rect\">CBS</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 3,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 444369,
+                            "language": "en",
+                            "title": "CBS_Radio",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "CBS",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "University of Washington",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/University_of_Washington\" shape=\"rect\">University of Washington</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 24,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 31776,
+                            "language": "en",
+                            "title": "University_of_Washington",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "University of Washington",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Clear Channel",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Clear_Channel_Communications\" shape=\"rect\"> Clear Channel</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 13,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 180740,
+                            "language": "en",
+                            "title": "Clear_Channel_Communications",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Clear Channel",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "CBS",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/CBS_Radio\" shape=\"rect\">CBS</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 3,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 444369,
+                            "language": "en",
+                            "title": "CBS_Radio",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "CBS",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Bonneville Communications",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Bonneville_Communications\" shape=\"rect\">Bonneville Communications</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 25,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1217682,
+                            "language": "en",
+                            "title": "Bonneville_Communications",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Bonneville Communications",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Seattle Symphony",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Seattle_Symphony\" shape=\"rect\">Seattle Symphony</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 16,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 155538,
+                            "language": "en",
+                            "title": "Seattle_Symphony",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Seattle Symphony",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Sandusky",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Sandusky_Newspaper\" shape=\"rect\">Sandusky</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": -1,
+                            "language": "en",
+                            "title": "Sandusky_Newspaper",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Sandusky",
+                        "linkType": "INTERNAL_RED",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Entercom",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Entercom\" shape=\"rect\">Entercom</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1860912,
+                            "language": "en",
+                            "title": "Entercom",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Entercom",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Entercom",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Entercom\" shape=\"rect\">Entercom</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1860912,
+                            "language": "en",
+                            "title": "Entercom",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Entercom",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Sinclair",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Sinclair_Broadcast_Group\" shape=\"rect\">Sinclair</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 627707,
+                            "language": "en",
+                            "title": "Sinclair_Broadcast_Group",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Sinclair",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "CBS",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/CBS_Radio\" shape=\"rect\">CBS</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 3,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 444369,
+                            "language": "en",
+                            "title": "CBS_Radio",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "CBS",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Entercom",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Entercom\" shape=\"rect\">Entercom</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1860912,
+                            "language": "en",
+                            "title": "Entercom",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Entercom",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "First Broadcasting",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/First_Broadcasting\" shape=\"rect\">First Broadcasting</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 18,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": -1,
+                            "language": "en",
+                            "title": "First_Broadcasting",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "First Broadcasting",
+                        "linkType": "INTERNAL_RED",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Christa Media",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Christa_Media\" shape=\"rect\">Christa Media</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 13,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": -1,
+                            "language": "en",
+                            "title": "Christa_Media",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Christa Media",
+                        "linkType": "INTERNAL_RED",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Clear Channel",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Clear_Channel_Communications\" shape=\"rect\">Clear Channel</a></td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 13,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 180740,
+                            "language": "en",
+                            "title": "Clear_Channel_Communications",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Clear Channel",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Sandusky",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Sandusky_Newspaper\" shape=\"rect\"> Sandusky</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": -1,
+                            "language": "en",
+                            "title": "Sandusky_Newspaper",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Sandusky",
+                        "linkType": "INTERNAL_RED",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Entercom",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Entercom\" shape=\"rect\">Entercom</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1860912,
+                            "language": "en",
+                            "title": "Entercom",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Entercom",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ],
+        [
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Public Radio / Jazz",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Public_Radio\" shape=\"rect\">Public Radio</a>/ <a href=\"http://www.wikipedia.org/wiki/Jazz\" shape=\"rect\">Jazz</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 12,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 178808,
+                            "language": "en",
+                            "title": "Public_Radio",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Public Radio",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    },
+                    {
+                        "offset": 15,
+                        "endOffset": 19,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 15613,
+                            "language": "en",
+                            "title": "Jazz",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Jazz",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Dance",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Dance\" shape=\"rect\"> Dance</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 5,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 7885,
+                            "language": "en",
+                            "title": "Dance",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Dance",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Eclectic",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Eclecticism_in_music\" shape=\"rect\"> Eclectic</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 8,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 9408966,
+                            "language": "en",
+                            "title": "Eclecticism_in_music",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Eclectic",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Variety Music/News",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Variety_(radio)\" shape=\"rect\">Variety</a> Music/News </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 7,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 12556716,
+                            "language": "en",
+                            "title": "Variety_(radio)",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Variety",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Top-40",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Contemporary_hit_radio\" shape=\"rect\">Top-40</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 6,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1428793,
+                            "language": "en",
+                            "title": "Contemporary_hit_radio",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Top-40",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "CHR-Rhythmic",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Contemporary_hit_radio\" shape=\"rect\">CHR-Rhythmic</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 12,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1428793,
+                            "language": "en",
+                            "title": "Contemporary_hit_radio",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "CHR-Rhythmic",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Country",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Country\" shape=\"rect\"> Country</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 7,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 5165,
+                            "language": "en",
+                            "title": "Country",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Country",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "NPR / News / Talk",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/National_Public_Radio\" shape=\"rect\">NPR</a>/ <a href=\"http://www.wikipedia.org/wiki/News\" shape=\"rect\">News</a>/ <a href=\"http://www.wikipedia.org/wiki/Talk_radio\" shape=\"rect\">Talk</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 3,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 29697232,
+                            "language": "en",
+                            "title": "National_Public_Radio",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "NPR",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    },
+                    {
+                        "offset": 6,
+                        "endOffset": 10,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 20781999,
+                            "language": "en",
+                            "title": "News",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "News",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    },
+                    {
+                        "offset": 10,
+                        "endOffset": 14,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 30077,
+                            "language": "en",
+                            "title": "Talk_radio",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Talk",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Classic Hits",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Classic_Hits\" shape=\"rect\">Classic Hits</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 12,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1539336,
+                            "language": "en",
+                            "title": "Classic_Hits",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Classic Hits",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Adult Hits",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Adult_Hits\" shape=\"rect\"> Adult Hits</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 10,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3013559,
+                            "language": "en",
+                            "title": "Adult_Hits",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Adult Hits",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "News / Talk",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/News\" shape=\"rect\"> News</a>/ <a href=\"http://www.wikipedia.org/wiki/Talk_radio\" shape=\"rect\">Talk</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 4,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 20781999,
+                            "language": "en",
+                            "title": "News",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "News",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    },
+                    {
+                        "offset": 7,
+                        "endOffset": 11,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 30077,
+                            "language": "en",
+                            "title": "Talk_radio",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Talk",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Classical",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Classical_music\" shape=\"rect\">Classical</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 9,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 6668778,
+                            "language": "en",
+                            "title": "Classical_music",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Classical",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Modern AC",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Modern_Adult_Contemporary\" shape=\"rect\">Modern AC</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 9,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 20083053,
+                            "language": "en",
+                            "title": "Modern_Adult_Contemporary",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Modern AC",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Active Rock",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Active_Rock\" shape=\"rect\">Active Rock</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 11,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 2797280,
+                            "language": "en",
+                            "title": "Active_Rock",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Active Rock",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Country",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Country\" shape=\"rect\"> Country</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 7,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 5165,
+                            "language": "en",
+                            "title": "Country",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Country",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "HOT-AC",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Hot_Adult_Contemporary\" shape=\"rect\"> HOT-AC</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 6,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 20083053,
+                            "language": "en",
+                            "title": "Hot_Adult_Contemporary",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "HOT-AC",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Classic Rock",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Classic_rock\" shape=\"rect\">Classic Rock</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 12,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 294091,
+                            "language": "en",
+                            "title": "Classic_rock",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Classic Rock",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Rhythmic AC",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Rhythmic_AC\" shape=\"rect\">Rhythmic AC</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 11,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 3678610,
+                            "language": "en",
+                            "title": "Rhythmic_AC",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Rhythmic AC",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Classic Hits",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Classic_Hits\" shape=\"rect\"> Classic Hits</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 12,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1539336,
+                            "language": "en",
+                            "title": "Classic_Hits",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Classic Hits",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Contemporary Christian",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Contemporary_Christian\" shape=\"rect\">Contemporary Christian</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 22,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 154403,
+                            "language": "en",
+                            "title": "Contemporary_Christian",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Contemporary Christian",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Top-40",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Contemporary_hit_radio\" shape=\"rect\">Top-40</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 6,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 1428793,
+                            "language": "en",
+                            "title": "Contemporary_hit_radio",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Top-40",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Adult Contemporary",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Adult_Contemporary\" shape=\"rect\"> Adult Contemporary</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 18,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 20083053,
+                            "language": "en",
+                            "title": "Adult_Contemporary",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Adult Contemporary",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            },
+            {
+                "cellID": -1,
+                "textTokens": [],
+                "text": "Alternative",
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Alternative_rock\" shape=\"rect\"> Alternative</a> </td>",
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "endOffset": 11,
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "target": {
+                            "id": 167409,
+                            "language": "en",
+                            "title": "Alternative_rock",
+                            "redirecting": false,
+                            "namesapce": 0
+                        },
+                        "surface": "Alternative",
+                        "linkType": "INTERNAL",
+                        "inTemplate": false
+                    }
+                ],
+                "subtableID": -1,
+                "isNumeric": false
+            }
+        ]
+    ],
+    "new_numCols": 3
+}

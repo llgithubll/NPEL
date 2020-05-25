@@ -1,0 +1,454 @@
+{
+    "sectionTitle": "Centers of the NIH",
+    "pgId": 40688661,
+    "numDataRows": 6,
+    "_id": "40688661-2",
+    "pgTitle": "List of Institutes and Centers of the National Institutes of Health",
+    "numericColumns": [
+        3
+    ],
+    "tableCaption": "Centers of the NIH",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Name </th>",
+                "text": "Name",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Acronym </th>",
+                "text": "Acronym",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Description </th>",
+                "text": "Description",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Est. </th>",
+                "text": "Est.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 2,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Center_for_Scientific_Review\" shape=\"rect\">Center for Scientific Review</a> </td>",
+                "text": "Center for Scientific Review",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 11948970,
+                            "title": "Center_for_Scientific_Review",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Center for Scientific Review",
+                        "inTemplate": false,
+                        "endOffset": 28,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> CSR </td>",
+                "text": "CSR",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> The CSR is the focal point at NIH for the conduct of initial <a href=\"http://www.wikipedia.org/wiki/Peer_review\" shape=\"rect\">peer review</a> of <a href=\"http://www.wikipedia.org/wiki/NIH_grants\" shape=\"rect\">grant</a> and fellowship applications, implements ways to conduct referral and review. </td>",
+                "text": "The CSR is the focal point at NIH for the conduct of initial peer review of grant and fellowship applications, implements ways to conduct referral and review.",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 61,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 24116,
+                            "title": "Peer_review",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "peer review",
+                        "inTemplate": false,
+                        "endOffset": 72,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 76,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": -1,
+                            "title": "NIH_grants",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "grant",
+                        "inTemplate": false,
+                        "endOffset": 81,
+                        "linkType": "INTERNAL_RED"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1946 </td>",
+                "text": "1946",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/National_Institutes_of_Health_Clinical_Center\" shape=\"rect\">Clinical Center</a> </td>",
+                "text": "Clinical Center",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 32957827,
+                            "title": "National_Institutes_of_Health_Clinical_Center",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Clinical Center",
+                        "inTemplate": false,
+                        "endOffset": 15,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> CC </td>",
+                "text": "CC",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> The <a href=\"http://www.wikipedia.org/wiki/Clinical_research\" shape=\"rect\">clinical research</a> facility of the National Institutes of Health; provides patient care, services, and environment needed to initiate and support conduct of and training in clinical research. </td>",
+                "text": "The clinical research facility of the National Institutes of Health; provides patient care, services, and environment needed to initiate and support conduct of and training in clinical research.",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 4,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 4857593,
+                            "title": "Clinical_research",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "clinical research",
+                        "inTemplate": false,
+                        "endOffset": 21,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1953 </td>",
+                "text": "1953",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> National Center for Advancing Translational Sciences </td>",
+                "text": "National Center for Advancing Translational Sciences",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> NCATS </td>",
+                "text": "NCATS",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> NCATS aims to catalyze the generation of innovative methods and technologies that will enhance the development, testing and implementation of diagnostics and therapeutics across a wide range of human diseases and conditions. </td>",
+                "text": "NCATS aims to catalyze the generation of innovative methods and technologies that will enhance the development, testing and implementation of diagnostics and therapeutics across a wide range of human diseases and conditions.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 2012 </td>",
+                "text": "2012",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/Center_for_Information_Technology\" shape=\"rect\">Center for Information Technology</a> </td>",
+                "text": "Center for Information Technology",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 3005034,
+                            "title": "Center_for_Information_Technology",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Center for Information Technology",
+                        "inTemplate": false,
+                        "endOffset": 33,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> CIT; formerly DCRT, OIRM, TCB </td>",
+                "text": "CIT; formerly DCRT, OIRM, TCB",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> The CIT incorporates computers into the biomedical programs and administrative procedures of the NIH by conducting computational biosciences research, developing computer systems, and providing computer facilities. </td>",
+                "text": "The CIT incorporates computers into the biomedical programs and administrative procedures of the NIH by conducting computational biosciences research, developing computer systems, and providing computer facilities.",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1964 </td>",
+                "text": "1964",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/John_E._Fogarty_International_Center\" shape=\"rect\">John E. Fogarty International Center</a> </td>",
+                "text": "John E. Fogarty International Center",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 19025629,
+                            "title": "John_E._Fogarty_International_Center",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "John E. Fogarty International Center",
+                        "inTemplate": false,
+                        "endOffset": 36,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> FIC </td>",
+                "text": "FIC",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Promotes and supports scientific research and training internationally to reduce disparities in <a href=\"http://www.wikipedia.org/wiki/Global_health\" shape=\"rect\">global health</a>. </td>",
+                "text": "Promotes and supports scientific research and training internationally to reduce disparities in global health .",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 96,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 2118246,
+                            "title": "Global_health",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "global health",
+                        "inTemplate": false,
+                        "endOffset": 109,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1968 </td>",
+                "text": "1968",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <a href=\"http://www.wikipedia.org/wiki/National_Center_for_Complementary_and_Alternative_Medicine\" shape=\"rect\">National Center for Complementary and Alternative Medicine</a> </td>",
+                "text": "National Center for Complementary and Alternative Medicine",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 391043,
+                            "title": "National_Center_for_Complementary_and_Alternative_Medicine",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "National Center for Complementary and Alternative Medicine",
+                        "inTemplate": false,
+                        "endOffset": 58,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> NCCAM </td>",
+                "text": "NCCAM",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Exploring complementary and <a href=\"http://www.wikipedia.org/wiki/Alternative_medicine\" shape=\"rect\">alternative medical practices</a> in the context of rigorous science, training researchers, disseminating authoritative information. </td>",
+                "text": "Exploring complementary and alternative medical practices in the context of rigorous science, training researchers, disseminating authoritative information.",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 28,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1845,
+                            "title": "Alternative_medicine",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "alternative medical practices",
+                        "inTemplate": false,
+                        "endOffset": 57,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1992 </td>",
+                "text": "1992",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.4752540707122535,
+    "numHeaderRows": 1,
+    "numCols": 4
+}

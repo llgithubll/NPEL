@@ -1,0 +1,154 @@
+{
+    "sectionTitle": "Plurals",
+    "pgId": 17642913,
+    "numDataRows": 2,
+    "_id": "17642913-1",
+    "pgTitle": "Suffixes in Hebrew",
+    "numericColumns": [],
+    "tableCaption": "Plurals",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Suffix</th>",
+                "text": "Suffix",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Meaning</th>",
+                "text": "Meaning",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Examples </th>",
+                "text": "Examples",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 1,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span style=\"font-size:125%; font-family: Alef, 'SBL Hebrew', David\"> ים</span> ( <a href=\"http://www.wikipedia.org/wiki/Yodh\" shape=\"rect\">Yud</a> and <a href=\"http://www.wikipedia.org/wiki/Mem_(letter)\" shape=\"rect\">Mem</a>) </td>",
+                "text": "ים ( Yud and Mem )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 5,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1137058,
+                            "title": "Yodh",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Yud",
+                        "inTemplate": false,
+                        "endOffset": 8,
+                        "linkType": "INTERNAL"
+                    },
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1769206,
+                            "title": "Mem_(letter)",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Mem",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> masculine plural </td>",
+                "text": "masculine plural",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span style=\"font-size:125%; font-family: Alef, 'SBL Hebrew', David\"> יָמִים</span> yamim (days) </td>",
+                "text": "יָמִים yamim (days)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ],
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span style=\"font-size:125%; font-family: Alef, 'SBL Hebrew', David\"> ות</span> ( <a href=\"http://www.wikipedia.org/wiki/Waw/Vav_(letter)\" shape=\"rect\">Vav</a> and <a href=\"http://www.wikipedia.org/wiki/Taw\" shape=\"rect\">Tav</a>) </td>",
+                "text": "ות ( Vav and Tav )",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 13,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 1769607,
+                            "title": "Taw",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Tav",
+                        "inTemplate": false,
+                        "endOffset": 16,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> feminine plural </td>",
+                "text": "feminine plural",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> <span style=\"font-size:125%; font-family: Alef, 'SBL Hebrew', David\"> מִצְווֹת</span> mitzvot (commandments) </td>",
+                "text": "מִצְווֹת mitzvot (commandments)",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.06649314798414707,
+    "numHeaderRows": 1,
+    "numCols": 3
+}

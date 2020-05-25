@@ -1,0 +1,129 @@
+{
+    "sectionTitle": "Collaborations and performances as guest star",
+    "pgId": 34237070,
+    "numDataRows": 1,
+    "_id": "34237070-6",
+    "pgTitle": "Monsieur Tranquille",
+    "numericColumns": [
+        0
+    ],
+    "tableCaption": "Collaborations and performances as guest star",
+    "tableHeaders": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Year </th>",
+                "text": "Year",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Album </th>",
+                "text": "Album",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Collaborator </th>",
+                "text": "Collaborator",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<th colspan=\"1\" rowspan=\"1\"> Notes </th>",
+                "text": "Notes",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            }
+        ]
+    ],
+    "tableId": 6,
+    "tableData": [
+        [
+            {
+                "textTokens": [],
+                "isNumeric": true,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> 1976 </td>",
+                "text": "1976",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Super Patof </td>",
+                "text": "Super Patof",
+                "subtableID": -1,
+                "surfaceLinks": [],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\">  <span> <a href=\"http://www.wikipedia.org/wiki/Patof\" shape=\"rect\">Patof</a></span> </td>",
+                "text": "Patof",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 0,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 32946077,
+                            "title": "Patof",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Patof",
+                        "inTemplate": false,
+                        "endOffset": 5,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            },
+            {
+                "textTokens": [],
+                "isNumeric": false,
+                "tdHtmlString": "<td colspan=\"1\" rowspan=\"1\"> Contains \"Faut pas me chercher\" by <a href=\"http://www.wikipedia.org/wiki/Patof\" shape=\"rect\">Patof</a> with Monsieur Tranquille (Campus, PA 49312) </td>",
+                "text": "Contains \"Faut pas me chercher\" by Patof with Monsieur Tranquille (Campus, PA 49312)",
+                "subtableID": -1,
+                "surfaceLinks": [
+                    {
+                        "offset": 35,
+                        "target": {
+                            "language": "en",
+                            "redirecting": false,
+                            "id": 32946077,
+                            "title": "Patof",
+                            "namesapce": 0
+                        },
+                        "isInTemplate": false,
+                        "locType": "MAIN_TABLE",
+                        "surface": "Patof",
+                        "inTemplate": false,
+                        "endOffset": 40,
+                        "linkType": "INTERNAL"
+                    }
+                ],
+                "cellID": -1
+            }
+        ]
+    ],
+    "order": 0.06119056325405836,
+    "numHeaderRows": 1,
+    "numCols": 4
+}

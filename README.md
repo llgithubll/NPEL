@@ -21,6 +21,17 @@ Besides, we utilized [this work](https://github.com/dalab/deep-ed/blob/master/da
 
 ### run-step
 
+This project required enwiki as knowledge base, which can download from [this](https://dumps.wikimedia.org/enwiki/). All enwiki articles will be used to train entities and words embedding. All entity abstract need to be extracted for entity encoding. All anchor text will be used to calculate the prior of mention to entities.
+
+`data_generate.py/gen_abstract` is used to get the necessary abstract of tables' entities.
+
+`data_generate.py/gen_embedding` is used to get the necessary embedding of tables' entities and mentions/words.
+
+`data_generate.py/dump_mention_abstract_emb` merge entity abstract and embedding to one file.
+
+`data_generate.py/rebuild_?` is used for prepare format data to deep learning model and pair-linking algorithm.
+
+`pair_linking.py` implement algorithm of pair-linking, it required format table 
 
 
 
